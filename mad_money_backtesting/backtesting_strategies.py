@@ -8,7 +8,6 @@ import mad_money_backtesting as mmb
 
 class MadMoneyStrategy(backtesting.Strategy):
     def __init__(self, broker, data, params):
-
         # This is a list of dates when we should buy the stock
         self.buy_dates: List[datetime] = None
 
@@ -25,7 +24,7 @@ class MadMoneyStrategy(backtesting.Strategy):
 
     def next(self):
         super().next()
-
+        
         current_date = mmb.pd_date_to_datetime(self.data.Date[-1])
 
         if current_date in self.buy_dates:
