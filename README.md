@@ -18,9 +18,11 @@ You can read about the results in my blog post **TODO**
 In the notebook there are notes how the experiment(s) were conducted and facts, limitations about the approach.
 You can alo add your own approaches.
 
-<img src="art/example_returns.png" width="400" alt="example returns"></a>
+## Example outputs
 
-<img src="art/example_stock_returns.png" width="400" alt="stock returns"></a>
+<img src="art/example_returns.png" width="600" alt="example returns"></a>
+
+<img src="art/example_stock_returns.png" width="600" alt="stock returns"></a>
 
 
 ## How is this different from the real-life scenario?
@@ -33,6 +35,3 @@ As we don't have (free) complete after-hours trading data, the scenario when we 
 is approximated with the value of the stock at market close. This obviously alters the end result if a stock has high
 intra-day volatility. (Of course the "buy at next trading day open" is not effected by this, only if we count on the
 after hours data).
-
-
-*Gabor Vecsei, 2021*
