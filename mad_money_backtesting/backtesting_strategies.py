@@ -77,3 +77,12 @@ class NextDayOpenBuyNextDayCloseSell(BaseMadMoneyStrategy):
 
     def _calc_sell_date(self, buy_date) -> datetime:
         return buy_date.replace(hour=16, minute=0)
+
+
+class BuyAtFirstMentionAfterShowAndHold(BaseMadMoneyStrategy):
+    def _calc_buy_date(self, recommendation_date) -> datetime:
+        return mmb.pd_date_to_datetime(recommendation_date, hour=16, minute=0)
+
+    def _calc_sell_date(self, buy_date) -> datetime:
+        # timedelta is huge so we won't sell it, the backtesting will sell at the last day automatically
+        return buy_date.replace(hour=16, minute=0) + timedelta(days=1000)

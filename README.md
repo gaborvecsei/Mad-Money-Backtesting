@@ -12,8 +12,10 @@ You can read about the results in my blog post **TODO**
 - **Data scraping**: Use the `scrape_mad_money.py` to get the buy and sell recommendations Cramer made over the years
     - Result is a `.csv` file which you can use
 - **Backtesting the buy calls**: Use the notebook `mad_money_backtesting.ipynb`
+    - To add your backtesting strategy, go to the `backtesting_strategies.py` file and implement yours based on the
+    existing ones
 
-*Warning: code quality is just "meh", I did not pay much attention here, this is just a quick experiment*
+*Warning: code quality is just "mehh", I did not pay much attention here, this is just a quick experiment*
 
 # Backtesting
 
