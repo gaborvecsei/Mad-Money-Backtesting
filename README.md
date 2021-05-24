@@ -13,6 +13,8 @@ You can read about the results in my blog post **TODO**
     - Result is a `.csv` file which you can use
 - **Backtesting the buy calls**: Use the notebook `mad_money_backtesting.ipynb`
 
+*Warning: code quality is just "meh", I did not pay much attention here, this is just a quick experiment*
+
 # Backtesting
 
 In the notebook there are notes how the experiment(s) were conducted and facts, limitations about the approach.
