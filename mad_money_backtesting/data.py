@@ -90,7 +90,7 @@ def scrape_cramer_calls(from_date: Union[str, datetime.datetime],
                 data = f.result()
                 all_data.extend(data)
             except Exception as e:
-                # print(f"Date failed: {date} - {e}")
+                print(f"Date failed: {date} - {e}")
                 pass
 
             pbar.update(1)
