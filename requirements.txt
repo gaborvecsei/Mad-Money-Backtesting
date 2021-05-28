@@ -1,7 +1,11 @@
 requests
+numpy
 pandas
 lxml
 beautifulsoup4
 tqdm
 backtesting
+yfinance
+matplotlib
+seaborn
 
