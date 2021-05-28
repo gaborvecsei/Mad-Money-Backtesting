@@ -22,6 +22,7 @@ if __name__ == "__main__":
     output_path = Path(args.output)
 
     df = mmb.scrape_cramer_calls(args.from_date, args.to_date, args.max_price, request_timeout=10)
+    print(df.head())
     df.to_csv(f"{output_path.stem}_RAW.csv", index=False)
 
     df = mmb.transform_cramer_call_raw_dataframe(df=df)
