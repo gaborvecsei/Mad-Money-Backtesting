@@ -1,5 +1,6 @@
 requests
 pandas
+lxml
 beautifulsoup4
 tqdm
 backtesting
