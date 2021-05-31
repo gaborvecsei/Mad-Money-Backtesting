@@ -108,8 +108,6 @@ def transform_cramer_call_raw_dataframe(*, df: pd.DataFrame = None, file_path: U
         raise ValueError("Either df ot file_path to a csv file should be given")
 
     df["date"] = pd.to_datetime(df["date"])
-    df = df.sort_values("date")
-    df = df.reset_index(drop=True)
 
     # Transform call values
     df["call"] = df["call"].astype(int)
@@ -124,6 +122,10 @@ def transform_cramer_call_raw_dataframe(*, df: pd.DataFrame = None, file_path: U
     # Extract symbol
     pattern = r"\(([^\)]+)\)"
     df["symbol"] = df["name"].transform(lambda x: re.findall(pattern, x)[-1].upper())
+
+    # Let's sort the dataframe on 2 levels: date and symbol
+    df = df.sort_values(["date", "name"])
+    df = df.reset_index(drop=True)
 
     return df
 
