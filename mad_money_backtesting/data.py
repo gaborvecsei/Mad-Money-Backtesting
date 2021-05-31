@@ -15,7 +15,7 @@ HEADERS = {"Content-Type": "application/x-www-form-urlencoded"}
 
 def _create_form_input(date_str: str, max_price: int = 1000):
     assert len(date_str.split("-")) == 3, "Date should be formatted as YYYY-MM-DD"
-    assert max_price
+    assert 0 > max_price > 1000, "Max price should be in range [0, 1000]"
     return f"symbol=&airdate={date_str}&called=%25&industry=%25&sector=%25&segment=%25&pricelow=0&pricehigh={max_price}&sortby=symbol"
 
 
@@ -127,13 +127,4 @@ def transform_cramer_call_raw_dataframe(*, df: pd.DataFrame = None, file_path: U
     df = df.sort_values(["date", "name"])
     df = df.reset_index(drop=True)
 
-    return df
-
-
-def load_csv_for_backtesting(file_path: Union[Path, str], after_date: [str, datetime.datetime] = None):
-    file_path = Path(file_path)
-    df = pd.read_csv(file_path, parse_dates=["date"])
-    if after_date:
-        df = df[df["full_date"] > pd.to_datetime(after_date)]
-    df = df[df["call"] == "buy"]
     return df
