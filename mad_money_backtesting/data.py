@@ -22,6 +22,11 @@ def _create_form_input(date_str: str, max_price: int = 1000):
 class WrongNumberOfItemsInRow(ValueError):
     pass
 
+
+class NoDataForDateException(RuntimeError):
+    pass
+
+
 def _get_data_from_row_in_table(cols: list) -> dict:
     if len(cols) != 6:
         raise WrongNumberOfItemsInRow(f"There should be 6 items in a row, all I got was: {len(cols)} - {cols}")
@@ -66,6 +71,12 @@ def _download_data_for_date(date: Union[str, datetime.datetime], max_price: int,
         row_data["date"] = date
         daily_data.append(row_data)
 
+    if len(daily_data) == 0:
+        # If there is no data for a day, it's fine (no show on weekends) but we should
+        # still notify the user that there was no data for the requested date
+        # There is no exception raised before as when there is no data, there is still a table on the site
+        raise NoDataForDateException(f"There was no data for: {date}")
+
     return daily_data
 
 
@@ -82,8 +93,6 @@ def scrape_cramer_calls(from_date: Union[str, datetime.datetime],
     pbar = tqdm(total=len(dates_to_scrape), desc="Scraping dates from Mad Money...")
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=None) as executor:
-        # TODO: what happens if, for a day there is now show - we will get exception and list won't be empty
-        # I would be mad if I would review this code...Will fix it...
         while len(dates_to_scrape) > 0:
             completed_dates = []
             futures = {}
@@ -97,6 +106,10 @@ def scrape_cramer_calls(from_date: Union[str, datetime.datetime],
                 try:
                     data = f.result()
                     all_data.extend(data)
+                    completed_dates.append(date)
+                    pbar.update(1)
+                except NoDataForDateException:
+                    print(f"There is no data for the date: {date}. Maybe it's not a business day")
                     completed_dates.append(date)
                     pbar.update(1)
                 except Exception as e:
