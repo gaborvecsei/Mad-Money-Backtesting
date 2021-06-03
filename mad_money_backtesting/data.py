@@ -109,7 +109,7 @@ def scrape_cramer_calls(from_date: Union[str, datetime.datetime],
                     completed_dates.append(date)
                     pbar.update(1)
                 except NoDataForDateException:
-                    print(f"There is no data for the date: {date}. Maybe it's not a business day")
+                    print(f"There is no data for the date: {date}. Maybe there was no show, or the data is not recorded yet on their website")
                     completed_dates.append(date)
                     pbar.update(1)
                 except Exception as e:
