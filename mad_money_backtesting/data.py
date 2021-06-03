@@ -19,9 +19,17 @@ def _create_form_input(date_str: str, max_price: int = 1000):
     return f"symbol=&airdate={date_str}&called=%25&industry=%25&sector=%25&segment=%25&pricelow=0&pricehigh={max_price}&sortby=symbol"
 
 
+class WrongNumberOfItemsInRow(ValueError):
+    pass
+
+
+class NoDataForDateException(RuntimeError):
+    pass
+
+
 def _get_data_from_row_in_table(cols: list) -> dict:
     if len(cols) != 6:
-        raise ValueError(f"There should be 6 items in a row, all I got was: {len(cols)} - {cols}")
+        raise WrongNumberOfItemsInRow(f"There should be 6 items in a row, all I got was: {len(cols)} - {cols}")
 
     name = cols[0].text
     date = cols[1].text
@@ -53,14 +61,21 @@ def _download_data_for_date(date: Union[str, datetime.datetime], max_price: int,
 
     for row in stock_table_rows:
         cols_in_table = row.find_all("td")
+
         try:
             row_data = _get_data_from_row_in_table(cols_in_table)
         except ValueError:
             # This happens when there is not data in one of the rows in the table
-            # Usually this is the first/last row
+            # Usually this is the first/last row so totally normal no need to panic
             continue
         row_data["date"] = date
         daily_data.append(row_data)
+
+    if len(daily_data) == 0:
+        # If there is no data for a day, it's fine (no show on weekends) but we should
+        # still notify the user that there was no data for the requested date
+        # There is no exception raised before as when there is no data, there is still a table on the site
+        raise NoDataForDateException(f"There was no data for: {date}")
 
     return daily_data
 
@@ -73,27 +88,35 @@ def scrape_cramer_calls(from_date: Union[str, datetime.datetime],
 
     if to_date is None:
         to_date = datetime.datetime.now().replace(hour=0, minute=0, second=0)
-    dates_to_scrape = pd.bdate_range(from_date, to_date)
+    dates_to_scrape = list(pd.bdate_range(from_date, to_date))
 
     pbar = tqdm(total=len(dates_to_scrape), desc="Scraping dates from Mad Money...")
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=None) as executor:
-        futures = {}
+        while len(dates_to_scrape) > 0:
+            completed_dates = []
+            futures = {}
 
-        for date in dates_to_scrape:
-            f = executor.submit(_download_data_for_date, date=date, max_price=max_price, timeout=request_timeout)
-            futures[f] = date
+            for date in dates_to_scrape:
+                f = executor.submit(_download_data_for_date, date=date, max_price=max_price, timeout=request_timeout)
+                futures[f] = date
 
-        for f in concurrent.futures.as_completed(futures):
-            date = futures[f]
-            try:
-                data = f.result()
-                all_data.extend(data)
-            except Exception as e:
-                print(f"Date failed: {date} - {e}")
-                pass
+            for f in concurrent.futures.as_completed(futures):
+                date = futures[f]
+                try:
+                    data = f.result()
+                    all_data.extend(data)
+                    completed_dates.append(date)
+                    pbar.update(1)
+                except NoDataForDateException:
+                    print(f"There is no data for the date: {date}. Maybe there was no show, or the data is not recorded yet on their website")
+                    completed_dates.append(date)
+                    pbar.update(1)
+                except Exception as e:
+                    print(f"Date failed: {date} - {e}, will try again")
 
-            pbar.update(1)
+            _ = [dates_to_scrape.remove(d) for d in completed_dates]
+
     pbar.close()
 
     df = pd.DataFrame(all_data)
