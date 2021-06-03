@@ -71,11 +71,15 @@ class BaseMadMoneyStrategy(backtesting.Strategy):
                 fixed_date_list.remove(item_to_drop)
             elif mode == "next_date":
                 greater_dates_than_bad_one = self.data.df["Date"][self.data.df["Date"] > date_list[i]]
-                closest_date = greater_dates_than_bad_one.values[0]
-                closest_date = mmb.pd_date_to_datetime(closest_date)
-                closest_date = self._localize_dates([closest_date])[0]
-                fixed_date_list[i] = closest_date
-                # print(f"Problem: {date_list[i]}, fixed to {closest_date}")
+                if len(greater_dates_than_bad_one) == 0:
+                    # When we don't have greater close dates, then we can drop the date
+                    fixed_date_list.remove(date_list[i])
+                else:
+                    closest_date = greater_dates_than_bad_one.values[0]
+                    closest_date = mmb.pd_date_to_datetime(closest_date)
+                    closest_date = self._localize_dates([closest_date])[0]
+                    fixed_date_list[i] = closest_date
+                    # print(f"Problem: {date_list[i]}, fixed to {closest_date}")
         return fixed_date_list
 
     def next(self):
