@@ -12,6 +12,9 @@ import mad_money_backtesting as mmb
 
 
 class _BaseMadMoneyStrategy(backtesting.Strategy):
+    """
+    Base class for the backtesting strategies, handles the boilerplate part
+    """
 
     def __init__(self, broker, data, params):
         # Cramer's buy recommendation dates for the stock
@@ -44,21 +47,28 @@ class _BaseMadMoneyStrategy(backtesting.Strategy):
         super().init()
 
     def _localize_dates(self, dates: list):
+        """
+        Assign TZs to the dates, this is important as it's needed for the caluclation with the dates
+        """
+
         tz_ny = pytz.timezone('America/New_York')
         return [tz_ny.localize(x) for x in dates]
 
     def _calculate_buy_sell_dates(self, recommendation_dates: list) -> Tuple[list, list]:
-        buy_dates = []
-        sell_dates = []
-        return buy_dates, sell_dates
-
-    def _calc_buy_date(self, recommendation_date) -> datetime:
-        raise NotImplementedError()
-
-    def _calc_sell_date(self, buy_date) -> datetime:
         raise NotImplementedError()
 
     def _fix_non_existent_dates(self, date_list: list, mode: str) -> list:
+        """
+        Some dates are non existent in our downloaded stock data (e.g. missing days), this function can "fix" them
+
+        E.g.: We calculated the buy, sell dates, but one of the sell dates are not existing. This would mean that
+        during backtesting we would not sell our shares, which is not optimal. There are multiple methods with which you
+        can fix this
+
+        - drop: date is completely dropped from the list
+        - next_date: we get the closes date in the stock data and switch it with the non existing one
+        """
+
         assert mode in {"drop", "next_date"}, f"Mode {mode} not available"
 
         # Drop: The date will be removed
@@ -158,6 +168,9 @@ class NextDayOpenBuyNextDayCloseSell(_QuickBuySellStrategies):
 
 
 class BuyAndHold(_BaseMadMoneyStrategy):
+    """
+    This strategy implements the Buy & Hold strategy, but you can define the time horizon for holding
+    """
 
     def __init__(self, broker, data, params):
         # Number of days to close the long position
@@ -184,8 +197,12 @@ class BuyAndHold(_BaseMadMoneyStrategy):
         return buy_dates, sell_dates
 
     def _drop_dates_based_on_elapsed_time(self, dates, elapsed_time: timedelta) -> list:
-        # The end result only makes sense if dates are sorted ascending (if i is the present, then i+1 is the future)
-        # Example: input: dates=[1, 3, 4, 12, 15, 36, 34], elapsed=10 --> new_dates=[1, 12, 36]
+        """
+        Based on the sell horizon we are using we filter out dates.
+
+        The end result only makes sense if dates are sorted ascending (if i is the present, then i+1 is the future)
+        Example: input: dates=[1, 3, 4, 12, 15, 36, 34], elapsed=10 --> new_dates=[1, 12, 36]
+        """
 
         current_index = 0
         indices_to_remove = []
