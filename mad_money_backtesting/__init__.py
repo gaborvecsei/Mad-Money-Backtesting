@@ -1,5 +1,5 @@
 from mad_money_backtesting.backtesting_strategies import AfterShowBuyNextDayCloseSell, AfterShowBuyNextDayOpenSell, \
-    NextDayOpenBuyNextDayCloseSell, BuyAtFirstMentionAfterShowAndHold
+    NextDayOpenBuyNextDayCloseSell, BuyAndHold
 from mad_money_backtesting.data import scrape_cramer_calls, transform_cramer_call_raw_dataframe
 from mad_money_backtesting.results import summarize_backtesting_results
 from mad_money_backtesting.untils import pd_date_to_datetime, paginated_html_table

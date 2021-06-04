@@ -1,6 +1,6 @@
 from copy import deepcopy
 from datetime import datetime, timedelta
-from typing import List
+from typing import List, Tuple
 
 import backtesting
 import pandas as pd
@@ -11,7 +11,10 @@ import mad_money_backtesting as mmb
 # TODO: the TZ handling is pretty bad here - that needs a refactoring, it's 100%
 
 
-class BaseMadMoneyStrategy(backtesting.Strategy):
+class _BaseMadMoneyStrategy(backtesting.Strategy):
+    """
+    Base class for the backtesting strategies, handles the boilerplate part
+    """
 
     def __init__(self, broker, data, params):
         # Cramer's buy recommendation dates for the stock
@@ -28,28 +31,44 @@ class BaseMadMoneyStrategy(backtesting.Strategy):
         if len(self.recommendation_dates) == 0:
             raise RuntimeError("No recommendation dates are defined")
 
-        self.buy_dates: List[datetime] = [self._calc_buy_date(x) for x in self.recommendation_dates]
-        self.buy_dates = self._localize_dates(self.buy_dates)
-        self.buy_dates = self._fix_non_existent_dates(self.buy_dates, mode="next_date")
+        # self.available_trade_dates: pd.Series = self.data.df["Date"]
+        # self.available_trade_days: pd.Series = self.data.df.groupby(pd.Grouper(key="Date",
+        #                                                                        freq="D")).first().reset_index()["Date"]
 
-        self.sell_dates: List[datetime] = [self._calc_sell_date(x) for x in self.buy_dates]
-        self.sell_dates = self._localize_dates(self.sell_dates)
-        self.sell_dates = self._fix_non_existent_dates(self.sell_dates, mode="next_date")
+        buy_dates, sell_dates = self._calculate_buy_sell_dates(self.recommendation_dates)
+
+        buy_dates = self._localize_dates(buy_dates)
+        self.buy_dates = self._fix_non_existent_dates(buy_dates, mode="next_date")
+
+        sell_dates = self._localize_dates(sell_dates)
+        self.sell_dates = self._fix_non_existent_dates(sell_dates, mode="next_date")
 
     def init(self):
         super().init()
 
     def _localize_dates(self, dates: list):
+        """
+        Assign TZs to the dates, this is important as it's needed for the caluclation with the dates
+        """
+
         tz_ny = pytz.timezone('America/New_York')
         return [tz_ny.localize(x) for x in dates]
 
-    def _calc_buy_date(self, recommendation_date) -> datetime:
-        raise NotImplementedError()
-
-    def _calc_sell_date(self, buy_date) -> datetime:
+    def _calculate_buy_sell_dates(self, recommendation_dates: list) -> Tuple[list, list]:
         raise NotImplementedError()
 
     def _fix_non_existent_dates(self, date_list: list, mode: str) -> list:
+        """
+        Some dates are non existent in our downloaded stock data (e.g. missing days), this function can "fix" them
+
+        E.g.: We calculated the buy, sell dates, but one of the sell dates are not existing. This would mean that
+        during backtesting we would not sell our shares, which is not optimal. There are multiple methods with which you
+        can fix this
+
+        - drop: date is completely dropped from the list
+        - next_date: we get the closes date in the stock data and switch it with the non existing one
+        """
+
         assert mode in {"drop", "next_date"}, f"Mode {mode} not available"
 
         # Drop: The date will be removed
@@ -104,7 +123,24 @@ class BaseMadMoneyStrategy(backtesting.Strategy):
                 self.position.close(1.0)
 
 
-class AfterShowBuyNextDayCloseSell(BaseMadMoneyStrategy):
+class _QuickBuySellStrategies(_BaseMadMoneyStrategy):
+
+    def __init__(self, broker, data, params):
+        super().__init__(broker, data, params)
+
+    def _calc_buy_date(self, recommendation_date) -> datetime:
+        raise NotImplementedError()
+
+    def _calc_sell_date(self, buy_date) -> datetime:
+        raise NotImplementedError()
+
+    def _calculate_buy_sell_dates(self, recommendation_dates: list) -> Tuple[list, list]:
+        buy_dates = [self._calc_buy_date(d) for d in recommendation_dates]
+        sell_dates = [self._calc_sell_date(d) for d in buy_dates]
+        return buy_dates, sell_dates
+
+
+class AfterShowBuyNextDayCloseSell(_QuickBuySellStrategies):
 
     def _calc_buy_date(self, recommendation_date) -> datetime:
         return mmb.pd_date_to_datetime(recommendation_date, hour=15, minute=30)
@@ -113,7 +149,7 @@ class AfterShowBuyNextDayCloseSell(BaseMadMoneyStrategy):
         return buy_date.replace(hour=15, minute=30) + timedelta(days=1)
 
 
-class AfterShowBuyNextDayOpenSell(BaseMadMoneyStrategy):
+class AfterShowBuyNextDayOpenSell(_QuickBuySellStrategies):
 
     def _calc_buy_date(self, recommendation_date) -> datetime:
         return mmb.pd_date_to_datetime(recommendation_date, hour=15, minute=30)
@@ -122,7 +158,7 @@ class AfterShowBuyNextDayOpenSell(BaseMadMoneyStrategy):
         return buy_date.replace(hour=9, minute=30) + timedelta(days=1)
 
 
-class NextDayOpenBuyNextDayCloseSell(BaseMadMoneyStrategy):
+class NextDayOpenBuyNextDayCloseSell(_QuickBuySellStrategies):
 
     def _calc_buy_date(self, recommendation_date) -> datetime:
         return mmb.pd_date_to_datetime(recommendation_date, hour=9, minute=30) + timedelta(days=1)
@@ -131,16 +167,62 @@ class NextDayOpenBuyNextDayCloseSell(BaseMadMoneyStrategy):
         return buy_date.replace(hour=15, minute=30)
 
 
-class BuyAtFirstMentionAfterShowAndHold(BaseMadMoneyStrategy):
+class BuyAndHold(_BaseMadMoneyStrategy):
+    """
+    This strategy implements the Buy & Hold strategy, but you can define the time horizon for holding
+    """
 
     def __init__(self, broker, data, params):
+        # Number of days to close the long position
+        # (if it's more than the available data, e.g. 100000, then it's a "pure" buy and hold)
         self.sell_horizon: int = None
         super().__init__(broker, data, params)
 
-    def _calc_buy_date(self, recommendation_date) -> datetime:
-        return mmb.pd_date_to_datetime(recommendation_date, hour=15, minute=30)
+    def _calculate_buy_sell_dates(self, recommendation_dates: list) -> Tuple[list, list]:
+        buy_dates, sell_dates = [], []
+        # offset = pd.tseries.offsets.BDay(self.sell_horizon)
+        offset = timedelta(days=self.sell_horizon)
 
-    def _calc_sell_date(self, buy_date) -> datetime:
-        # timedelta is huge so we won't sell it, the backtesting will sell at the last day automatically
-        sell_date = buy_date.replace(hour=15, minute=30) + pd.tseries.offsets.BDay(self.sell_horizon)
-        return mmb.pd_date_to_datetime(sell_date)
+        for recomm in recommendation_dates:
+            buy = mmb.pd_date_to_datetime(recomm, hour=15, minute=30)
+            buy_dates.append(buy)
+
+        # We do not want to buy more until we sell in the defined time horizon
+        buy_dates = self._drop_dates_based_on_elapsed_time(buy_dates, timedelta(days=self.sell_horizon))
+
+        for buy in buy_dates:
+            sell = buy.replace(hour=15, minute=30) + offset
+            sell_dates.append(sell)
+
+        return buy_dates, sell_dates
+
+    def _drop_dates_based_on_elapsed_time(self, dates, elapsed_time: timedelta) -> list:
+        """
+        Based on the sell horizon we are using we filter out dates.
+
+        The end result only makes sense if dates are sorted ascending (if i is the present, then i+1 is the future)
+        Example: input: dates=[1, 3, 4, 12, 15, 36, 34], elapsed=10 --> new_dates=[1, 12, 36]
+        """
+
+        current_index = 0
+        indices_to_remove = []
+
+        while True:
+            for k in range(current_index + 1, len(dates)):
+                if (dates[k] - dates[current_index]) < elapsed_time:
+                    indices_to_remove.append(k)
+
+            current_index += 1
+
+            if len(indices_to_remove) > 0:
+                if current_index < (max(indices_to_remove) + 1):
+                    current_index = max(indices_to_remove) + 1
+
+            if current_index >= len(dates):
+                break
+
+        new_date_list = deepcopy(dates)
+        for i in indices_to_remove:
+            new_date_list.remove(dates[i])
+
+        return new_date_list
