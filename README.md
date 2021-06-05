@@ -26,12 +26,17 @@ You can read about the results in my blog post **TODO**
 In the notebook there are notes how the experiment(s) were conducted and facts, limitations about the approach.
 You can alo add your own approaches.
 
-## Example outputs
+**Available Strategies:**
+- `BuyAndHold` (and repeat)
+- `AfterShowBuyNextDayCloseSell`
+- `AfterShowBuyNextDayOpenSell`
+- `NextDayOpenBuyNextDayCloseSell`
 
-<img src="art/example_returns.png" width="600" alt="example returns"></a>
+## Buy and Hold (and repeat) Results
 
-<img src="art/example_stock_returns.png" width="600" alt="stock returns"></a>
+<img src="art/buy_and_hold_returns_mean_median.png" width="600" alt="returns"></a>
 
+<img src="art/buy_and_hold_returns_pos_neg.png" width="600" alt="returns"></a>
 
 ## How is this different from the real-life scenario?
 
