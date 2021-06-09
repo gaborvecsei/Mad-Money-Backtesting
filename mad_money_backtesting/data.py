@@ -13,21 +13,47 @@ URL = "https://madmoney.thestreet.com/screener/index.cfm?showview=stocks&showrow
 HEADERS = {"Content-Type": "application/x-www-form-urlencoded"}
 
 
+def test_if_page_working() -> bool:
+    """
+    Test if the page is working at all
+    """
+
+    resp = requests.get(URL)
+    if resp.status_code == 200:
+        return True
+    return False
+
 def _create_form_input(date_str: str, max_price: int = 1000):
+    """
+    Creates the form input for the page
+    """
+
     assert len(date_str.split("-")) == 3, "Date should be formatted as YYYY-MM-DD"
     assert 0 < max_price <= 1000, "Max price should be in range [0, 1000]"
     return f"symbol=&airdate={date_str}&called=%25&industry=%25&sector=%25&segment=%25&pricelow=0&pricehigh={max_price}&sortby=symbol"
 
 
+class PageNotWorkingError(RuntimeError):
+    # This is raised if a GET request to tbe base URL returns another HTTP code than 200
+    pass
+
+
 class WrongNumberOfItemsInRow(ValueError):
+    # This error is raised while parsing the table for a given date and the number of items in a row is not matching
+    # the predefined value (e.g. 6 values are required)
     pass
 
 
 class NoDataForDateException(RuntimeError):
+    # This error is raised if there is no data for a given date (e.g. there was no show on that day)
     pass
 
 
 def _get_data_from_row_in_table(cols: list) -> dict:
+    """
+    Extracts data from a single row from the table on the page
+    """
+
     if len(cols) != 6:
         raise WrongNumberOfItemsInRow(f"There should be 6 items in a row, all I got was: {len(cols)} - {cols}")
 
@@ -45,6 +71,10 @@ def _get_data_from_row_in_table(cols: list) -> dict:
 
 
 def _download_data_for_date(date: Union[str, datetime.datetime], max_price: int, timeout: int):
+    """
+    Scrapes the data for a single date_format
+    """
+
     date_format = "%Y-%m-%d"
     if not isinstance(date, str):
         date = date.strftime(date_format)
@@ -84,6 +114,13 @@ def scrape_cramer_calls(from_date: Union[str, datetime.datetime],
                         to_date: Union[str, datetime.datetime] = None,
                         max_price: int = 1000,
                         request_timeout: int = 10) -> pd.DataFrame:
+    """
+    Given a date range it scrapes the data day-by-day (in parallel calls) and stores it in a DataFrame
+    """
+
+    if not test_if_page_working():
+        raise PageNotWorkingError()
+
     all_data = []
 
     if to_date is None:
@@ -124,6 +161,11 @@ def scrape_cramer_calls(from_date: Union[str, datetime.datetime],
 
 
 def transform_cramer_call_raw_dataframe(*, df: pd.DataFrame = None, file_path: Union[Path, str] = None) -> pd.DataFrame:
+    """
+    Transforms the created dataframe by the `scrape_cramer_calls()` to a more useful format
+    The produced dataframe is used at backtesting
+    """
+
     if file_path:
         df = pd.read_csv(file_path)
 

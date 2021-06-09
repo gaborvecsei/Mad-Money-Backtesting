@@ -21,7 +21,11 @@ if __name__ == "__main__":
 
     output_path = Path(args.output)
 
-    df = mmb.scrape_cramer_calls(args.from_date, args.to_date, args.max_price, request_timeout=10)
+    try:
+        df = mmb.scrape_cramer_calls(args.from_date, args.to_date, args.max_price, request_timeout=10)
+    except mmb.PageNotWorkingError:
+        print("Page is not working, so we are not scraping the site")
+        raise SystemExit
     df.to_csv(f"{output_path.stem}_RAW.csv", index=False)
 
     df = mmb.transform_cramer_call_raw_dataframe(df=df)
