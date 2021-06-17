@@ -9,7 +9,7 @@ data to build a portfolio
 **The Cramer-effect/Cramer-bounce**: After the show *Mad Money* the recommended stocks are bought by viewers almost
 immediately (afterhours trading) or on the next day at market open, increasing the price for a short period of time.
 
-You can read about the results in my blog post **TODO**
+[You can read about the setup and results in my Blog Post](https://www.gaborvecsei.com/Mad-Money-Backtesting/)
 
 You can also access the data easily with the
 [Flat Data Viewer](https://flatgithub.com/gaborvecsei/Mad-Money-Backtesting)
