@@ -2,9 +2,8 @@
 
 <img src="art/cramer.gif" width="400" alt="Cramer"></a>
 
-**Recommendations from Cramer**: On the show [Mad-Money](https://www.cnbc.com/mad-money/) (CNBC)
-[Jim Cramer](https://en.wikipedia.org/wiki/Jim_Cramer) picks stocks which he recommends to buy. We will use this
-data to build a portfolio
+**Recommendations from Cramer**: On the show Mad-Money (CNBC) Jim Cramer picks stocks which he recommends to buy.
+We will use this data to build a portfolio
 
 **The Cramer-effect/Cramer-bounce**: After the show *Mad Money* the recommended stocks are bought by viewers almost
 immediately (afterhours trading) or on the next day at market open, increasing the price for a short period of time.
