@@ -2953,8 +2953,8 @@ Verizon (VZ),10/09,L,buy,59.33,2020-10-09,VZ
 Walgreens Boots Alliance (WBA),10/09,D,positive,36.34,2020-10-09,WBA
 Wells Fargo (WFC),10/09,D,negative,25.3,2020-10-09,WFC
 Zoom Video Communications (ZM),10/09,D,buy,492.41,2020-10-09,ZM
+AEO (AEO),10/12,F,buy,15.01,2020-10-12,AEO
 AGCO (AGCO),10/12,D,buy,80.61,2020-10-12,AGCO
-American Eagle Outfitters (AEO),10/12,F,buy,15.01,2020-10-12,AEO
 Apple (AAPL),10/12,D,buy,124.4,2020-10-12,AAPL
 CBRL Group (CBRL),10/12,L,positive,117.77,2020-10-12,CBRL
 Corteva Agriscienses (CTVA),10/12,D,buy,33.59,2020-10-12,CTVA
@@ -3540,7 +3540,7 @@ Twilio (TWLO),11/19,D,buy,295.64,2020-11-19,TWLO
 Williams-Sonoma (WSM),11/19,D,buy,101.04,2020-11-19,WSM
 Workday (WDAY),11/19,I,buy,230.8,2020-11-19,WDAY
 Workhorse Group (WKHS),11/19,L,buy,22.78,2020-11-19,WKHS
-American Eagle Outfitters (AEO),11/20,D,buy,16.94,2020-11-20,AEO
+AEO (AEO),11/20,D,buy,16.94,2020-11-20,AEO
 Analog Devices (ADI),11/20,D,buy,134.88,2020-11-20,ADI
 Best Buy (BBY),11/20,D,buy,119.14,2020-11-20,BBY
 Boeing (BA),11/20,L,buy,199.62,2020-11-20,BA
@@ -4378,7 +4378,7 @@ NVIDIA (NVDA),02/25,I,buy,532.3,2021-02-25,NVDA
 NanoString Technologies (NSTG),02/25,L,buy,70.64,2021-02-25,NSTG
 Salesforce.com (CRM),02/25,I,buy,231.08,2021-02-25,CRM
 Twitter (TWTR),02/25,I,buy,74.59,2021-02-25,TWTR
-American Eagle Outfitters (AEO),02/26,D,positive,25.7,2021-02-26,AEO
+AEO (AEO),02/26,D,positive,25.7,2021-02-26,AEO
 Arista Networks (ANET),02/26,I,buy,279.84,2021-02-26,ANET
 Costco (COST),02/26,D,buy,331.0,2021-02-26,COST
 Dollar Tree (DLTR),02/26,D,buy,98.2,2021-02-26,DLTR
@@ -4750,7 +4750,7 @@ TransMedics Group (TMDX),04/14,L,sell,29.13,2021-04-14,TMDX
 Unity Software (U),04/14,D,sell,101.12,2021-04-14,U
 XL Fleet (XL),04/14,F,sell,7.12,2021-04-14,XL
 Xilinx (XLNX),04/14,L,buy,123.61,2021-04-14,XLNX
-American Eagle Outfitters (AEO),04/15,I,buy,34.33,2021-04-15,AEO
+AEO (AEO),04/15,I,buy,34.33,2021-04-15,AEO
 American Electric Power (AEP),04/15,L,buy,87.81,2021-04-15,AEP
 Bank of America (BAC),04/15,D,buy,38.74,2021-04-15,BAC
 Big Lots (BIG),04/15,L,buy,67.39,2021-04-15,BIG
@@ -4798,8 +4798,8 @@ Upstart (UPST),04/16,L,buy,104.65,2021-04-16,UPST
 Verizon (VZ),04/16,D,negative,58.28,2021-04-16,VZ
 Wix.com (WIX),04/16,L,buy,295.25,2021-04-16,WIX
 World Wrestling Entertain (WWE),04/16,L,buy,56.36,2021-04-16,WWE
+AEO (AEO),04/19,D,buy,35.16,2021-04-19,AEO
 Altimeter Growth (AGC),04/19,F,buy,13.16,2021-04-19,AGC
-American Eagle Outfitters (AEO),04/19,D,buy,35.16,2021-04-19,AEO
 Bank of America (BAC),04/19,L,buy,39.17,2021-04-19,BAC
 Constellation Brands (STZ),04/19,F,buy,237.6,2021-04-19,STZ
 GameStop (GME),04/19,D,sell,164.37,2021-04-19,GME
@@ -4970,9 +4970,9 @@ T-Mobile US (TMUS),04/30,D,buy,132.13,2021-04-30,TMUS
 Twilio (TWLO),04/30,D,buy,367.8,2021-04-30,TWLO
 Union Pacific (UNP),04/30,D,buy,222.09,2021-04-30,UNP
 ViacomCBS (VIAC),04/30,D,negative,41.02,2021-04-30,VIAC
+AEO (AEO),05/03,D,buy,36.3,2021-05-03,AEO
 Aemetis (AMTX),05/03,L,positive,18.01,2021-05-03,AMTX
 Alcoa (AA),05/03,L,buy,37.61,2021-05-03,AA
-American Eagle Outfitters (AEO),05/03,D,buy,36.3,2021-05-03,AEO
 Brunswick (BC),05/03,D,buy,110.86,2021-05-03,BC
 Camping World (CWH),05/03,D,buy,44.01,2021-05-03,CWH
 Costco (COST),05/03,D,buy,379.32,2021-05-03,COST
@@ -5243,7 +5243,7 @@ Paysafe (PSFE),05/20,L,buy,12.07,2021-05-20,PSFE
 Pepsico (PEP),05/20,L,buy,147.23,2021-05-20,PEP
 Shift Technologies (SFT),05/20,L,negative,7.54,2021-05-20,SFT
 Utz Brands (UTZ),05/20,L,sell,23.24,2021-05-20,UTZ
-American Eagle Outfitters (AEO),05/21,D,buy,32.75,2021-05-21,AEO
+AEO (AEO),05/21,D,buy,32.75,2021-05-21,AEO
 Best Buy (BBY),05/21,D,negative,114.93,2021-05-21,BBY
 Big Lots (BIG),05/21,D,buy,64.19,2021-05-21,BIG
 Boston Omaha (BOMN),05/21,L,sell,28.19,2021-05-21,BOMN
@@ -5367,7 +5367,7 @@ Roblox (RBLX),06/09,L,buy,91.04,2021-06-09,RBLX
 Stem (STEM),06/09,L,buy,30.84,2021-06-09,STEM
 Stryker (SYK),06/09,L,positive,253.13,2021-06-09,SYK
 Thor Industries (THO),06/09,D,buy,116.26,2021-06-09,THO
-American Eagle Outfitters (AEO),06/10,D,buy,33.3,2021-06-10,AEO
+AEO (AEO),06/10,D,buy,33.3,2021-06-10,AEO
 AquaBounty Technologies (AQB),06/10,L,buy,6.2,2021-06-10,AQB
 BP Midstream Partners (BPMP),06/10,L,buy,14.85,2021-06-10,BPMP
 Chewy (CHWY),06/10,I,buy,79.35,2021-06-10,CHWY
@@ -5496,3 +5496,14 @@ Thor Industries (THO),06/21,D,buy,108.09,2021-06-21,THO
 United Parcel Service (UPS),06/21,D,buy,203.32,2021-06-21,UPS
 WMS Industries (WMS),06/21,L,positive,107.04,2021-06-21,WMS
 Walt Disney (DIS),06/21,D,buy,173.97,2021-06-21,DIS
+AEO (AEO),06/22,F,buy,35.91,2021-06-22,AEO
+Apple (AAPL),06/22,F,buy,133.98,2021-06-22,AAPL
+CNH Industrial (CNHI),06/22,I,buy,16.31,2021-06-22,CNHI
+Costco (COST),06/22,F,buy,392.18,2021-06-22,COST
+Ford Motor (F),06/22,F,buy,14.91,2021-06-22,F
+GlaxoSmithKline (GSK),06/22,F,positive,39.08,2021-06-22,GSK
+LoanDepot (LDI),06/22,L,negative,12.81,2021-06-22,LDI
+Magna International (MGA),06/22,L,buy,92.6,2021-06-22,MGA
+Qualcomm (QCOM),06/22,L,buy,135.08,2021-06-22,QCOM
+Torchlight Energy Resourc (TRCH),06/22,L,negative,7.0,2021-06-22,TRCH
+XPO Logistics (XPO),06/22,L,buy,147.68,2021-06-22,XPO
