@@ -5458,8 +5458,8 @@ Senseonics (SENS),06/17,L,negative,3.62,2021-06-17,SENS
 Square (SQ),06/17,D,buy,236.13,2021-06-17,SQ
 Accenture (ACN),06/18,D,buy,281.25,2021-06-18,ACN
 Advanced Micro Devices (AMD),06/18,D,buy,84.65,2021-06-18,AMD
-Arlington Asset Investmen (AI),06/18,L,negative,59.18,2021-06-18,AI
 Ashford Hospitality Trust (AHT),06/18,L,sell,5.09,2021-06-18,AHT
+C3.ai (AI),06/18,L,negative,59.18,2021-06-18,AI
 Carmax (KMX),06/18,D,positive,113.16,2021-06-18,KMX
 FedEx (FDX),06/18,D,positive,285.32,2021-06-18,FDX
 GoodRX (GDRX),06/18,L,sell,37.63,2021-06-18,GDRX
@@ -5593,3 +5593,24 @@ Square (SQ),06/30,D,buy,243.8,2021-06-30,SQ
 Virgin Galactic (SPCE),06/30,L,sell,46.0,2021-06-30,SPCE
 Wix.com (WIX),06/30,D,buy,290.28,2021-06-30,WIX
 Zynex (ZYXI),06/30,L,buy,15.53,2021-06-30,ZYXI
+American Express (AXP),07/06,D,buy,169.56,2021-07-06,AXP
+Apple (AAPL),07/06,D,buy,142.02,2021-07-06,AAPL
+Beauty Health (SKIN),07/06,D,buy,18.86,2021-07-06,SKIN
+Bionano Genomics (BNGO),07/06,L,buy,6.58,2021-07-06,BNGO
+C3.ai (AI),07/06,L,negative,59.99,2021-07-06,AI
+Devon Energy (DVN),07/06,D,buy,27.84,2021-07-06,DVN
+DiDi Global (DIDI),07/06,F,sell,12.49,2021-07-06,DIDI
+DocuSign (DOCU),07/06,D,buy,288.18,2021-07-06,DOCU
+Equifax (EFX),07/06,D,buy,245.89,2021-07-06,EFX
+Idexx Laboratories (IDXX),07/06,D,buy,658.99,2021-07-06,IDXX
+Intuit (INTU),07/06,D,buy,500.97,2021-07-06,INTU
+Intuitive Surgical (ISRG),07/06,D,buy,948.04,2021-07-06,ISRG
+Moderna (MRNA),07/06,D,positive,233.34,2021-07-06,MRNA
+Modine Manufacturing (MOD),07/06,L,buy,16.36,2021-07-06,MOD
+NVIDIA (NVDA),07/06,D,buy,827.94,2021-07-06,NVDA
+Nano Dimension (NNDM),07/06,L,sell,7.6,2021-07-06,NNDM
+Pool Corp (POOL),07/06,D,buy,464.53,2021-07-06,POOL
+RadNet (RDNT),07/06,L,buy,34.47,2021-07-06,RDNT
+SoFi Technologies (SOFI),07/06,D,buy,17.35,2021-07-06,SOFI
+Stem (STEM),07/06,D,buy,35.97,2021-07-06,STEM
+WM Technology (MAPS),07/06,D,buy,16.63,2021-07-06,MAPS
