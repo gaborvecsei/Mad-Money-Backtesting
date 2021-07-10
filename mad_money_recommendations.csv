@@ -5274,7 +5274,15 @@ Snowflake (SNOW),05/21,D,buy,233.39,2021-05-21,SNOW
 Sysco (SYY),05/21,I,buy,80.51,2021-05-21,SYY
 Target (TGT),05/21,D,buy,225.09,2021-05-21,TGT
 Thor Industries (THO),05/21,D,buy,119.31,2021-05-21,THO
+Toll Brothers (TOL),05/21,D,positive,59.9,2021-05-21,TOL
 UP Fintech Holding (TIGR),05/21,L,sell,17.39,2021-05-21,TIGR
+Ulta Beauty (ULTA),05/21,D,buy,316.08,2021-05-21,ULTA
+WD-40 (WDFC),05/21,L,sell,242.2,2021-05-21,WDFC
+Williams-Sonoma (WSM),05/21,D,buy,163.0,2021-05-21,WSM
+Winnebago Industries (WGO),05/21,D,buy,68.95,2021-05-21,WGO
+Workday (WDAY),05/21,D,buy,231.42,2021-05-21,WDAY
+Yeti Holdings (YETI),05/21,F,buy,86.58,2021-05-21,YETI
+Yum! Brands (YUM),05/21,D,positive,119.71,2021-05-21,YUM
 Cleveland-Cliffs (CLF),05/24,L,buy,18.56,2021-05-24,CLF
 Martin Marietta Materials (MLM),05/24,I,buy,366.46,2021-05-24,MLM
 Nio (NIO),05/24,L,sell,35.89,2021-05-24,NIO
@@ -5622,3 +5630,28 @@ GoodRX (GDRX),07/08,I,buy,33.14,2021-07-08,GDRX
 Nio (NIO),07/08,L,sell,45.6,2021-07-08,NIO
 Poshmark (POSH),07/08,I,buy,39.34,2021-07-08,POSH
 Upstart (UPST),07/08,L,buy,119.75,2021-07-08,UPST
+AT&T (T),07/09,L,sell,28.45,2021-07-09,T
+Altimmune (ALT),07/09,L,sell,9.21,2021-07-09,ALT
+Arrival (ARVL),07/09,L,sell,15.55,2021-07-09,ARVL
+Atkore International Grou (ATKR),07/09,L,buy,69.69,2021-07-09,ATKR
+BlackRock (BLK),07/09,D,buy,901.31,2021-07-09,BLK
+Cemex (CX),07/09,L,buy,8.4,2021-07-09,CX
+Cerus (CERS),07/09,L,sell,5.27,2021-07-09,CERS
+Citigroup (C),07/09,D,positive,68.45,2021-07-09,C
+Delta Air Lines (DAL),07/09,D,negative,42.92,2021-07-09,DAL
+First Horizon National (FHN),07/09,D,buy,16.79,2021-07-09,FHN
+Ford Motor (F),07/09,L,buy,14.48,2021-07-09,F
+Goldman Sachs (GS),07/09,D,positive,371.76,2021-07-09,GS
+JPMorgan Chase (JPM),07/09,D,positive,155.77,2021-07-09,JPM
+Levi's (LEVI),07/09,D,buy,28.38,2021-07-09,LEVI
+Lightspeed POS (LSPD),07/09,I,buy,85.14,2021-07-09,LSPD
+Moderna (MRNA),07/09,L,buy,232.81,2021-07-09,MRNA
+Pepsico (PEP),07/09,D,buy,149.48,2021-07-09,PEP
+Simon Property Group (SPG),07/09,D,buy,129.69,2021-07-09,SPG
+Synaptics (SYNA),07/09,I,buy,154.92,2021-07-09,SYNA
+T-Mobile US (TMUS),07/09,L,buy,146.01,2021-07-09,TMUS
+Tesla (TSLA),07/09,L,buy,656.95,2021-07-09,TSLA
+UnitedHealth Group (UNH),07/09,D,buy,412.11,2021-07-09,UNH
+Verizon (VZ),07/09,L,buy,56.07,2021-07-09,VZ
+Wells Fargo (WFC),07/09,D,positive,43.91,2021-07-09,WFC
+Zynga (ZNGA),07/09,L,buy,10.53,2021-07-09,ZNGA
