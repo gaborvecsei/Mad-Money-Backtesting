@@ -3763,7 +3763,7 @@ Williams-Sonoma (WSM),12/15,D,positive,110.45,2020-12-15,WSM
 Advanced Micro Devices (AMD),12/16,D,buy,96.85,2020-12-16,AMD
 Boeing (BA),12/16,I,buy,225.87,2020-12-16,BA
 Broadcom (AVGO),12/16,D,buy,424.9,2020-12-16,AVGO
-Dominion Midstream Partne (DM),12/16,L,negative,17.13,2020-12-16,DM
+Desktop Metal (DM),12/16,L,negative,17.13,2020-12-16,DM
 Ford Motor (F),12/16,L,buy,9.04,2020-12-16,F
 HCA Healthcare (HCA),12/16,L,buy,161.56,2020-12-16,HCA
 HP (HPQ),12/16,L,buy,23.98,2020-12-16,HPQ
@@ -5909,3 +5909,17 @@ Spirit AeroSystems (SPR),08/03,L,sell,43.24,2021-08-03,SPR
 Target (TGT),08/03,D,buy,262.2,2021-08-03,TGT
 United Parcel Service (UPS),08/03,D,positive,194.15,2021-08-03,UPS
 Walmart (WMT),08/03,D,buy,143.82,2021-08-03,WMT
+AT&T (T),08/04,L,sell,27.85,2021-08-04,T
+Akamai Technologies (AKAM),08/04,L,sell,112.41,2021-08-04,AKAM
+Archer-Daniels-Midland (ADM),08/04,L,positive,58.75,2021-08-04,ADM
+Desktop Metal (DM),08/04,L,sell,9.05,2021-08-04,DM
+Devon Energy (DVN),08/04,I,buy,25.29,2021-08-04,DVN
+DuPont (DD),08/04,F,buy,74.26,2021-08-04,DD
+Fastly (FSLY),08/04,L,sell,44.54,2021-08-04,FSLY
+Kimco Realty (KIM),08/04,D,buy,20.54,2021-08-04,KIM
+Monster Beverage (MNST),08/04,L,buy,92.01,2021-08-04,MNST
+Robinhood (HOOD),08/04,L,positive,70.39,2021-08-04,HOOD
+Simon Property Group (SPG),08/04,D,buy,128.7,2021-08-04,SPG
+Sonic Automotive (SAH),08/04,L,sell,50.98,2021-08-04,SAH
+UiPath (PATH),08/04,F,buy,62.0,2021-08-04,PATH
+ViacomCBS (VIAC),08/04,L,positive,38.79,2021-08-04,VIAC
