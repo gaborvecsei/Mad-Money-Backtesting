@@ -3101,7 +3101,7 @@ Facebook (FB),10/21,D,buy,278.73,2020-10-21,FB
 GoPro (GPRO),10/21,D,sell,6.55,2020-10-21,GPRO
 Home Depot (HD),10/21,D,buy,284.51,2020-10-21,HD
 L3Harris Technologies (LHX),10/21,L,positive,169.81,2020-10-21,LHX
-Lithia Motors (LAD),10/21,I,buy,260.09,2020-10-21,LAD
+Lithia and Driveway (LAD),10/21,I,buy,260.09,2020-10-21,LAD
 Lockheed Martin (LMT),10/21,L,buy,367.14,2020-10-21,LMT
 Lowe's (LOW),10/21,D,buy,174.5,2020-10-21,LOW
 MGP Ingredients (MGPI),10/21,L,buy,41.2,2020-10-21,MGPI
@@ -3128,7 +3128,7 @@ Corsair Gaming (CRSR),10/22,L,buy,24.02,2020-10-22,CRSR
 Estee Lauder (EL),10/22,L,buy,232.62,2020-10-22,EL
 Ford Motor (F),10/22,D,buy,8.21,2020-10-22,F
 Kensington Capital Acquis (KCAC),10/22,F,buy,13.75,2020-10-22,KCAC
-Lithia Motors (LAD),10/22,D,buy,250.15,2020-10-22,LAD
+Lithia and Driveway (LAD),10/22,D,buy,250.15,2020-10-22,LAD
 Marvell Technology (MRVL),10/22,L,buy,41.04,2020-10-22,MRVL
 NVIDIA (NVDA),10/22,D,buy,534.44,2020-10-22,NVDA
 NXP Semiconductors (NXPI),10/22,D,buy,134.89,2020-10-22,NXPI
@@ -3216,7 +3216,7 @@ Ford Motor (F),10/28,D,buy,7.7,2020-10-28,F
 Home Depot (HD),10/28,D,buy,269.72,2020-10-28,HD
 JD.com (JD),10/28,L,buy,80.08,2020-10-28,JD
 L Brands (LB),10/28,D,buy,32.27,2020-10-28,LB
-Lithia Motors (LAD),10/28,D,buy,233.49,2020-10-28,LAD
+Lithia and Driveway (LAD),10/28,D,buy,233.49,2020-10-28,LAD
 Lowe's (LOW),10/28,D,buy,161.42,2020-10-28,LOW
 Masco (MAS),10/28,D,buy,53.77,2020-10-28,MAS
 Microsoft (MSFT),10/28,D,buy,202.68,2020-10-28,MSFT
@@ -3409,7 +3409,7 @@ Home Depot (HD),11/10,D,buy,275.57,2020-11-10,HD
 Honeywell (HON),11/10,D,buy,201.98,2020-11-10,HON
 JPMorgan Chase (JPM),11/10,D,buy,116.52,2020-11-10,JPM
 Johnson & Johnson (JNJ),11/10,D,buy,148.28,2020-11-10,JNJ
-Lithia Motors (LAD),11/10,L,buy,267.88,2020-11-10,LAD
+Lithia and Driveway (LAD),11/10,L,buy,267.88,2020-11-10,LAD
 Netflix (NFLX),11/10,D,negative,480.24,2020-11-10,NFLX
 Simon Property Group (SPG),11/10,D,negative,78.84,2020-11-10,SPG
 Starbucks (SBUX),11/10,D,buy,93.92,2020-11-10,SBUX
@@ -3512,7 +3512,7 @@ Carvana (CVNA),11/18,L,buy,224.18,2020-11-18,CVNA
 DraftKings (DKNG),11/18,L,buy,47.68,2020-11-18,DKNG
 Ford Motor (F),11/18,D,buy,8.82,2020-11-18,F
 General Electric (GE),11/18,D,buy,9.73,2020-11-18,GE
-Lithia Motors (LAD),11/18,L,buy,274.11,2020-11-18,LAD
+Lithia and Driveway (LAD),11/18,L,buy,274.11,2020-11-18,LAD
 MGM Resorts (MGM),11/18,L,negative,26.91,2020-11-18,MGM
 Plug Power (PLUG),11/18,F,buy,23.22,2020-11-18,PLUG
 Tattooed Chef (TTCF),11/18,L,negative,16.83,2020-11-18,TTCF
@@ -4546,7 +4546,7 @@ Cummins (CMI),03/22,D,buy,263.48,2021-03-22,CMI
 Deere & Company (DE),03/22,D,buy,371.59,2021-03-22,DE
 Ford Motor (F),03/22,D,buy,12.85,2021-03-22,F
 Lemonade (LMND),03/22,L,positive,98.6,2021-03-22,LMND
-Lithia Motors (LAD),03/22,L,buy,383.0,2021-03-22,LAD
+Lithia and Driveway (LAD),03/22,L,buy,383.0,2021-03-22,LAD
 Marvell Technology (MRVL),03/22,L,buy,47.67,2021-03-22,MRVL
 Metromile (MILE),03/22,L,negative,14.35,2021-03-22,MILE
 Nokia (NOK),03/22,L,sell,4.06,2021-03-22,NOK
@@ -4596,7 +4596,7 @@ Carvana (CVNA),03/30,I,buy,254.5,2021-03-30,CVNA
 Comerica (CMA),03/30,L,buy,72.15,2021-03-30,CMA
 Embraer (ERJ),03/30,L,sell,9.96,2021-03-30,ERJ
 Home Depot (HD),03/30,D,buy,304.82,2021-03-30,HD
-Lithia Motors (LAD),03/30,D,buy,399.71,2021-03-30,LAD
+Lithia and Driveway (LAD),03/30,D,buy,399.71,2021-03-30,LAD
 Lowe's (LOW),03/30,D,buy,190.02,2021-03-30,LOW
 Macy's (M),03/30,I,buy,16.57,2021-03-30,M
 Manitowoc (MTW),03/30,L,buy,21.12,2021-03-30,MTW
@@ -4784,7 +4784,7 @@ Innovative Industrial Pro (IIPR),04/16,L,buy,184.94,2021-04-16,IIPR
 Intel (INTC),04/16,D,negative,64.75,2021-04-16,INTC
 Johnson & Johnson (JNJ),04/16,D,positive,162.24,2021-04-16,JNJ
 Lam Research (LRCX),04/16,D,buy,643.71,2021-04-16,LRCX
-Lithia Motors (LAD),04/16,L,buy,388.03,2021-04-16,LAD
+Lithia and Driveway (LAD),04/16,L,buy,388.03,2021-04-16,LAD
 Metromile (MILE),04/16,I,buy,7.97,2021-04-16,MILE
 Netflix (NFLX),04/16,D,buy,546.54,2021-04-16,NFLX
 Nucor (NUE),04/16,D,buy,79.5,2021-04-16,NUE
@@ -5237,7 +5237,7 @@ Barrick Gold (GOLD),05/20,I,buy,24.81,2021-05-20,GOLD
 Cisco Systems (CSCO),05/20,D,positive,52.85,2021-05-20,CSCO
 GameStop (GME),05/20,D,negative,170.49,2021-05-20,GME
 Hyliion (HYLN),05/20,L,positive,9.75,2021-05-20,HYLN
-Lithia Motors (LAD),05/20,L,buy,338.74,2021-05-20,LAD
+Lithia and Driveway (LAD),05/20,L,buy,338.74,2021-05-20,LAD
 Palo Alto Networks (PANW),05/20,I,buy,342.59,2021-05-20,PANW
 Paysafe (PSFE),05/20,L,buy,12.07,2021-05-20,PSFE
 Pepsico (PEP),05/20,L,buy,147.23,2021-05-20,PEP
@@ -5775,7 +5775,7 @@ Domino's Pizza (DPZ),07/22,I,buy,538.82,2021-07-22,DPZ
 F45 Training (FXLV),07/22,D,buy,15.7,2021-07-22,FXLV
 InMode (INMD),07/22,L,negative,109.68,2021-07-22,INMD
 Jumia Technologies (JMIA),07/22,L,negative,22.96,2021-07-22,JMIA
-Lithia Motors (LAD),07/22,L,buy,375.37,2021-07-22,LAD
+Lithia and Driveway (LAD),07/22,L,buy,375.37,2021-07-22,LAD
 Peloton (PTON),07/22,D,sell,119.67,2021-07-22,PTON
 Planet Fitness (PLNT),07/22,D,buy,73.82,2021-07-22,PLNT
 RadNet (RDNT),07/22,L,buy,33.5,2021-07-22,RDNT
@@ -6044,3 +6044,18 @@ Regeneron Pharmaceuticals (REGN),08/18,D,buy,635.57,2021-08-18,REGN
 Skyworks Solutions (SWKS),08/18,L,buy,175.25,2021-08-18,SWKS
 TJX Companies (TJX),08/18,D,positive,73.0,2021-08-18,TJX
 Walt Disney (DIS),08/18,D,buy,174.74,2021-08-18,DIS
+Academy Sports and Outdoo (ASO),08/19,L,buy,35.03,2021-08-19,ASO
+Apple (AAPL),08/19,D,buy,146.7,2021-08-19,AAPL
+C3.ai (AI),08/19,L,positive,44.79,2021-08-19,AI
+ContextLogic (WISH),08/19,L,sell,6.23,2021-08-19,WISH
+Costco (COST),08/19,D,buy,454.26,2021-08-19,COST
+Devon Energy (DVN),08/19,D,buy,25.34,2021-08-19,DVN
+Fiserv (FISV),08/19,I,buy,116.25,2021-08-19,FISV
+Lithia and Driveway (LAD),08/19,I,buy,333.78,2021-08-19,LAD
+Microsoft (MSFT),08/19,D,buy,296.77,2021-08-19,MSFT
+Netflix (NFLX),08/19,D,buy,543.71,2021-08-19,NFLX
+Pioneer Natural Resources (PXD),08/19,D,buy,140.47,2021-08-19,PXD
+Poshmark (POSH),08/19,L,positive,25.79,2021-08-19,POSH
+Sea Limited (SE),08/19,L,buy,321.12,2021-08-19,SE
+Traeger (COOK),08/19,F,buy,25.78,2021-08-19,COOK
+Weber (WEBR),08/19,F,buy,15.69,2021-08-19,WEBR
