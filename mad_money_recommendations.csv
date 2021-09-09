@@ -3935,6 +3935,17 @@ GrowGeneration (GRWG),01/08,L,negative,45.32,2021-01-08,GRWG
 JPMorgan Chase (JPM),01/08,D,buy,136.02,2021-01-08,JPM
 Johnson & Johnson (JNJ),01/08,D,buy,160.04,2021-01-08,JNJ
 KB Home (KBH),01/08,D,buy,33.04,2021-01-08,KBH
+Lemonade (LMND),01/08,D,negative,160.74,2021-01-08,LMND
+Micron Technology (MU),01/08,I,buy,77.42,2021-01-08,MU
+Microsoft (MSFT),01/08,D,buy,219.62,2021-01-08,MSFT
+Moderna (MRNA),01/08,D,buy,112.75,2021-01-08,MRNA
+Pfizer (PFE),01/08,D,buy,37.13,2021-01-08,PFE
+Plug Power (PLUG),01/08,F,buy,53.78,2021-01-08,PLUG
+Regeneron Pharmaceuticals (REGN),01/08,D,buy,498.73,2021-01-08,REGN
+Snowflake (SNOW),01/08,D,negative,300.1,2021-01-08,SNOW
+Teladoc (TDOC),01/08,D,buy,227.78,2021-01-08,TDOC
+Walgreens Boots Alliance (WBA),01/08,D,buy,45.21,2021-01-08,WBA
+Wells Fargo (WFC),01/08,D,negative,33.19,2021-01-08,WFC
 fuboTV (FUBO),01/08,D,negative,27.31,2021-01-08,FUBO
 Best Buy (BBY),01/11,D,buy,110.78,2021-01-11,BBY
 BioCryst Pharmaceuticals (BCRX),01/11,L,negative,7.51,2021-01-11,BCRX
@@ -6108,3 +6119,12 @@ Salesforce.com (CRM),08/25,I,buy,260.85,2021-08-25,CRM
 Snowflake (SNOW),08/25,I,buy,283.76,2021-08-25,SNOW
 Toll Brothers (TOL),08/25,I,buy,63.66,2021-08-25,TOL
 Wells Fargo (WFC),08/25,D,buy,49.29,2021-08-25,WFC
+23andMe (ME),09/08,L,buy,8.03,2021-09-08,ME
+AppHarvest (APPH),09/08,L,sell,7.75,2021-09-08,APPH
+Big Lots (BIG),09/08,L,sell,46.15,2021-09-08,BIG
+Cleveland-Cliffs (CLF),09/08,I,buy,23.18,2021-09-08,CLF
+Rio Tinto (RIO),09/08,L,buy,73.55,2021-09-08,RIO
+SentinelOne (S),09/08,I,buy,68.24,2021-09-08,S
+Signet Jewelers (SIG),09/08,I,buy,74.89,2021-09-08,SIG
+Smith & Wesson Brands (SWBI),09/08,L,negative,21.09,2021-09-08,SWBI
+Starwood Property Trust (STWD),09/08,L,buy,25.11,2021-09-08,STWD
