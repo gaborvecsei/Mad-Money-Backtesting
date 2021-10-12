@@ -2723,7 +2723,7 @@ Chevron (CVX),09/16,L,buy,78.56,2020-09-16,CVX
 FedEx (FDX),09/16,D,buy,250.3,2020-09-16,FDX
 General Electric (GE),09/16,D,positive,6.75,2020-09-16,GE
 Honeywell (HON),09/16,D,buy,170.0,2020-09-16,HON
-Jfrog (FROG),09/16,F,negative,64.79,2020-09-16,FROG
+JFrog (FROG),09/16,F,negative,64.79,2020-09-16,FROG
 Lennar (LEN),09/16,D,buy,78.89,2020-09-16,LEN
 Lululemon Athletica (LULU),09/16,D,buy,309.99,2020-09-16,LULU
 Nordic American Tanker (NAT),09/16,L,sell,3.91,2020-09-16,NAT
@@ -4568,7 +4568,7 @@ Cemex (CX),03/24,L,buy,6.36,2021-03-24,CX
 DataDog (DDOG),03/24,L,sell,81.26,2021-03-24,DDOG
 Devon Energy (DVN),03/24,L,positive,22.34,2021-03-24,DVN
 GameStop (GME),03/24,F,sell,120.34,2021-03-24,GME
-Jfrog (FROG),03/24,L,sell,47.63,2021-03-24,FROG
+JFrog (FROG),03/24,L,sell,47.63,2021-03-24,FROG
 Nucor (NUE),03/24,I,buy,69.47,2021-03-24,NUE
 Stamps.com (STMP),03/24,L,sell,181.33,2021-03-24,STMP
 UWM Holdings (UWMC),03/24,I,buy,8.13,2021-03-24,UWMC
@@ -4733,7 +4733,7 @@ Canoo (GOEV),04/14,F,sell,9.16,2021-04-14,GOEV
 Coinbase Global (COIN),04/14,F,buy,328.28,2021-04-14,COIN
 GoodRX (GDRX),04/14,D,buy,37.67,2021-04-14,GDRX
 Humanigen (HGEN),04/14,L,sell,15.38,2021-04-14,HGEN
-Jfrog (FROG),04/14,D,positive,51.96,2021-04-14,FROG
+JFrog (FROG),04/14,D,positive,51.96,2021-04-14,FROG
 Keysight Technologies (KEYS),04/14,L,buy,143.42,2021-04-14,KEYS
 Lemonade (LMND),04/14,D,buy,88.6,2021-04-14,LMND
 Lordstown Motors (RIDE),04/14,F,sell,10.86,2021-04-14,RIDE
@@ -6359,7 +6359,7 @@ Dow Chemical (DOW),10/06,D,buy,57.16,2021-10-06,DOW
 DraftKings (DKNG),10/06,L,buy,48.99,2021-10-06,DKNG
 Ford Motor (F),10/06,L,buy,14.12,2021-10-06,F
 General Motors (GM),10/06,D,buy,53.93,2021-10-06,GM
-Jfrog (FROG),10/06,L,positive,32.4,2021-10-06,FROG
+JFrog (FROG),10/06,L,positive,32.4,2021-10-06,FROG
 Keysight Technologies (KEYS),10/06,L,buy,161.15,2021-10-06,KEYS
 Levi Strauss (LEVI),10/06,I,buy,24.24,2021-10-06,LEVI
 Marvell Technology (MRVL),10/06,I,buy,63.75,2021-10-06,MRVL
