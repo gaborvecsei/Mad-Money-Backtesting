@@ -5840,7 +5840,7 @@ Advanced Micro Devices (AMD),07/28,D,buy,97.93,2021-07-28,AMD
 Apple (AAPL),07/28,D,buy,144.98,2021-07-28,AAPL
 Boeing (BA),07/28,D,buy,231.57,2021-07-28,BA
 Cassava Sciences (SAVA),07/28,L,sell,135.3,2021-07-28,SAVA
-Education Realty Trust In (EDR),07/28,L,buy,25.61,2021-07-28,EDR
+Endeavor Group (EDR),07/28,L,buy,25.61,2021-07-28,EDR
 Fast Acquisition (FST),07/28,L,buy,12.34,2021-07-28,FST
 Intel (INTC),07/28,D,negative,53.07,2021-07-28,INTC
 Micron Technology (MU),07/28,L,buy,75.55,2021-07-28,MU
@@ -6488,3 +6488,23 @@ Union Pacific (UNP),10/15,D,negative,225.16,2021-10-15,UNP
 United Continental (UAL),10/15,D,positive,48.0,2021-10-15,UAL
 Verizon (VZ),10/15,D,negative,52.27,2021-10-15,VZ
 Wells Fargo (WFC),10/15,D,buy,48.38,2021-10-15,WFC
+Accolade (ACCD),10/18,F,sell,38.85,2021-10-18,ACCD
+Apple (AAPL),10/18,D,positive,146.55,2021-10-18,AAPL
+Bionano Genomics (BNGO),10/18,L,negative,5.2,2021-10-18,BNGO
+Blade Air Mobility (BLDE),10/18,L,buy,10.02,2021-10-18,BLDE
+Butterfly Network (BFLY),10/18,L,sell,10.13,2021-10-18,BFLY
+CEL-SCI (CVM),10/18,L,buy,10.42,2021-10-18,CVM
+Community Health Systems (CYH),10/18,L,sell,10.58,2021-10-18,CYH
+Deluxe (DLX),10/18,I,buy,38.3,2021-10-18,DLX
+Doximity (DOCS),10/18,D,buy,70.57,2021-10-18,DOCS
+Endeavor Group (EDR),10/18,L,buy,25.31,2021-10-18,EDR
+Facebook (FB),10/18,D,negative,335.34,2021-10-18,FB
+GoodRX (GDRX),10/18,D,buy,42.06,2021-10-18,GDRX
+HCA Healthcare (HCA),10/18,L,buy,246.59,2021-10-18,HCA
+Intuit (INTU),10/18,L,buy,564.56,2021-10-18,INTU
+Mogo (MOGO),10/18,L,sell,5.33,2021-10-18,MOGO
+Salesforce (CRM),10/18,L,buy,291.7,2021-10-18,CRM
+ServiceNow (NOW),10/18,D,buy,666.22,2021-10-18,NOW
+Snowflake (SNOW),10/18,D,buy,337.88,2021-10-18,SNOW
+Zillow Group (ZG),10/18,D,negative,85.46,2021-10-18,ZG
+ZoomInfo Technologies (ZI),10/18,L,negative,68.17,2021-10-18,ZI
