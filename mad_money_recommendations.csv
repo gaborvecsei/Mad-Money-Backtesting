@@ -682,7 +682,7 @@ Chevron (CVX),03/02,D,sell,96.59,2020-03-02,CVX
 Chewy (CHWY),03/02,L,buy,28.93,2020-03-02,CHWY
 Cisco Systems (CSCO),03/02,D,negative,41.17,2020-03-02,CSCO
 DocuSign (DOCU),03/02,L,buy,87.96,2020-03-02,DOCU
-Dow Chemical (DOW),03/02,D,sell,41.42,2020-03-02,DOW
+Dow (DOW),03/02,D,sell,41.42,2020-03-02,DOW
 Exxon Mobil (XOM),03/02,D,sell,53.88,2020-03-02,XOM
 IBM (IBM),03/02,D,negative,134.3,2020-03-02,IBM
 Occidental Petroleum (OXY),03/02,L,sell,32.95,2020-03-02,OXY
@@ -749,7 +749,7 @@ Chevron (CVX),03/09,D,sell,81.53,2020-03-09,CVX
 Cisco Systems (CSCO),03/09,D,negative,37.96,2020-03-09,CSCO
 Coca-Cola (KO),03/09,D,buy,52.23,2020-03-09,KO
 Cypress Semiconductor (CY),03/09,L,sell,15.28,2020-03-09,CY
-Dow Chemical (DOW),03/09,D,sell,34.31,2020-03-09,DOW
+Dow (DOW),03/09,D,sell,34.31,2020-03-09,DOW
 Exxon Mobil (XOM),03/09,D,sell,41.86,2020-03-09,XOM
 Iron Mountain (IRM),03/09,L,buy,29.55,2020-03-09,IRM
 Occidental Petroleum (OXY),03/09,F,sell,12.51,2020-03-09,OXY
@@ -809,7 +809,7 @@ Yext (YEXT),03/12,I,buy,11.88,2020-03-12,YEXT
 Allstate (ALL),03/16,L,sell,84.98,2020-03-16,ALL
 CVS Health (CVS),03/16,I,positive,54.24,2020-03-16,CVS
 CareTrust REIT (CTRE),03/16,L,sell,10.02,2020-03-16,CTRE
-Dow Chemical (DOW),03/16,I,positive,22.0,2020-03-16,DOW
+Dow (DOW),03/16,I,positive,22.0,2020-03-16,DOW
 IAC Interactive (IAC),03/16,L,buy,149.75,2020-03-16,IAC
 Inovio Pharmaceuticals (INO),03/16,L,buy,6.13,2020-03-16,INO
 Orange (ORAN),03/16,L,sell,10.25,2020-03-16,ORAN
@@ -1180,7 +1180,7 @@ Carnival (CCL),04/21,D,sell,11.84,2020-04-21,CCL
 DataDog (DDOG),04/21,L,buy,40.0,2020-04-21,DDOG
 Dave and Busters (PLAY),04/21,L,sell,11.57,2020-04-21,PLAY
 Dover Corp (DOV),04/21,L,positive,84.51,2020-04-21,DOV
-Dow Chemical (DOW),04/21,L,negative,30.88,2020-04-21,DOW
+Dow (DOW),04/21,L,negative,30.88,2020-04-21,DOW
 Ford Motor (F),04/21,D,negative,4.77,2020-04-21,F
 General Electric (GE),04/21,D,positive,6.48,2020-04-21,GE
 Inovio Pharmaceuticals (INO),04/21,D,buy,9.9,2020-04-21,INO
@@ -1212,7 +1212,7 @@ Clorox (CLX),04/23,D,buy,189.92,2020-04-23,CLX
 Crown Castle (CCI),04/23,L,buy,160.55,2020-04-23,CCI
 Dollar General (DG),04/23,D,buy,176.5,2020-04-23,DG
 Domino's Pizza (DPZ),04/23,I,buy,369.64,2020-04-23,DPZ
-Dow Chemical (DOW),04/23,L,sell,32.56,2020-04-23,DOW
+Dow (DOW),04/23,L,sell,32.56,2020-04-23,DOW
 Home Depot (HD),04/23,D,buy,202.32,2020-04-23,HD
 IBM (IBM),04/23,D,positive,121.35,2020-04-23,IBM
 Inovio Pharmaceuticals (INO),04/23,I,buy,12.03,2020-04-23,INO
@@ -1469,7 +1469,7 @@ Chipotle Mexican Grill (CMG),05/12,D,buy,929.85,2020-05-12,CMG
 Costco (COST),05/12,D,buy,304.84,2020-05-12,COST
 Delphi Automotive (DLPH),05/12,L,sell,11.44,2020-05-12,DLPH
 Domino's Pizza (DPZ),05/12,D,buy,377.94,2020-05-12,DPZ
-Dow Chemical (DOW),05/12,L,negative,33.79,2020-05-12,DOW
+Dow (DOW),05/12,L,negative,33.79,2020-05-12,DOW
 Fiverr International (FVRR),05/12,L,sell,54.56,2020-05-12,FVRR
 Home Depot (HD),05/12,D,buy,232.9,2020-05-12,HD
 Inseego (INSG),05/12,L,positive,10.62,2020-05-12,INSG
@@ -3886,7 +3886,7 @@ Chevron (CVX),01/05,D,buy,87.0,2021-01-05,CVX
 Coca-Cola (KO),01/05,D,negative,52.18,2021-01-05,KO
 DocuSign (DOCU),01/05,D,buy,228.5,2021-01-05,DOCU
 Dominion Energy (D),01/05,D,buy,73.0,2021-01-05,D
-Dow Chemical (DOW),01/05,D,buy,55.8,2021-01-05,DOW
+Dow (DOW),01/05,D,buy,55.8,2021-01-05,DOW
 DraftKings (DKNG),01/05,D,negative,47.58,2021-01-05,DKNG
 Entergy (ETR),01/05,D,buy,96.7,2021-01-05,ETR
 Gladstone Commercial (GOOD),01/05,L,sell,17.73,2021-01-05,GOOD
@@ -4493,7 +4493,7 @@ XL Fleet (XL),03/15,D,negative,13.39,2021-03-15,XL
 Capri Holdings (CPRI),03/16,D,buy,55.65,2021-03-16,CPRI
 Churchill Capital (CCIV),03/16,I,buy,31.1,2021-03-16,CCIV
 CrowdStrike (CRWD),03/16,I,buy,196.31,2021-03-16,CRWD
-Dow Chemical (DOW),03/16,I,buy,63.18,2021-03-16,DOW
+Dow (DOW),03/16,I,buy,63.18,2021-03-16,DOW
 Duke Energy (DUK),03/16,L,buy,93.02,2021-03-16,DUK
 Hewlett Packard Enterpris (HPE),03/16,L,sell,15.74,2021-03-16,HPE
 LVMH (LVMUY),03/16,D,buy,134.05,2021-03-16,LVMUY
@@ -4776,7 +4776,7 @@ American Express (AXP),04/16,D,buy,149.99,2021-04-16,AXP
 Bristol-Myers Squibb (BMY),04/16,D,buy,65.46,2021-04-16,BMY
 Coca-Cola (KO),04/16,D,positive,53.68,2021-04-16,KO
 Danaher (DHR),04/16,D,buy,243.06,2021-04-16,DHR
-Dow Chemical (DOW),04/16,D,buy,64.68,2021-04-16,DOW
+Dow (DOW),04/16,D,buy,64.68,2021-04-16,DOW
 Fiverr International (FVRR),04/16,L,buy,216.17,2021-04-16,FVRR
 Honeywell (HON),04/16,D,buy,232.11,2021-04-16,HON
 IBM (IBM),04/16,D,negative,133.59,2021-04-16,IBM
@@ -4889,7 +4889,7 @@ Centene (CNC),04/27,I,buy,61.31,2021-04-27,CNC
 Chevron (CVX),04/27,D,buy,102.7,2021-04-27,CVX
 Coty (COTY),04/27,L,positive,10.22,2021-04-27,COTY
 Crown Castle (CCI),04/27,D,buy,184.74,2021-04-27,CCI
-Dow Chemical (DOW),04/27,D,buy,62.65,2021-04-27,DOW
+Dow (DOW),04/27,D,buy,62.65,2021-04-27,DOW
 DraftKings (DKNG),04/27,L,buy,59.13,2021-04-27,DKNG
 Enphase Energy (ENPH),04/27,L,positive,171.1,2021-04-27,ENPH
 Estee Lauder (EL),04/27,L,buy,315.5,2021-04-27,EL
@@ -4933,7 +4933,7 @@ Align Technology (ALGN),04/29,I,buy,604.34,2021-04-29,ALGN
 Avient (AVNT),04/29,L,negative,50.21,2021-04-29,AVNT
 Caterpillar (CAT),04/29,I,buy,227.47,2021-04-29,CAT
 Domino's Pizza (DPZ),04/29,I,buy,415.98,2021-04-29,DPZ
-Dow Chemical (DOW),04/29,L,buy,64.06,2021-04-29,DOW
+Dow (DOW),04/29,L,buy,64.06,2021-04-29,DOW
 Ford Motor (F),04/29,F,buy,11.26,2021-04-29,F
 General Electric (GE),04/29,L,buy,13.21,2021-04-29,GE
 Genworth Financial (GNW),04/29,L,sell,4.38,2021-04-29,GNW
@@ -6355,7 +6355,7 @@ Apellis Pharmaceuticals (APLS),10/06,L,negative,32.85,2021-10-06,APLS
 B&G Foods (BGS),10/06,L,negative,29.53,2021-10-06,BGS
 Campbell Soup (CPB),10/06,L,buy,42.5,2021-10-06,CPB
 Constellation Brands (STZ),10/06,I,buy,211.62,2021-10-06,STZ
-Dow Chemical (DOW),10/06,D,buy,57.16,2021-10-06,DOW
+Dow (DOW),10/06,D,buy,57.16,2021-10-06,DOW
 DraftKings (DKNG),10/06,L,buy,48.99,2021-10-06,DKNG
 Ford Motor (F),10/06,L,buy,14.12,2021-10-06,F
 General Motors (GM),10/06,D,buy,53.93,2021-10-06,GM
@@ -6551,7 +6551,7 @@ Zoom Video Communications (ZM),10/20,D,negative,275.71,2021-10-20,ZM
 indie Semiconductor (INDI),10/20,L,positive,11.35,2021-10-20,INDI
 Cassava Sciences (SAVA),10/21,L,positive,46.56,2021-10-21,SAVA
 Costco (COST),10/21,D,positive,477.23,2021-10-21,COST
-Dow Chemical (DOW),10/21,L,buy,59.26,2021-10-21,DOW
+Dow (DOW),10/21,L,buy,59.26,2021-10-21,DOW
 FedEx (FDX),10/21,L,negative,232.84,2021-10-21,FDX
 Marqeta (MQ),10/21,L,negative,27.47,2021-10-21,MQ
 Mattel (MAT),10/21,I,buy,20.33,2021-10-21,MAT
@@ -6611,3 +6611,37 @@ Salesforce (CRM),10/28,I,buy,298.38,2021-10-28,CRM
 Sonos (SONO),10/28,L,buy,32.01,2021-10-28,SONO
 Standard Lithium (SLI),10/28,L,negative,12.26,2021-10-28,SLI
 WeWork (WE),10/28,L,buy,10.57,2021-10-28,WE
+Apple (AAPL),10/29,D,buy,149.8,2021-10-29,AAPL
+BP (BP),10/29,D,positive,28.79,2021-10-29,BP
+Brunswick (BC),10/29,D,buy,93.09,2021-10-29,BC
+CVS Health (CVS),10/29,D,buy,89.28,2021-10-29,CVS
+Clorox (CLX),10/29,D,negative,163.01,2021-10-29,CLX
+Devon Energy (DVN),10/29,D,buy,40.08,2021-10-29,DVN
+Diamondback Energy (FANG),10/29,D,buy,107.19,2021-10-29,FANG
+Dow (DOW),10/29,I,buy,55.97,2021-10-29,DOW
+DuPont (DD),10/29,D,negative,69.6,2021-10-29,DD
+Dycom Industries (DY),10/29,L,buy,79.42,2021-10-29,DY
+Enbridge (ENB),10/29,D,buy,41.86,2021-10-29,ENB
+Estee Lauder (EL),10/29,D,positive,324.33,2021-10-29,EL
+Etsy (ETSY),10/29,D,buy,250.69,2021-10-29,ETSY
+Evelo Biosciences (EVLO),10/29,L,positive,8.85,2021-10-29,EVLO
+GlobalFoundries (GFS),10/29,F,buy,48.74,2021-10-29,GFS
+Humana (HUM),10/29,D,buy,463.16,2021-10-29,HUM
+Marriott International (MAR),10/29,D,positive,160.02,2021-10-29,MAR
+NXP Semiconductors (NXPI),10/29,D,positive,200.86,2021-10-29,NXPI
+Nucor (NUE),10/29,D,buy,111.65,2021-10-29,NUE
+ON Semiconductor (ON),10/29,D,positive,48.07,2021-10-29,ON
+Okta (OKTA),10/29,L,buy,247.18,2021-10-29,OKTA
+Omega Healthcare (OHI),10/29,L,negative,29.36,2021-10-29,OHI
+Peloton (PTON),10/29,D,negative,91.44,2021-10-29,PTON
+Pfizer (PFE),10/29,D,negative,43.74,2021-10-29,PFE
+Pioneer Natural Resources (PXD),10/29,D,buy,186.98,2021-10-29,PXD
+Qualcomm (QCOM),10/29,D,positive,133.04,2021-10-29,QCOM
+Skyworks Solutions (SWKS),10/29,D,negative,167.13,2021-10-29,SWKS
+Square (SQ),10/29,D,positive,254.5,2021-10-29,SQ
+Stanley Black & Decker (SWK),10/29,D,buy,179.73,2021-10-29,SWK
+T-Mobile US (TMUS),10/29,D,buy,115.03,2021-10-29,TMUS
+Uber (UBER),10/29,D,negative,43.82,2021-10-29,UBER
+Wynn Resorts (WYNN),10/29,D,positive,89.8,2021-10-29,WYNN
+ZScaler (ZS),10/29,L,buy,318.86,2021-10-29,ZS
+Zillow (Z),10/29,D,negative,103.63,2021-10-29,Z
