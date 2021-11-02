@@ -82,10 +82,10 @@ Constellation Brands (STZ),01/08,I,buy,190.29,2020-01-08,STZ
 Core Labs (CLB),01/08,F,negative,40.2,2020-01-08,CLB
 Covetrus (CVET),01/08,D,negative,13.6,2020-01-08,CVET
 Elanco Animal Health (ELAN),01/08,D,buy,28.56,2020-01-08,ELAN
-Facebook (FB),01/08,L,buy,215.22,2020-01-08,FB
 Karuna Therapeutics (KRTX),01/08,L,negative,71.37,2020-01-08,KRTX
 Lennar (LEN),01/08,D,buy,57.59,2020-01-08,LEN
 Macy's (M),01/08,D,positive,18.1,2020-01-08,M
+Meta (FB),01/08,L,buy,215.22,2020-01-08,FB
 Pet IQ (PETQ),01/08,D,negative,24.35,2020-01-08,PETQ
 Pinterest (PINS),01/08,L,negative,19.72,2020-01-08,PINS
 Sea Limited (SE),01/08,M,sell,40.16,2020-01-08,SE
@@ -240,12 +240,12 @@ Chevron (CVX),01/24,D,negative,111.85,2020-01-24,CVX
 D R Horton (DHI),01/24,D,positive,58.51,2020-01-24,DHI
 Everbridge (EVBG),01/24,M,positive,89.8,2020-01-24,EVBG
 Exxon Mobil (XOM),01/24,D,negative,66.32,2020-01-24,XOM
-Facebook (FB),01/24,D,buy,217.94,2020-01-24,FB
 First Horizon National (FHN),01/24,F,buy,16.55,2020-01-24,FHN
 Goldman Sachs (GS),01/24,D,buy,241.92,2020-01-24,GS
 HCA Healthcare (HCA),01/24,D,buy,143.45,2020-01-24,HCA
 IVERIC bio (ISEE),01/24,M,sell,7.0,2020-01-24,ISEE
 L Brands (LB),01/24,F,negative,20.74,2020-01-24,LB
+Meta (FB),01/24,D,buy,217.94,2020-01-24,FB
 Microsoft (MSFT),01/24,D,buy,165.04,2020-01-24,MSFT
 Teledyne Technologies (TDY),01/24,L,buy,361.87,2020-01-24,TDY
 United Technologies (UTX),01/24,D,positive,153.19,2020-01-24,UTX
@@ -314,8 +314,8 @@ Bristol-Myers Squibb (BMY),01/30,F,buy,63.81,2020-01-30,BMY
 Clean Harbors (CLH),01/30,L,buy,85.38,2020-01-30,CLH
 Costco (COST),01/30,L,buy,309.47,2020-01-30,COST
 Dominion Energy (D),01/30,L,negative,86.48,2020-01-30,D
-Facebook (FB),01/30,D,negative,209.53,2020-01-30,FB
 Independent Bank Group (IBTX),01/30,I,buy,54.22,2020-01-30,IBTX
+Meta (FB),01/30,D,negative,209.53,2020-01-30,FB
 Microsoft (MSFT),01/30,D,buy,172.78,2020-01-30,MSFT
 Mondelez International (MDLZ),01/30,D,buy,58.8,2020-01-30,MDLZ
 Netflix (NFLX),01/30,D,positive,347.74,2020-01-30,NFLX
@@ -461,8 +461,8 @@ Caterpillar (CAT),02/11,D,positive,136.19,2020-02-11,CAT
 Charles River Labs (CRL),02/11,I,buy,173.32,2020-02-11,CRL
 Clorox (CLX),02/11,D,negative,164.76,2020-02-11,CLX
 Columbia Sportswear (COLM),02/11,I,buy,90.44,2020-02-11,COLM
-Facebook (FB),02/11,L,buy,207.19,2020-02-11,FB
 Marriott International (MAR),02/11,D,positive,147.19,2020-02-11,MAR
+Meta (FB),02/11,L,buy,207.19,2020-02-11,FB
 PPG Industries (PPG),02/11,D,positive,121.95,2020-02-11,PPG
 Royal Caribbean Cruises (RCL),02/11,D,positive,113.06,2020-02-11,RCL
 Simon Property Group (SPG),02/11,F,positive,142.08,2020-02-11,SPG
@@ -574,12 +574,12 @@ Cree (CREE),02/21,L,sell,47.39,2020-02-21,CREE
 Dell (DELL),02/21,D,buy,51.72,2020-02-21,DELL
 EPR Properties (EPR),02/21,L,buy,68.23,2020-02-21,EPR
 Etsy (ETSY),02/21,D,buy,53.7,2020-02-21,ETSY
-Facebook (FB),02/21,D,positive,210.18,2020-02-21,FB
 Foot Locker (FL),02/21,D,sell,38.84,2020-02-21,FL
 HP (HPQ),02/21,D,positive,22.7,2020-02-21,HPQ
 Home Depot (HD),02/21,D,buy,245.34,2020-02-21,HD
 Macy's (M),02/21,D,sell,16.23,2020-02-21,M
 Marriott International (MAR),02/21,D,sell,143.24,2020-02-21,MAR
+Meta (FB),02/21,D,positive,210.18,2020-02-21,FB
 NortonLifeLock (NLOK),02/21,F,buy,20.47,2020-02-21,NLOK
 Pinterest (PINS),02/21,D,buy,22.48,2020-02-21,PINS
 Proofpoint (PFPT),02/21,I,buy,123.9,2020-02-21,PFPT
@@ -818,7 +818,7 @@ Thermo Fisher Scientific (TMO),03/16,I,positive,279.35,2020-03-16,TMO
 Verizon (VZ),03/16,L,buy,50.99,2020-03-16,VZ
 Waste Management (WM),03/16,L,buy,99.89,2020-03-16,WM
 Alcoa (AA),03/17,L,sell,7.0,2020-03-17,AA
-Facebook (FB),03/17,I,buy,149.42,2020-03-17,FB
+Meta (FB),03/17,I,buy,149.42,2020-03-17,FB
 Nucor (NUE),03/17,L,buy,30.99,2020-03-17,NUE
 Regeneron Pharmaceuticals (REGN),03/17,I,buy,491.69,2020-03-17,REGN
 Square (SQ ),03/17,L,buy,44.73,2020-03-17,SQ 
@@ -893,13 +893,13 @@ Alibaba (BABA),03/26,D,buy,195.32,2020-03-26,BABA
 Blackberry (BB),03/26,L,sell,3.93,2020-03-26,BB
 Cheesecake Factory (CAKE),03/26,D,negative,19.66,2020-03-26,CAKE
 CrowdStrike (CRWD),03/26,D,buy,58.64,2020-03-26,CRWD
-Facebook (FB),03/26,D,buy,163.34,2020-03-26,FB
 Ford Motor (F),03/26,D,negative,5.25,2020-03-26,F
 Inovio Pharmaceuticals (INO),03/26,L,positive,7.15,2020-03-26,INO
 Intuitive Surgical (ISRG),03/26,L,buy,501.47,2020-03-26,ISRG
 Macy's (M),03/26,D,negative,5.94,2020-03-26,M
 Marvell Technology (MRVL),03/26,D,buy,23.18,2020-03-26,MRVL
 Merck (MRK),03/26,L,buy,73.53,2020-03-26,MRK
+Meta (FB),03/26,D,buy,163.34,2020-03-26,FB
 Micron Technology (MU),03/26,D,buy,44.79,2020-03-26,MU
 Microsoft (MSFT),03/26,D,buy,156.11,2020-03-26,MSFT
 NVIDIA (NVDA),03/26,D,buy,257.24,2020-03-26,NVDA
@@ -1235,7 +1235,6 @@ Clorox (CLX),04/24,D,buy,190.65,2020-04-24,CLX
 Cloudflare (NET),04/24,L,negative,23.28,2020-04-24,NET
 Colgate-Palmolive (CL),04/24,D,buy,71.4,2020-04-24,CL
 Estee Lauder (EL),04/24,D,positive,166.31,2020-04-24,EL
-Facebook (FB),04/24,D,negative,190.07,2020-04-24,FB
 General Electric (GE),04/24,D,negative,6.26,2020-04-24,GE
 Gilead Sciences (GILD),04/24,D,negative,79.64,2020-04-24,GILD
 Home Depot (HD),04/24,L,buy,212.18,2020-04-24,HD
@@ -1243,6 +1242,7 @@ Honeywell (HON),04/24,D,negative,135.52,2020-04-24,HON
 IHS Markit (INFO),04/24,L,buy,65.6,2020-04-24,INFO
 Kraft Heinz (KHC),04/24,D,positive,29.23,2020-04-24,KHC
 Merck (MRK),04/24,D,positive,81.43,2020-04-24,MRK
+Meta (FB),04/24,D,negative,190.07,2020-04-24,FB
 Microsoft (MSFT),04/24,D,buy,174.55,2020-04-24,MSFT
 NXP Semiconductors (NXPI),04/24,D,positive,94.43,2020-04-24,NXPI
 Nordic American Tanker (NAT),04/24,I,buy,5.85,2020-04-24,NAT
@@ -1418,11 +1418,11 @@ Beyond Meat (BYND),05/06,I,buy,126.21,2020-05-06,BYND
 CVS Health (CVS),05/06,I,buy,60.41,2020-05-06,CVS
 Camping World (CWH),05/06,L,positive,10.39,2020-05-06,CWH
 CrowdStrike (CRWD),05/06,L,buy,72.44,2020-05-06,CRWD
-Facebook (FB),05/06,F,buy,208.47,2020-05-06,FB
 General Dynamics (GD),05/06,L,positive,121.73,2020-05-06,GD
 Hasbro (HAS),05/06,D,positive,65.89,2020-05-06,HAS
 Lam Research (LRCX),05/06,L,negative,244.56,2020-05-06,LRCX
 Mattel (MAT),05/06,I,negative,8.49,2020-05-06,MAT
+Meta (FB),05/06,F,buy,208.47,2020-05-06,FB
 New York Times (NYT),05/06,D,positive,34.81,2020-05-06,NYT
 Okta (OKTA),05/06,L,buy,164.43,2020-05-06,OKTA
 Pinterest (PINS),05/06,D,sell,17.72,2020-05-06,PINS
@@ -1568,9 +1568,9 @@ Dave and Busters (PLAY),05/19,L,sell,11.22,2020-05-19,PLAY
 Domo (DOMO),05/19,L,buy,24.17,2020-05-19,DOMO
 Dropbox (DBX),05/19,L,buy,21.75,2020-05-19,DBX
 Elastic (ESTC),05/19,L,negative,73.91,2020-05-19,ESTC
-Facebook (FB),05/19,D,buy,216.88,2020-05-19,FB
 Five9 (FIVN),05/19,I,buy,103.8,2020-05-19,FIVN
 MGM Resorts (MGM),05/19,L,negative,15.16,2020-05-19,MGM
+Meta (FB),05/19,D,buy,216.88,2020-05-19,FB
 Netflix (NFLX),05/19,D,buy,451.04,2020-05-19,NFLX
 Ping Identity (PING),05/19,I,buy,24.45,2020-05-19,PING
 Ventas (VTR),05/19,L,sell,32.43,2020-05-19,VTR
@@ -1584,9 +1584,9 @@ Box (BOX),05/20,L,sell,17.84,2020-05-20,BOX
 Citrix Systems (CTXS),05/20,L,buy,137.44,2020-05-20,CTXS
 Digital Realty Trust (DLR),05/20,L,buy,132.75,2020-05-20,DLR
 Dropbox (DBX),05/20,L,buy,22.23,2020-05-20,DBX
-Facebook (FB),05/20,D,buy,229.97,2020-05-20,FB
 GW Pharmaceuticals (GWPH),05/20,L,buy,124.91,2020-05-20,GWPH
 Lowe's (LOW),05/20,I,buy,116.99,2020-05-20,LOW
+Meta (FB),05/20,D,buy,229.97,2020-05-20,FB
 Mondelez International (MDLZ),05/20,I,buy,49.75,2020-05-20,MDLZ
 Netflix (NFLX),05/20,D,buy,447.67,2020-05-20,NFLX
 Pioneer Natural Resources (PXD),05/20,L,negative,92.43,2020-05-20,PXD
@@ -1629,10 +1629,10 @@ Carvana (CVNA),05/27,L,buy,96.14,2020-05-27,CVNA
 Chegg (CHGG),05/27,L,buy,60.74,2020-05-27,CHGG
 Citigroup (C),05/27,L,positive,52.26,2020-05-27,C
 Coty (COTY),05/27,L,sell,4.51,2020-05-27,COTY
-Facebook (FB),05/27,D,buy,229.14,2020-05-27,FB
 GSX Techedu (GSX),05/27,L,sell,29.77,2020-05-27,GSX
 Gladstone Commercial (GOOD),05/27,L,sell,18.2,2020-05-27,GOOD
 HP (HPQ),05/27,I,buy,17.12,2020-05-27,HPQ
+Meta (FB),05/27,D,buy,229.14,2020-05-27,FB
 Netflix (NFLX),05/27,D,buy,419.89,2020-05-27,NFLX
 Procter & Gamble (PG),05/27,L,buy,113.89,2020-05-27,PG
 Slack (WORK),05/27,L,buy,32.11,2020-05-27,WORK
@@ -1742,10 +1742,10 @@ Virgin Galactic (SPCE),06/03,D,sell,16.39,2020-06-03,SPCE
 Zoom Video Communications (ZM),06/03,F,buy,223.87,2020-06-03,ZM
 Bunge (BG),06/04,L,buy,41.3,2020-06-04,BG
 Costco (COST),06/04,D,buy,310.75,2020-06-04,COST
-Facebook (FB),06/04,D,positive,226.29,2020-06-04,FB
 JM Smucker (SJM),06/04,I,buy,109.1,2020-06-04,SJM
 Luckin Coffee (LK),06/04,D,sell,4.05,2020-06-04,LK
 Macy's (M),06/04,L,positive,8.21,2020-06-04,M
+Meta (FB),06/04,D,positive,226.29,2020-06-04,FB
 NXP Semiconductors (NXPI),06/04,L,buy,109.55,2020-06-04,NXPI
 Shopify (SHOP),06/04,I,buy,735.19,2020-06-04,SHOP
 VMware (VMW),06/04,L,buy,148.08,2020-06-04,VMW
@@ -1754,11 +1754,11 @@ Apple (AAPL),06/08,D,buy,333.46,2020-06-08,AAPL
 Banco Santander (SAN),06/08,L,buy,2.9,2020-06-08,SAN
 Biohaven Pharmaceuticals (BHVN),06/08,L,buy,69.76,2020-06-08,BHVN
 Cisco Systems (CSCO),06/08,D,buy,48.13,2020-06-08,CSCO
-Facebook (FB),06/08,D,buy,231.4,2020-06-08,FB
 First Horizon National (FHN),06/08,L,buy,12.09,2020-06-08,FHN
 HSBC Holdings (HSBC),06/08,L,positive,26.67,2020-06-08,HSBC
 Intel (INTC),06/08,D,buy,63.67,2020-06-08,INTC
 Lumentum Holdings (LITE),06/08,L,buy,78.15,2020-06-08,LITE
+Meta (FB),06/08,D,buy,231.4,2020-06-08,FB
 Microsoft (MSFT),06/08,D,buy,188.36,2020-06-08,MSFT
 NVIDIA (NVDA),06/08,D,buy,352.2,2020-06-08,NVDA
 Norwegian Cruise Line (NCLH),06/08,D,negative,26.86,2020-06-08,NCLH
@@ -1775,11 +1775,11 @@ Apple (AAPL),06/09,D,buy,343.99,2020-06-09,AAPL
 Axon Enterprise (AAXN),06/09,L,buy,100.27,2020-06-09,AAXN
 Chewy (CHWY),06/09,I,buy,51.51,2020-06-09,CHWY
 DocuSign (DOCU),06/09,I,buy,141.92,2020-06-09,DOCU
-Facebook (FB),06/09,D,buy,238.67,2020-06-09,FB
 G-III Apparel Group (GIII),06/09,L,buy,17.28,2020-06-09,GIII
 General Mills (GIS),06/09,L,buy,62.82,2020-06-09,GIS
 Hertz Global Holdings (HTZ),06/09,F,sell,4.18,2020-06-09,HTZ
 Marriott International (MAR),06/09,L,negative,107.32,2020-06-09,MAR
+Meta (FB),06/09,D,buy,238.67,2020-06-09,FB
 NVIDIA (NVDA),06/09,D,buy,361.84,2020-06-09,NVDA
 Penn National Gaming (PENN),06/09,L,buy,32.5,2020-06-09,PENN
 Seattle Genetics (SGEN),06/09,L,buy,148.94,2020-06-09,SGEN
@@ -1949,13 +1949,13 @@ Taiwan Semiconductor (TSM),06/23,L,buy,56.76,2020-06-23,TSM
 Apple (AAPL),06/24,D,buy,360.06,2020-06-24,AAPL
 Apple (AAPL),06/24,D,buy,360.06,2020-06-24,AAPL
 DraftKings (DKNG),06/24,F,sell,37.56,2020-06-24,DKNG
-Facebook (FB),06/24,D,buy,234.02,2020-06-24,FB
 GoPro (GPRO),06/24,D,negative,4.64,2020-06-24,GPRO
 H&R Block (HRB),06/24,L,sell,14.86,2020-06-24,HRB
 Intuit (INTU),06/24,L,buy,286.13,2020-06-24,INTU
 MGM Resorts (MGM),06/24,D,negative,16.93,2020-06-24,MGM
 Marathon Oil (MRO),06/24,D,negative,5.79,2020-06-24,MRO
 Marriott Vacations Worldw (VAC),06/24,L,buy,81.03,2020-06-24,VAC
+Meta (FB),06/24,D,buy,234.02,2020-06-24,FB
 Microsoft (MSFT),06/24,D,buy,197.84,2020-06-24,MSFT
 Moderna (MRNA),06/24,D,negative,64.84,2020-06-24,MRNA
 Nikola (NKLA),06/24,F,sell,74.19,2020-06-24,NKLA
@@ -1991,7 +1991,6 @@ Costco (COST),06/29,D,buy,301.59,2020-06-29,COST
 Crown Castle (CCI),06/29,D,buy,162.3,2020-06-29,CCI
 Discover Financial Servic (DFS),06/29,L,sell,49.32,2020-06-29,DFS
 Dollar General (DG),06/29,D,buy,190.02,2020-06-29,DG
-Facebook (FB),06/29,D,positive,220.64,2020-06-29,FB
 Fastly (FSLY),06/29,D,buy,78.15,2020-06-29,FSLY
 Gap (GPS),06/29,L,negative,12.51,2020-06-29,GPS
 General Electric (GE),06/29,D,positive,6.8,2020-06-29,GE
@@ -2000,6 +1999,7 @@ Honeywell (HON),06/29,I,buy,143.24,2020-06-29,HON
 Inovio Pharmaceuticals (INO),06/29,L,positive,31.69,2020-06-29,INO
 Kellogg (K),06/29,D,sell,65.08,2020-06-29,K
 Lockheed Martin (LMT),06/29,L,buy,367.5,2020-06-29,LMT
+Meta (FB),06/29,D,positive,220.64,2020-06-29,FB
 Newmont Goldcorp (NEM),06/29,D,buy,59.54,2020-06-29,NEM
 Nike (NKE),06/29,D,positive,95.87,2020-06-29,NKE
 PayPal (PYPL),06/29,L,buy,168.35,2020-06-29,PYPL
@@ -2045,10 +2045,10 @@ BlackRock (BLK),07/01,L,buy,544.32,2020-07-01,BLK
 Calithera Biosciences (CALA),07/01,L,buy,5.24,2020-07-01,CALA
 Constellation Brands (STZ),07/01,I,buy,185.88,2020-07-01,STZ
 EverQuote (EVER),07/01,L,buy,59.51,2020-07-01,EVER
-Facebook (FB),07/01,D,buy,237.55,2020-07-01,FB
 FedEx (FDX),07/01,D,buy,156.66,2020-07-01,FDX
 General Mills (GIS),07/01,I,buy,60.43,2020-07-01,GIS
 Marvell Technology (MRVL),07/01,L,negative,34.37,2020-07-01,MRVL
+Meta (FB),07/01,D,buy,237.55,2020-07-01,FB
 Micron Technology (MU),07/01,L,buy,49.7,2020-07-01,MU
 Moderna (MRNA),07/01,L,negative,61.59,2020-07-01,MRNA
 Nio (NIO),07/01,D,sell,7.91,2020-07-01,NIO
@@ -2108,13 +2108,13 @@ Costco (COST),07/14,D,positive,328.0,2020-07-14,COST
 CyberArk Software (CYBR),07/14,L,buy,107.54,2020-07-14,CYBR
 Dominion Energy (D),07/14,L,buy,73.92,2020-07-14,D
 Everi (EVRI),07/14,D,positive,5.47,2020-07-14,EVRI
-Facebook (FB),07/14,L,negative,239.73,2020-07-14,FB
 Ford Motor (F),07/14,D,sell,6.36,2020-07-14,F
 Gap (GPS),07/14,L,sell,11.15,2020-07-14,GPS
 General Electric (GE),07/14,D,sell,6.88,2020-07-14,GE
 Livongo Health (LVGO),07/14,I,buy,101.18,2020-07-14,LVGO
 Mastercard (MA),07/14,D,positive,298.95,2020-07-14,MA
 McCormick (MKC),07/14,D,positive,189.42,2020-07-14,MKC
+Meta (FB),07/14,L,negative,239.73,2020-07-14,FB
 Moderna (MRNA),07/14,L,positive,75.04,2020-07-14,MRNA
 Ncino (NCNO),07/14,D,positive,91.59,2020-07-14,NCNO
 Paychex (PAYX),07/14,I,buy,71.87,2020-07-14,PAYX
@@ -2143,10 +2143,10 @@ Boeing (BA),07/16,L,positive,178.7,2020-07-16,BA
 Coca-Cola (KO),07/16,L,buy,46.15,2020-07-16,KO
 CrowdStrike (CRWD),07/16,L,buy,101.06,2020-07-16,CRWD
 Domino's Pizza (DPZ),07/16,I,buy,407.52,2020-07-16,DPZ
-Facebook (FB),07/16,D,buy,240.93,2020-07-16,FB
 FireEye (FEYE),07/16,L,negative,12.77,2020-07-16,FEYE
 Ingevity (NGVT),07/16,L,buy,57.95,2020-07-16,NGVT
 Johnson & Johnson (JNJ),07/16,D,buy,149.25,2020-07-16,JNJ
+Meta (FB),07/16,D,buy,240.93,2020-07-16,FB
 Morgan Stanley (MS),07/16,D,buy,52.64,2020-07-16,MS
 Palo Alto Networks (PANW),07/16,L,buy,237.38,2020-07-16,PANW
 Pepsico (PEP),07/16,D,buy,133.88,2020-07-16,PEP
@@ -2214,9 +2214,9 @@ ZoomInfo Technologies (ZI),07/20,L,buy,42.48,2020-07-20,ZI
 Apple (AAPL),07/21,D,buy,388.0,2020-07-21,AAPL
 CommScope (COMM),07/21,L,sell,8.98,2020-07-21,COMM
 Everi (EVRI),07/21,L,buy,5.78,2020-07-21,EVRI
-Facebook (FB),07/21,D,buy,241.75,2020-07-21,FB
 Hanesbrands (HBI),07/21,L,buy,13.88,2020-07-21,HBI
 Logitech International (LOGI),07/21,I,buy,70.41,2020-07-21,LOGI
+Meta (FB),07/21,D,buy,241.75,2020-07-21,FB
 Microsoft (MSFT),07/21,D,buy,208.75,2020-07-21,MSFT
 Okta (OKTA),07/21,I,buy,211.31,2020-07-21,OKTA
 PVH Corp (PVH),07/21,D,positive,49.02,2020-07-21,PVH
@@ -2244,13 +2244,13 @@ AstraZeneca (AZN),07/23,D,buy,55.17,2020-07-23,AZN
 Astronics (ATRO),07/23,L,sell,9.32,2020-07-23,ATRO
 Dish Network (DISH),07/23,L,buy,33.4,2020-07-23,DISH
 Eli Lilly (LLY),07/23,D,positive,161.52,2020-07-23,LLY
-Facebook (FB),07/23,D,buy,232.6,2020-07-23,FB
 GW Pharmaceuticals (GWPH),07/23,L,positive,129.0,2020-07-23,GWPH
 Gilead Sciences (GILD),07/23,D,positive,75.56,2020-07-23,GILD
 GlaxoSmithKline (GSK),07/23,D,buy,40.3,2020-07-23,GSK
 Honeywell (HON),07/23,L,buy,153.73,2020-07-23,HON
 Johnson & Johnson (JNJ),07/23,D,buy,149.61,2020-07-23,JNJ
 Lemonade (LMND),07/23,I,buy,82.16,2020-07-23,LMND
+Meta (FB),07/23,D,buy,232.6,2020-07-23,FB
 Microsoft (MSFT),07/23,D,buy,202.54,2020-07-23,MSFT
 Moderna (MRNA),07/23,D,negative,75.33,2020-07-23,MRNA
 Ncino (NCNO),07/23,F,buy,71.57,2020-07-23,NCNO
@@ -2273,11 +2273,11 @@ Caterpillar (CAT),07/27,D,positive,139.89,2020-07-27,CAT
 Chevron (CVX),07/27,D,buy,91.04,2020-07-27,CVX
 Eli Lilly (LLY),07/27,D,buy,160.5,2020-07-27,LLY
 Exxon Mobil (XOM),07/27,D,negative,44.07,2020-07-27,XOM
-Facebook (FB),07/27,D,buy,233.5,2020-07-27,FB
 General Electric (GE),07/27,D,negative,6.71,2020-07-27,GE
 Intel (INTC),07/27,L,negative,49.57,2020-07-27,INTC
 Mattel (MAT),07/27,I,buy,10.86,2020-07-27,MAT
 McDonald's (MCD),07/27,D,buy,201.25,2020-07-27,MCD
+Meta (FB),07/27,D,buy,233.5,2020-07-27,FB
 Oneok (OKE),07/27,L,sell,28.02,2020-07-27,OKE
 PayPal (PYPL),07/27,D,buy,177.98,2020-07-27,PYPL
 Pfizer (PFE),07/27,D,buy,37.54,2020-07-27,PFE
@@ -2313,13 +2313,13 @@ Apple (AAPL),07/29,D,buy,380.16,2020-07-29,AAPL
 BioCryst Pharmaceuticals (BCRX),07/29,L,sell,4.22,2020-07-29,BCRX
 Dexcom (DXCM),07/29,I,buy,427.08,2020-07-29,DXCM
 Eli Lilly (LLY),07/29,L,buy,161.75,2020-07-29,LLY
-Facebook (FB),07/29,D,buy,233.29,2020-07-29,FB
 GTT Communications (GTT),07/29,L,sell,6.87,2020-07-29,GTT
 HCA Healthcare (HCA),07/29,L,buy,129.78,2020-07-29,HCA
 Jumia Technologies (JMIA),07/29,L,sell,11.37,2020-07-29,JMIA
 Lumber Liquidators (LL),07/29,L,buy,22.73,2020-07-29,LL
 Martin Marietta Materials (MLM),07/29,I,buy,214.13,2020-07-29,MLM
 Marvell Technology (MRVL),07/29,L,buy,35.11,2020-07-29,MRVL
+Meta (FB),07/29,D,buy,233.29,2020-07-29,FB
 Microsoft (MSFT),07/29,D,buy,204.06,2020-07-29,MSFT
 Nio (NIO),07/29,L,sell,12.7,2020-07-29,NIO
 Qorvo (QRVO),07/29,L,buy,115.28,2020-07-29,QRVO
@@ -2329,8 +2329,8 @@ Apple (AAPL),07/30,F,buy,384.76,2020-07-30,AAPL
 Blink Charging (BLNK),07/30,L,sell,12.49,2020-07-30,BLNK
 Collier Creek (CCH),07/30,I,buy,13.58,2020-07-30,CCH
 Dynatrace (DT),07/30,L,buy,42.37,2020-07-30,DT
-Facebook (FB),07/30,F,buy,234.5,2020-07-30,FB
 Keurig Dr Pepper (KDP),07/30,I,buy,30.77,2020-07-30,KDP
+Meta (FB),07/30,F,buy,234.5,2020-07-30,FB
 Rosetta Stone (RST),07/30,L,buy,25.94,2020-07-30,RST
 Taylor Morrison Homes (TMHC),07/30,I,buy,23.91,2020-07-30,TMHC
 Vaxart (VXRT),07/30,L,sell,9.92,2020-07-30,VXRT
@@ -2407,7 +2407,7 @@ Ball Corp (BLL),08/06,L,buy,74.44,2020-08-06,BLL
 Deere & Company (DE),08/06,L,buy,181.26,2020-08-06,DE
 Elanco Animal Health (ELAN),08/06,L,buy,24.44,2020-08-06,ELAN
 Etsy (ETSY),08/06,I,buy,130.66,2020-08-06,ETSY
-Facebook (FB),08/06,D,buy,265.28,2020-08-06,FB
+Meta (FB),08/06,D,buy,265.28,2020-08-06,FB
 Microsoft (MSFT),08/06,D,buy,216.35,2020-08-06,MSFT
 Papa Johns Pizza (PZZA),08/06,I,buy,97.53,2020-08-06,PZZA
 Salesforce (CRM),08/06,D,buy,207.79,2020-08-06,CRM
@@ -2572,7 +2572,6 @@ Best Buy (BBY),08/26,D,buy,112.31,2020-08-26,BBY
 Churchill Capital (CCX),08/26,L,negative,10.52,2020-08-26,CCX
 Costco (COST),08/26,D,buy,344.27,2020-08-26,COST
 Dicks Sporting Goods (DKS),08/26,D,buy,53.99,2020-08-26,DKS
-Facebook (FB),08/26,D,positive,303.91,2020-08-26,FB
 GrowGeneration (GRWG),08/26,L,buy,14.05,2020-08-26,GRWG
 Home Depot (HD),08/26,D,buy,291.93,2020-08-26,HD
 Inseego (INSG),08/26,L,buy,10.86,2020-08-26,INSG
@@ -2581,6 +2580,7 @@ Kohl's (KSS),08/26,D,sell,20.71,2020-08-26,KSS
 L Brands (LB),08/26,D,sell,30.76,2020-08-26,LB
 Landcadia Holdings (LCA),08/26,L,buy,16.12,2020-08-26,LCA
 Lowe's (LOW),08/26,D,buy,170.39,2020-08-26,LOW
+Meta (FB),08/26,D,positive,303.91,2020-08-26,FB
 Nordstrom (JWN),08/26,D,sell,14.69,2020-08-26,JWN
 Oneok (OKE),08/26,L,sell,26.56,2020-08-26,OKE
 Royal Dutch Shell (RDS.A),08/26,L,sell,30.03,2020-08-26,RDS.A
@@ -2887,10 +2887,10 @@ Alteryx (AYX),10/07,L,buy,143.68,2020-10-07,AYX
 Apple (AAPL),10/07,F,buy,115.08,2020-10-07,AAPL
 Barrick Gold (GOLD),10/07,L,buy,26.95,2020-10-07,GOLD
 Exact Sciences (EXAS),10/07,I,buy,108.43,2020-10-07,EXAS
-Facebook (FB),10/07,F,buy,258.12,2020-10-07,FB
 K12 (LRN),10/07,L,buy,29.83,2020-10-07,LRN
 Kinross Gold (KGC),10/07,L,negative,8.43,2020-10-07,KGC
 Levi Strauss (LEVI),10/07,I,buy,15.49,2020-10-07,LEVI
+Meta (FB),10/07,F,buy,258.12,2020-10-07,FB
 Sunrun (RUN),10/07,L,buy,78.05,2020-10-07,RUN
 Tanger Factory Outlet Cen (SKT),10/07,L,sell,6.37,2020-10-07,SKT
 WW International (WW),10/07,L,sell,22.69,2020-10-07,WW
@@ -2961,12 +2961,12 @@ Corteva Agriscienses (CTVA),10/12,D,buy,33.59,2020-10-12,CTVA
 Deere & Company (DE),10/12,D,buy,236.52,2020-10-12,DE
 EOG Resources (EOG),10/12,L,positive,38.21,2020-10-12,EOG
 Energy Transfer (ET),10/12,L,sell,6.05,2020-10-12,ET
-Facebook (FB),10/12,D,positive,275.75,2020-10-12,FB
 Ford Motor (F),10/12,D,buy,7.67,2020-10-12,F
 Gap (GPS),10/12,F,buy,19.28,2020-10-12,GPS
 General Electric (GE),10/12,D,positive,6.83,2020-10-12,GE
 JinkoSolar (JKS),10/12,L,sell,59.4,2020-10-12,JKS
 L Brands (LB),10/12,F,buy,32.05,2020-10-12,LB
+Meta (FB),10/12,D,positive,275.75,2020-10-12,FB
 Mosaic (MOS),10/12,D,buy,19.34,2020-10-12,MOS
 Papa Johns Pizza (PZZA),10/12,L,buy,80.14,2020-10-12,PZZA
 Pepsico (PEP),10/12,D,buy,142.13,2020-10-12,PEP
@@ -3097,7 +3097,6 @@ CVS Health (CVS),10/21,L,positive,59.23,2020-10-21,CVS
 Costco (COST),10/21,D,buy,377.82,2020-10-21,COST
 DraftKings (DKNG),10/21,L,buy,41.5,2020-10-21,DKNG
 Etsy (ETSY),10/21,D,buy,133.01,2020-10-21,ETSY
-Facebook (FB),10/21,D,buy,278.73,2020-10-21,FB
 GoPro (GPRO),10/21,D,sell,6.55,2020-10-21,GPRO
 Home Depot (HD),10/21,D,buy,284.51,2020-10-21,HD
 L3Harris Technologies (LHX),10/21,L,positive,169.81,2020-10-21,LHX
@@ -3107,6 +3106,7 @@ Lowe's (LOW),10/21,D,buy,174.5,2020-10-21,LOW
 MGP Ingredients (MGPI),10/21,L,buy,41.2,2020-10-21,MGPI
 Manpower (MAN),10/21,L,buy,71.24,2020-10-21,MAN
 Masco (MAS),10/21,D,buy,56.11,2020-10-21,MAS
+Meta (FB),10/21,D,buy,278.73,2020-10-21,FB
 PPG Industries (PPG),10/21,D,buy,134.03,2020-10-21,PPG
 PayPal (PYPL),10/21,D,buy,213.07,2020-10-21,PYPL
 Penn National Gaming (PENN),10/21,L,buy,63.13,2020-10-21,PENN
@@ -3149,10 +3149,10 @@ Crown Castle (CCI),10/23,L,buy,158.47,2020-10-23,CCI
 DataDog (DDOG),10/23,D,buy,102.08,2020-10-23,DDOG
 Etsy (ETSY),10/23,D,buy,137.85,2020-10-23,ETSY
 Exxon Mobil (XOM),10/23,D,negative,34.16,2020-10-23,XOM
-Facebook (FB),10/23,D,buy,284.79,2020-10-23,FB
 Fastly (FSLY),10/23,D,buy,76.35,2020-10-23,FSLY
 Mattel (MAT),10/23,I,buy,14.16,2020-10-23,MAT
 Merck (MRK),10/23,D,buy,79.83,2020-10-23,MRK
+Meta (FB),10/23,D,buy,284.79,2020-10-23,FB
 Microsoft (MSFT),10/23,D,buy,216.23,2020-10-23,MSFT
 Morgan Stanley (MS),10/23,D,buy,51.87,2020-10-23,MS
 NXP Semiconductors (NXPI),10/23,D,positive,137.18,2020-10-23,NXPI
@@ -3193,10 +3193,10 @@ Advanced Micro Devices (AMD),10/27,D,buy,78.88,2020-10-27,AMD
 Apple (AAPL),10/27,D,buy,116.6,2020-10-27,AAPL
 Centene (CNC),10/27,I,buy,64.14,2020-10-27,CNC
 Exact Sciences (EXAS),10/27,D,buy,131.12,2020-10-27,EXAS
-Facebook (FB),10/27,D,buy,283.29,2020-10-27,FB
 Gilead Sciences (GILD),10/27,L,sell,60.01,2020-10-27,GILD
 Harley Davidson (HOG),10/27,D,positive,35.4,2020-10-27,HOG
 Kimberly-Clark (KMB),10/27,L,negative,134.76,2020-10-27,KMB
+Meta (FB),10/27,D,buy,283.29,2020-10-27,FB
 Microsoft (MSFT),10/27,D,buy,213.25,2020-10-27,MSFT
 Netflix (NFLX),10/27,D,positive,488.93,2020-10-27,NFLX
 Palantir Technologies (PLTR),10/27,L,buy,10.95,2020-10-27,PLTR
@@ -3308,7 +3308,6 @@ Centene (CNC),11/04,D,buy,63.99,2020-11-04,CNC
 DocuSign (DOCU),11/04,L,buy,236.77,2020-11-04,DOCU
 DraftKings (DKNG),11/04,D,buy,39.46,2020-11-04,DKNG
 Eaton (ETN),11/04,L,buy,105.9,2020-11-04,ETN
-Facebook (FB),11/04,D,buy,287.38,2020-11-04,FB
 Fluidigm (FLDM),11/04,D,buy,6.8,2020-11-04,FLDM
 Generac Holdings (GNRC),11/04,L,buy,223.5,2020-11-04,GNRC
 GrowGeneration (GRWG),11/04,D,buy,18.98,2020-11-04,GRWG
@@ -3319,6 +3318,7 @@ Lyft (LYFT),11/04,D,buy,29.19,2020-11-04,LYFT
 MGM Resorts (MGM),11/04,D,buy,21.44,2020-11-04,MGM
 Magnite (MGNI),11/04,L,sell,10.08,2020-11-04,MGNI
 Merck (MRK),11/04,D,buy,80.62,2020-11-04,MRK
+Meta (FB),11/04,D,buy,287.38,2020-11-04,FB
 Oracle (ORCL),11/04,L,negative,56.49,2020-11-04,ORCL
 Papa Johns Pizza (PZZA),11/04,I,buy,82.28,2020-11-04,PZZA
 Penn National Gaming (PENN),11/04,D,buy,59.73,2020-11-04,PENN
@@ -3403,13 +3403,13 @@ Carvana (CVNA),11/10,D,buy,192.49,2020-11-10,CVNA
 Coca-Cola (KO),11/10,D,buy,53.98,2020-11-10,KO
 D R Horton (DHI),11/10,D,positive,70.88,2020-11-10,DHI
 Etsy (ETSY),11/10,D,buy,119.43,2020-11-10,ETSY
-Facebook (FB),11/10,D,positive,272.43,2020-11-10,FB
 Ford Motor (F),11/10,D,buy,8.38,2020-11-10,F
 Home Depot (HD),11/10,D,buy,275.57,2020-11-10,HD
 Honeywell (HON),11/10,D,buy,201.98,2020-11-10,HON
 JPMorgan Chase (JPM),11/10,D,buy,116.52,2020-11-10,JPM
 Johnson & Johnson (JNJ),11/10,D,buy,148.28,2020-11-10,JNJ
 Lithia and Driveway (LAD),11/10,L,buy,267.88,2020-11-10,LAD
+Meta (FB),11/10,D,positive,272.43,2020-11-10,FB
 Netflix (NFLX),11/10,D,negative,480.24,2020-11-10,NFLX
 Simon Property Group (SPG),11/10,D,negative,78.84,2020-11-10,SPG
 Starbucks (SBUX),11/10,D,buy,93.92,2020-11-10,SBUX
@@ -3495,7 +3495,6 @@ Whirlpool (WHR),11/16,L,buy,188.6,2020-11-16,WHR
 Applied Materials (AMAT),11/17,F,buy,74.37,2020-11-17,AMAT
 Boeing (BA),11/17,D,buy,210.05,2020-11-17,BA
 CVS Health (CVS),11/17,D,positive,67.14,2020-11-17,CVS
-Facebook (FB),11/17,L,buy,275.0,2020-11-17,FB
 Home Depot (HD),11/17,D,positive,272.47,2020-11-17,HD
 Honeywell (HON),11/17,D,buy,205.33,2020-11-17,HON
 KLA Corp (KLAC),11/17,F,buy,241.84,2020-11-17,KLAC
@@ -3503,6 +3502,7 @@ Lam Research (LRCX),11/17,F,buy,431.93,2020-11-17,LRCX
 Li Auto (LI),11/17,L,positive,35.05,2020-11-17,LI
 Lordstown Motors (RIDE),11/17,I,buy,24.7,2020-11-17,RIDE
 McAfee (MCFE),11/17,L,sell,17.0,2020-11-17,MCFE
+Meta (FB),11/17,L,buy,275.0,2020-11-17,FB
 Rockwell Automation (ROK),11/17,I,buy,241.32,2020-11-17,ROK
 Snowflake (SNOW),11/17,L,positive,248.03,2020-11-17,SNOW
 Walmart (WMT),11/17,D,positive,149.37,2020-11-17,WMT
@@ -3605,11 +3605,11 @@ Cinemark Holdings (CNK),11/30,L,negative,15.45,2020-11-30,CNK
 Cummins (CMI),11/30,D,buy,231.17,2020-11-30,CMI
 Dell (DELL),11/30,I,buy,69.03,2020-11-30,DELL
 Energy Transfer (ET),11/30,L,sell,6.18,2020-11-30,ET
-Facebook (FB),11/30,D,buy,276.97,2020-11-30,FB
 IHS Markit (INFO),11/30,I,buy,99.46,2020-11-30,INFO
 Johnson & Johnson (JNJ),11/30,L,positive,144.68,2020-11-30,JNJ
 Lemonade (LMND),11/30,L,buy,69.27,2020-11-30,LMND
 Linde (LIN),11/30,D,buy,256.42,2020-11-30,LIN
+Meta (FB),11/30,D,buy,276.97,2020-11-30,FB
 Netflix (NFLX),11/30,D,buy,490.7,2020-11-30,NFLX
 Nikola (NKLA),11/30,D,negative,20.41,2020-11-30,NKLA
 Olin (OLN),11/30,L,buy,21.89,2020-11-30,OLN
@@ -3618,9 +3618,9 @@ Rocket Companies (RKT),11/30,L,negative,20.72,2020-11-30,RKT
 S&P Global (SPGI),11/30,I,buy,351.78,2020-11-30,SPGI
 Tesla (TSLA),11/30,F,buy,567.6,2020-11-30,TSLA
 Apple (AAPL),12/01,D,buy,122.72,2020-12-01,AAPL
-Facebook (FB),12/01,D,buy,286.55,2020-12-01,FB
 FedEx (FDX),12/01,D,buy,287.76,2020-12-01,FDX
 Kinder Morgan (KMI),12/01,L,sell,14.1,2020-12-01,KMI
+Meta (FB),12/01,D,buy,286.55,2020-12-01,FB
 Micron Technology (MU),12/01,D,buy,67.08,2020-12-01,MU
 Netflix (NFLX),12/01,D,buy,504.58,2020-12-01,NFLX
 Nutanix (NTNX),12/01,L,sell,27.8,2020-12-01,NTNX
@@ -3686,7 +3686,7 @@ CVS Health (CVS),12/10,L,buy,72.21,2020-12-10,CVS
 Cheesecake Factory (CAKE),12/10,L,buy,38.11,2020-12-10,CAKE
 DoorDash (DASH),12/10,D,positive,186.0,2020-12-10,DASH
 Edwards Lifesciences (EW),12/10,I,buy,86.74,2020-12-10,EW
-Facebook (FB),12/10,D,positive,277.12,2020-12-10,FB
+Meta (FB),12/10,D,positive,277.12,2020-12-10,FB
 QuantumScape (QS),12/10,D,sell,76.61,2020-12-10,QS
 Snowflake (SNOW),12/10,D,positive,373.28,2020-12-10,SNOW
 Stitch Fix (SFIX),12/10,I,buy,59.21,2020-12-10,SFIX
@@ -4115,7 +4115,6 @@ Cardiff Oncology (CRDF),01/22,L,negative,10.9,2021-01-22,CRDF
 Caterpillar (CAT),01/22,D,positive,191.94,2021-01-22,CAT
 Chevron (CVX),01/22,D,buy,91.73,2021-01-22,CVX
 Eli Lilly (LLY),01/22,D,buy,206.14,2021-01-22,LLY
-Facebook (FB),01/22,D,buy,274.5,2021-01-22,FB
 First Horizon National (FHN),01/22,I,buy,14.56,2021-01-22,FHN
 General Motors (GM),01/22,D,buy,55.4,2021-01-22,GM
 Honeywell (HON),01/22,D,buy,202.25,2021-01-22,HON
@@ -4124,6 +4123,7 @@ Kimberly-Clark (KMB),01/22,D,positive,132.21,2021-01-22,KMB
 Lemonade (LMND),01/22,L,buy,153.49,2021-01-22,LMND
 Mastercard (MA),01/22,D,positive,328.99,2021-01-22,MA
 McDonald's (MCD),01/22,D,positive,213.38,2021-01-22,MCD
+Meta (FB),01/22,D,buy,274.5,2021-01-22,FB
 Microsoft (MSFT),01/22,D,buy,225.95,2021-01-22,MSFT
 NVIDIA (NVDA),01/22,L,buy,548.5,2021-01-22,NVDA
 PayPal (PYPL),01/22,D,buy,252.0,2021-01-22,PYPL
@@ -4178,10 +4178,10 @@ United Parcel Service (UPS),02/02,I,buy,160.29,2021-02-02,UPS
 Walt Disney (DIS),02/02,D,buy,176.96,2021-02-02,DIS
 WiMi Hologram Cloud (WIMI),02/02,L,sell,9.11,2021-02-02,WIMI
 Apple (AAPL),02/03,D,buy,133.94,2021-02-03,AAPL
-Facebook (FB),02/03,D,buy,266.65,2021-02-03,FB
 Futu Holdings (FUTU),02/03,L,buy,118.63,2021-02-03,FUTU
 Hologic (HOLX),02/03,I,buy,82.32,2021-02-03,HOLX
 Magellan Midstream Partne (MMP),02/03,L,sell,42.38,2021-02-03,MMP
+Meta (FB),02/03,D,buy,266.65,2021-02-03,FB
 Microsoft (MSFT),02/03,D,buy,243.0,2021-02-03,MSFT
 Skyworks Solutions (SWKS),02/03,I,buy,179.46,2021-02-03,SWKS
 Verizon (VZ),02/03,L,buy,54.79,2021-02-03,VZ
@@ -4435,10 +4435,10 @@ American Electric Power (AEP),03/03,I,buy,76.32,2021-03-03,AEP
 Bed Bath & Beyond (BBBY),03/03,D,positive,29.03,2021-03-03,BBBY
 Boeing (BA),03/03,D,buy,228.56,2021-03-03,BA
 Emergent BioSolutions (EBS),03/03,I,buy,94.73,2021-03-03,EBS
-Facebook (FB),03/03,L,buy,255.41,2021-03-03,FB
 Foot Locker (FL),03/03,D,positive,51.34,2021-03-03,FL
 Groupon (GRPN),03/03,L,buy,61.18,2021-03-03,GRPN
 McDonald's (MCD),03/03,L,positive,205.82,2021-03-03,MCD
+Meta (FB),03/03,L,buy,255.41,2021-03-03,FB
 Nike (NKE),03/03,D,negative,134.26,2021-03-03,NKE
 Norwegian Cruise Line (NCLH),03/03,D,buy,33.13,2021-03-03,NCLH
 Royal Caribbean Cruises (RCL),03/03,D,buy,94.48,2021-03-03,RCL
@@ -4639,11 +4639,11 @@ Taiwan Semiconductor (TSM),04/01,L,buy,124.8,2021-04-01,TSM
 Tesla (TSLA),04/01,L,buy,661.75,2021-04-01,TSLA
 Apple (AAPL),04/05,D,buy,125.9,2021-04-05,AAPL
 Canoo (GOEV),04/05,L,negative,8.47,2021-04-05,GOEV
-Facebook (FB),04/05,D,buy,308.91,2021-04-05,FB
 Fastly (FSLY),04/05,L,buy,68.85,2021-04-05,FSLY
 Ford Motor (F),04/05,D,buy,12.7,2021-04-05,F
 General Motors (GM),04/05,D,buy,61.04,2021-04-05,GM
 MarketAxess (MKTX),04/05,I,buy,520.0,2021-04-05,MKTX
+Meta (FB),04/05,D,buy,308.91,2021-04-05,FB
 Microsoft (MSFT),04/05,D,buy,249.07,2021-04-05,MSFT
 Netflix (NFLX),04/05,D,buy,540.67,2021-04-05,NFLX
 Nio (NIO),04/05,L,negative,39.31,2021-04-05,NIO
@@ -4817,11 +4817,11 @@ Apple (AAPL),04/21,D,buy,133.5,2021-04-21,AAPL
 Boston Scientific (BSX),04/21,L,buy,42.31,2021-04-21,BSX
 Cleveland-Cliffs (CLF),04/21,L,buy,17.05,2021-04-21,CLF
 Edwards Lifesciences (EW),04/21,L,buy,95.24,2021-04-21,EW
-Facebook (FB),04/21,D,positive,301.47,2021-04-21,FB
 Intuitive Surgical (ISRG),04/21,L,buy,891.38,2021-04-21,ISRG
 Kansas City Southern (KSU),04/21,D,buy,297.65,2021-04-21,KSU
 Marvell Technology (MRVL),04/21,I,buy,47.48,2021-04-21,MRVL
 Medtronic (MDT),04/21,L,buy,130.25,2021-04-21,MDT
+Meta (FB),04/21,D,positive,301.47,2021-04-21,FB
 Netflix (NFLX),04/21,F,buy,508.9,2021-04-21,NFLX
 PPG Industries (PPG),04/21,I,buy,173.57,2021-04-21,PPG
 Qualtrics (XM),04/21,I,buy,33.82,2021-04-21,XM
@@ -4846,10 +4846,10 @@ Clean Energy Fuels (CLNE),04/23,L,sell,10.39,2021-04-23,CLNE
 Clorox (CLX),04/23,D,negative,188.54,2021-04-23,CLX
 Colgate-Palmolive (CL),04/23,D,negative,79.79,2021-04-23,CL
 Exxon Mobil (XOM),04/23,D,sell,55.57,2021-04-23,XOM
-Facebook (FB),04/23,D,positive,301.13,2021-04-23,FB
 Ferrari (RACE),04/23,L,buy,215.9,2021-04-23,RACE
 Ford Motor (F),04/23,D,buy,12.22,2021-04-23,F
 Honeywell (HON),04/23,D,positive,224.5,2021-04-23,HON
+Meta (FB),04/23,D,positive,301.13,2021-04-23,FB
 Microsoft (MSFT),04/23,D,buy,261.15,2021-04-23,MSFT
 Mohawk Group (MWK),04/23,L,sell,23.77,2021-04-23,MWK
 Nucor (NUE),04/23,I,buy,77.83,2021-04-23,NUE
@@ -4914,11 +4914,11 @@ XL Fleet (XL),04/27,L,sell,7.09,2021-04-27,XL
 Advanced Micro Devices (AMD),04/28,D,buy,84.02,2021-04-28,AMD
 Apple (AAPL),04/28,D,buy,133.58,2021-04-28,AAPL
 Coinbase Global (COIN),04/28,L,positive,298.05,2021-04-28,COIN
-Facebook (FB),04/28,D,buy,307.1,2021-04-28,FB
 Ford Motor (F),04/28,I,buy,12.43,2021-04-28,F
 Inovio Pharmaceuticals (INO),04/28,L,sell,7.08,2021-04-28,INO
 Kellogg (K),04/28,L,sell,62.06,2021-04-28,K
 Leslie's (LESL),04/28,L,negative,29.18,2021-04-28,LESL
+Meta (FB),04/28,D,buy,307.1,2021-04-28,FB
 Microsoft (MSFT),04/28,D,buy,254.56,2021-04-28,MSFT
 Mondelez International (MDLZ),04/28,L,buy,60.88,2021-04-28,MDLZ
 Ocugen (OCGN),04/28,L,sell,11.21,2021-04-28,OCGN
@@ -5026,10 +5026,10 @@ Zebra Technologies (ZBRA),05/04,I,buy,470.62,2021-05-04,ZBRA
 Apple (AAPL),05/05,D,buy,128.1,2021-05-05,AAPL
 Bed Bath & Beyond (BBBY),05/05,I,buy,24.39,2021-05-05,BBBY
 Cerence (CRNC),05/05,L,negative,93.25,2021-05-05,CRNC
-Facebook (FB),05/05,D,buy,315.02,2021-05-05,FB
 Fastly (FSLY),05/05,L,sell,58.06,2021-05-05,FSLY
 Ford Motor (F),05/05,F,buy,11.61,2021-05-05,F
 Medpace Holdings (MEDP),05/05,L,buy,164.04,2021-05-05,MEDP
+Meta (FB),05/05,D,buy,315.02,2021-05-05,FB
 Microsoft (MSFT),05/05,D,buy,246.47,2021-05-05,MSFT
 Morgan Stanley (MS),05/05,L,buy,84.51,2021-05-05,MS
 Netflix (NFLX),05/05,D,buy,496.08,2021-05-05,NFLX
@@ -5319,9 +5319,9 @@ AMC Entertainment (AMC),05/26,D,positive,19.56,2021-05-26,AMC
 Apple (AAPL),05/26,D,buy,126.85,2021-05-26,AAPL
 Beyond Meat (BYND),05/26,D,buy,126.74,2021-05-26,BYND
 Chewy (CHWY),05/26,L,buy,73.96,2021-05-26,CHWY
-Facebook (FB),05/26,D,buy,327.66,2021-05-26,FB
 Ford Motor (F),05/26,D,buy,13.9,2021-05-26,F
 GameStop (GME),05/26,D,positive,242.56,2021-05-26,GME
+Meta (FB),05/26,D,buy,327.66,2021-05-26,FB
 Microsoft (MSFT),05/26,D,buy,251.49,2021-05-26,MSFT
 Netflix (NFLX),05/26,D,buy,502.36,2021-05-26,NFLX
 Okta (OKTA),05/26,I,buy,246.53,2021-05-26,OKTA
@@ -5402,10 +5402,10 @@ Adobe Systems (ADBE),06/14,D,buy,556.95,2021-06-14,ADBE
 American Express (AXP),06/14,I,buy,163.81,2021-06-14,AXP
 Apple (AAPL),06/14,D,buy,130.48,2021-06-14,AAPL
 Corsair Gaming (CRSR),06/14,D,sell,36.0,2021-06-14,CRSR
-Facebook (FB),06/14,D,buy,336.77,2021-06-14,FB
 Johnson & Johnson (JNJ),06/14,L,buy,165.37,2021-06-14,JNJ
 Lockheed Martin (LMT),06/14,L,buy,389.11,2021-06-14,LMT
 Logitech International (LOGI),06/14,D,buy,128.99,2021-06-14,LOGI
+Meta (FB),06/14,D,buy,336.77,2021-06-14,FB
 Microsoft (MSFT),06/14,D,buy,259.89,2021-06-14,MSFT
 Netflix (NFLX),06/14,D,buy,499.89,2021-06-14,NFLX
 OraSure Technologies (OSUR),06/14,L,sell,9.51,2021-06-14,OSUR
@@ -5449,7 +5449,7 @@ Celsius Holdings (CELH),06/17,L,buy,64.63,2021-06-17,CELH
 Clean Energy Fuels (CLNE),06/17,I,buy,11.12,2021-06-17,CLNE
 Dexcom (DXCM),06/17,L,buy,412.45,2021-06-17,DXCM
 Eastman Chemical (EMN),06/17,F,buy,116.97,2021-06-17,EMN
-Facebook (FB),06/17,D,buy,336.51,2021-06-17,FB
+Meta (FB),06/17,D,buy,336.51,2021-06-17,FB
 Microsoft (MSFT),06/17,D,buy,260.9,2021-06-17,MSFT
 NVIDIA (NVDA),06/17,D,buy,746.29,2021-06-17,NVDA
 Netflix (NFLX),06/17,D,buy,498.34,2021-06-17,NFLX
@@ -5571,8 +5571,8 @@ Alibaba (BABA),06/29,L,buy,229.44,2021-06-29,BABA
 Baidu.com (BIDU),06/29,L,buy,207.67,2021-06-29,BIDU
 Clorox (CLX),06/29,L,buy,179.4,2021-06-29,CLX
 DigitalOcean (DOCN),06/29,L,sell,54.82,2021-06-29,DOCN
-Facebook (FB),06/29,D,buy,351.89,2021-06-29,FB
 Merck (MRK),06/29,D,buy,77.21,2021-06-29,MRK
+Meta (FB),06/29,D,buy,351.89,2021-06-29,FB
 Microsoft (MSFT),06/29,D,negative,271.4,2021-06-29,MSFT
 NVIDIA (NVDA),06/29,D,buy,801.07,2021-06-29,NVDA
 Paychex (PAYX),06/29,I,buy,107.54,2021-06-29,PAYX
@@ -5583,10 +5583,10 @@ Apple (AAPL),06/30,D,buy,136.96,2021-06-30,AAPL
 Constellation Brands (STZ),06/30,I,buy,233.89,2021-06-30,STZ
 Digital Realty Trust (DLR),06/30,L,buy,150.46,2021-06-30,DLR
 Etsy (ETSY),06/30,D,buy,205.84,2021-06-30,ETSY
-Facebook (FB),06/30,D,buy,347.71,2021-06-30,FB
 Ford Motor (F),06/30,D,buy,14.86,2021-06-30,F
 Generac Holdings (GNRC),06/30,L,buy,415.15,2021-06-30,GNRC
 Haemonetics (HAE),06/30,L,buy,66.64,2021-06-30,HAE
+Meta (FB),06/30,D,buy,347.71,2021-06-30,FB
 RH (RH),06/30,F,buy,679.0,2021-06-30,RH
 Sorrento Therapeutics (SRNE),06/30,L,negative,9.69,2021-06-30,SRNE
 Square (SQ),06/30,D,buy,243.8,2021-06-30,SQ
@@ -5788,11 +5788,11 @@ Caterpillar (CAT),07/23,D,buy,209.53,2021-07-23,CAT
 Chevron (CVX),07/23,D,buy,98.86,2021-07-23,CVX
 Domino's Pizza (DPZ),07/23,D,buy,525.45,2021-07-23,DPZ
 Exxon Mobil (XOM),07/23,D,positive,57.04,2021-07-23,XOM
-Facebook (FB),07/23,D,buy,369.79,2021-07-23,FB
 Ford Motor (F),07/23,D,buy,13.82,2021-07-23,F
 Magna International (MGA),07/23,L,buy,80.93,2021-07-23,MGA
 Mastercard (MA),07/23,D,buy,393.26,2021-07-23,MA
 McDonald's (MCD),07/23,D,buy,242.96,2021-07-23,MCD
+Meta (FB),07/23,D,buy,369.79,2021-07-23,FB
 Microsoft (MSFT),07/23,D,negative,289.67,2021-07-23,MSFT
 Monday.com (MNDY),07/23,F,positive,204.93,2021-07-23,MNDY
 REE Automotive (REE),07/23,I,buy,10.21,2021-07-23,REE
@@ -5853,11 +5853,11 @@ Advanced Micro Devices (AMD),07/29,D,buy,102.95,2021-07-29,AMD
 AppLovin (APP),07/29,L,positive,65.22,2021-07-29,APP
 Apple (AAPL),07/29,D,buy,145.64,2021-07-29,AAPL
 Dexcom (DXCM),07/29,I,buy,456.05,2021-07-29,DXCM
-Facebook (FB),07/29,D,buy,358.32,2021-07-29,FB
 Lear (LEA),07/29,L,buy,176.57,2021-07-29,LEA
 Lucid Group (LCID),07/29,L,positive,23.35,2021-07-29,LCID
 Magna International (MGA),07/29,L,buy,83.68,2021-07-29,MGA
 Maxar Technologies (MAXR),07/29,L,buy,35.03,2021-07-29,MAXR
+Meta (FB),07/29,D,buy,358.32,2021-07-29,FB
 Netflix (NFLX),07/29,D,buy,514.25,2021-07-29,NFLX
 ON Semiconductor (ON),07/29,L,buy,38.61,2021-07-29,ON
 PayPal (PYPL),07/29,D,buy,283.17,2021-07-29,PYPL
@@ -5871,7 +5871,7 @@ Coupang (CPNG),08/02,L,positive,36.74,2021-08-02,CPNG
 DiDi Global (DIDI),08/02,D,sell,10.38,2021-08-02,DIDI
 DoorDash (DASH),08/02,D,buy,177.63,2021-08-02,DASH
 Energy Transfer (ET),08/02,L,sell,9.7,2021-08-02,ET
-Facebook (FB),08/02,D,buy,351.95,2021-08-02,FB
+Meta (FB),08/02,D,buy,351.95,2021-08-02,FB
 New York Community Bancor (NYCB),08/02,L,sell,11.81,2021-08-02,NYCB
 Newell Brands (NWL),08/02,I,buy,24.85,2021-08-02,NWL
 PayPal (PYPL),08/02,D,buy,270.99,2021-08-02,PYPL
@@ -6275,7 +6275,7 @@ ConocoPhillips (COP),09/27,D,buy,66.71,2021-09-27,COP
 Constellation Brands (STZ),09/27,L,buy,211.67,2021-09-27,STZ
 Devon Energy (DVN),09/27,D,buy,35.0,2021-09-27,DVN
 Diamondback Energy (FANG),09/27,D,buy,95.48,2021-09-27,FANG
-Facebook (FB),09/27,D,negative,353.58,2021-09-27,FB
+Meta (FB),09/27,D,negative,353.58,2021-09-27,FB
 Microsoft (MSFT),09/27,D,buy,294.17,2021-09-27,MSFT
 Moneygram (MGI),09/27,L,sell,8.56,2021-09-27,MGI
 PayPal (PYPL),09/27,L,buy,273.39,2021-09-27,PYPL
@@ -6328,11 +6328,11 @@ Penn National Gaming (PENN),10/01,L,buy,78.63,2021-10-01,PENN
 Walt Disney (DIS),10/01,D,buy,176.01,2021-10-01,DIS
 Zillow Group (ZG),10/01,D,negative,91.4,2021-10-01,ZG
 Bionano Genomics (BNGO),10/04,L,positive,5.06,2021-10-04,BNGO
-Facebook (FB),10/04,D,sell,326.23,2021-10-04,FB
 GrowGeneration (GRWG),10/04,L,sell,23.18,2021-10-04,GRWG
 IBM (IBM),10/04,I,buy,144.11,2021-10-04,IBM
 Linde (LIN),10/04,L,buy,294.65,2021-10-04,LIN
 McCormick (MKC),10/04,I,buy,80.69,2021-10-04,MKC
+Meta (FB),10/04,D,sell,326.23,2021-10-04,FB
 Ocugen (OCGN),10/04,L,sell,6.75,2021-10-04,OCGN
 Paychex (PAYX),10/04,I,buy,115.01,2021-10-04,PAYX
 Plug Power (PLUG),10/04,L,negative,24.32,2021-10-04,PLUG
@@ -6340,11 +6340,11 @@ Vale (VALE),10/04,L,negative,13.89,2021-10-04,VALE
 Apple (AAPL),10/05,D,buy,141.11,2021-10-05,AAPL
 Bank of America (BAC),10/05,L,buy,44.22,2021-10-05,BAC
 Enbridge (ENB),10/05,I,buy,40.18,2021-10-05,ENB
-Facebook (FB),10/05,D,negative,332.96,2021-10-05,FB
 Hut 8 Mining (HUT),10/05,L,sell,10.31,2021-10-05,HUT
 Jefferies Group (JEF),10/05,L,buy,38.3,2021-10-05,JEF
 Lexicon Pharmaceuticals (LXRX),10/05,L,buy,4.85,2021-10-05,LXRX
 Lightspeed POS (LSPD),10/05,F,sell,91.91,2021-10-05,LSPD
+Meta (FB),10/05,D,negative,332.96,2021-10-05,FB
 Microsoft (MSFT),10/05,D,buy,288.76,2021-10-05,MSFT
 NVIDIA (NVDA),10/05,D,buy,204.51,2021-10-05,NVDA
 Netflix (NFLX),10/05,D,buy,634.81,2021-10-05,NFLX
@@ -6384,8 +6384,8 @@ BlackRock (BLK),10/08,D,buy,844.4,2021-10-08,BLK
 Citigroup (C),10/08,D,buy,72.35,2021-10-08,C
 Delta Air Lines (DAL),10/08,D,buy,43.38,2021-10-08,DAL
 Domino's Pizza (DPZ),10/08,D,buy,480.32,2021-10-08,DPZ
+Element Solutions (ESI),10/08,F,buy,22.92,2021-10-08,ESI
 Ford Motor (F),10/08,L,buy,15.12,2021-10-08,F
-ITT Educational (ESI),10/08,F,buy,22.92,2021-10-08,ESI
 JPMorgan Chase (JPM),10/08,D,positive,170.22,2021-10-08,JPM
 LivePerson (LPSN),10/08,L,negative,59.34,2021-10-08,LPSN
 Logitech International (LOGI),10/08,L,negative,87.85,2021-10-08,LOGI
@@ -6498,10 +6498,10 @@ Community Health Systems (CYH),10/18,L,sell,10.58,2021-10-18,CYH
 Deluxe (DLX),10/18,I,buy,38.3,2021-10-18,DLX
 Doximity (DOCS),10/18,D,buy,70.57,2021-10-18,DOCS
 Endeavor Group (EDR),10/18,L,buy,25.31,2021-10-18,EDR
-Facebook (FB),10/18,D,negative,335.34,2021-10-18,FB
 GoodRX (GDRX),10/18,D,buy,42.06,2021-10-18,GDRX
 HCA Healthcare (HCA),10/18,L,buy,246.59,2021-10-18,HCA
 Intuit (INTU),10/18,L,buy,564.56,2021-10-18,INTU
+Meta (FB),10/18,D,negative,335.34,2021-10-18,FB
 Mogo (MOGO),10/18,L,sell,5.33,2021-10-18,MOGO
 Salesforce (CRM),10/18,L,buy,291.7,2021-10-18,CRM
 ServiceNow (NOW),10/18,D,buy,666.22,2021-10-18,NOW
@@ -6582,9 +6582,9 @@ Amphenol (APH),10/27,L,buy,75.77,2021-10-27,APH
 Apple (AAPL),10/27,D,buy,148.85,2021-10-27,AAPL
 Array BioPharma (ARRY),10/27,L,negative,18.3,2021-10-27,ARRY
 Enphase Energy (ENPH),10/27,L,buy,216.22,2021-10-27,ENPH
-Facebook (FB),10/27,D,buy,312.22,2021-10-27,FB
 MP Materials (MP),10/27,L,positive,32.76,2021-10-27,MP
 Meritor (MTOR),10/27,L,positive,23.97,2021-10-27,MTOR
+Meta (FB),10/27,D,buy,312.22,2021-10-27,FB
 Microsoft (MSFT),10/27,D,buy,323.17,2021-10-27,MSFT
 Nokia (NOK),10/27,L,positive,5.76,2021-10-27,NOK
 OneMain Holdings (OMF),10/27,L,negative,52.5,2021-10-27,OMF
@@ -6601,9 +6601,9 @@ Azek Company (AZEK),10/28,L,buy,36.22,2021-10-28,AZEK
 Brunswick (BC),10/28,I,buy,93.8,2021-10-28,BC
 Centrus Energy (LEU),10/28,L,negative,52.49,2021-10-28,LEU
 Cleveland-Cliffs (CLF),10/28,L,buy,24.45,2021-10-28,CLF
-Facebook (FB),10/28,D,buy,316.92,2021-10-28,FB
 ImmunityBio (IBRX),10/28,L,negative,8.19,2021-10-28,IBRX
 Linde (LIN),10/28,I,buy,317.96,2021-10-28,LIN
+Meta (FB),10/28,D,buy,316.92,2021-10-28,FB
 Microsoft (MSFT),10/28,D,buy,324.35,2021-10-28,MSFT
 Nucor (NUE),10/28,L,buy,109.39,2021-10-28,NUE
 Paysafe (PSFE),10/28,L,positive,7.53,2021-10-28,PSFE
@@ -6645,3 +6645,23 @@ Uber (UBER),10/29,D,negative,43.82,2021-10-29,UBER
 Wynn Resorts (WYNN),10/29,D,positive,89.8,2021-10-29,WYNN
 ZScaler (ZS),10/29,L,buy,318.86,2021-10-29,ZS
 Zillow (Z),10/29,D,negative,103.63,2021-10-29,Z
+Advanced Micro Devices (AMD),11/01,D,buy,125.23,2021-11-01,AMD
+Chevron (CVX),11/01,D,buy,114.53,2021-11-01,CVX
+Devon Energy (DVN),11/01,D,buy,41.99,2021-11-01,DVN
+Element Solutions (ESI),11/01,I,buy,22.81,2021-11-01,ESI
+Encore Wire (WIRE),11/01,L,sell,140.22,2021-11-01,WIRE
+Enphase Energy (ENPH),11/01,D,buy,239.53,2021-11-01,ENPH
+Eventbrite (EB),11/01,L,positive,21.19,2021-11-01,EB
+Ford Motor (F),11/01,D,buy,17.95,2021-11-01,F
+GXO Logistics (GXO),11/01,I,buy,90.82,2021-11-01,GXO
+Meta (FB),11/01,D,buy,329.98,2021-11-01,FB
+Microsoft (MSFT),11/01,D,buy,329.37,2021-11-01,MSFT
+NVIDIA (NVDA),11/01,D,buy,258.27,2021-11-01,NVDA
+NXP Semiconductors (NXPI),11/01,D,buy,205.13,2021-11-01,NXPI
+Netflix (NFLX),11/01,D,buy,681.17,2021-11-01,NFLX
+ON Semiconductor (ON),11/01,D,buy,54.99,2021-11-01,ON
+Pioneer Natural Resources (PXD),11/01,D,buy,189.89,2021-11-01,PXD
+Plug Power (PLUG),11/01,D,buy,41.65,2021-11-01,PLUG
+SK Telecom (SKM),11/01,L,negative,29.4,2021-11-01,SKM
+Snowflake (SNOW),11/01,D,buy,357.73,2021-11-01,SNOW
+Unity Software (U),11/01,D,buy,148.7,2021-11-01,U
