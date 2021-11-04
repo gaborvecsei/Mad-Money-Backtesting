@@ -6182,8 +6182,8 @@ Chevron (CVX),09/15,I,buy,98.24,2021-09-15,CVX
 Cisco Systems (CSCO),09/15,I,buy,57.56,2021-09-15,CSCO
 Constellation Brands (STZ),09/15,L,buy,218.5,2021-09-15,STZ
 Coupang (CPNG),09/15,L,positive,29.39,2021-09-15,CPNG
+NiSource (NI),09/15,L,buy,24.19,2021-09-15,NI
 Nio (NIO),09/15,L,sell,38.03,2021-09-15,NIO
-Nisource (NI),09/15,L,buy,24.19,2021-09-15,NI
 Weber (WEBR),09/15,I,buy,14.93,2021-09-15,WEBR
 Adobe Systems (ADBE),09/17,D,buy,654.48,2021-09-17,ADBE
 American Tower (AMT),09/17,D,buy,293.75,2021-09-17,AMT
@@ -6665,3 +6665,25 @@ Plug Power (PLUG),11/01,D,buy,41.65,2021-11-01,PLUG
 SK Telecom (SKM),11/01,L,negative,29.4,2021-11-01,SKM
 Snowflake (SNOW),11/01,D,buy,357.73,2021-11-01,SNOW
 Unity Software (U),11/01,D,buy,148.7,2021-11-01,U
+American States Water (AWR),11/02,L,buy,90.74,2021-11-02,AWR
+Avis Budget Group (CAR),11/02,D,positive,357.17,2021-11-02,CAR
+Bakkt Holdings (BKKT),11/02,L,negative,36.6,2021-11-02,BKKT
+Bed Bath & Beyond (BBBY),11/02,D,positive,16.75,2021-11-02,BBBY
+Blink Charging (BLNK),11/02,L,negative,32.91,2021-11-02,BLNK
+Brixmor Property Group (BRX),11/02,I,buy,24.58,2021-11-02,BRX
+Chegg (CHGG),11/02,D,negative,32.12,2021-11-02,CHGG
+DuPont (DD),11/02,I,buy,77.49,2021-11-02,DD
+Estee Lauder (EL),11/02,I,buy,338.62,2021-11-02,EL
+Heartland Express Inc (HTLD),11/02,L,negative,16.39,2021-11-02,HTLD
+Mimecast (MIME),11/02,L,buy,75.49,2021-11-02,MIME
+United Parcel Service (UPS),11/02,L,buy,209.14,2021-11-02,UPS
+Zenvia (ZENV),11/02,L,buy,10.08,2021-11-02,ZENV
+Avis Budget Group (CAR),11/03,D,positive,298.09,2021-11-03,CAR
+Bed Bath & Beyond (BBBY),11/03,D,buy,19.3,2021-11-03,BBBY
+Estee Lauder (EL),11/03,D,buy,340.38,2021-11-03,EL
+Nano Dimension (NNDM),11/03,L,sell,6.25,2021-11-03,NNDM
+NiSource (NI),11/03,I,buy,25.29,2021-11-03,NI
+Sharecare (SHCR),11/03,L,positive,7.43,2021-11-03,SHCR
+Wingstop (WING),11/03,I,buy,151.48,2021-11-03,WING
+Xos (XOS),11/03,L,sell,5.02,2021-11-03,XOS
+Zillow (Z),11/03,F,sell,65.47,2021-11-03,Z
