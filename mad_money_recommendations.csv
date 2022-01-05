@@ -7206,3 +7206,31 @@ Visa (V),12/22,D,buy,217.96,2021-12-22,V
 Walt Disney (DIS),12/22,D,buy,151.88,2021-12-22,DIS
 Williams-Sonoma (WSM),12/22,D,buy,171.89,2021-12-22,WSM
 Wynn Resorts (WYNN),12/22,D,buy,85.87,2021-12-22,WYNN
+AbbVie (ABBV),01/03,D,buy,135.42,2022-01-03,ABBV
+Abbott Laboratories (ABT),01/03,D,buy,139.04,2022-01-03,ABT
+Activision Blizzard (ATVI),01/03,D,sell,67.42,2022-01-03,ATVI
+Apple (AAPL),01/03,D,buy,182.01,2022-01-03,AAPL
+Bank of America (BAC),01/03,L,buy,46.18,2022-01-03,BAC
+Chevron (CVX),01/03,D,buy,119.26,2022-01-03,CVX
+Citrix Systems (CTXS),01/03,D,sell,98.26,2022-01-03,CTXS
+Cloudflare (NET),01/03,D,buy,126.16,2022-01-03,NET
+Consolidated Edison (ED),01/03,D,buy,85.13,2022-01-03,ED
+Emerson Electric (EMR),01/03,D,buy,91.76,2022-01-03,EMR
+Fortinet (FTNT),01/03,D,negative,333.12,2022-01-03,FTNT
+Global Payments (GPN),01/03,D,negative,141.7,2022-01-03,GPN
+Home Depot (HD),01/03,D,buy,408.64,2022-01-03,HD
+IPG Photonics (IPGP),01/03,D,buy,173.81,2022-01-03,IPGP
+Johnson & Johnson (JNJ),01/03,D,buy,171.54,2022-01-03,JNJ
+Las Vegas Sands (LVS),01/03,D,negative,38.85,2022-01-03,LVS
+Lennar (LEN),01/03,D,buy,111.81,2022-01-03,LEN
+Linde (LIN),01/03,D,buy,338.64,2022-01-03,LIN
+MarketAxess (MKTX),01/03,D,negative,396.83,2022-01-03,MKTX
+NVIDIA (NVDA),01/03,D,buy,301.21,2022-01-03,NVDA
+New Fortress Energy (NFE),01/03,L,negative,25.03,2022-01-03,NFE
+NextEra Energy (NEE),01/03,L,buy,91.66,2022-01-03,NEE
+Penn National Gaming (PENN),01/03,D,negative,50.64,2022-01-03,PENN
+The Lion Electric Company (LEV),01/03,L,buy,9.99,2022-01-03,LEV
+Toll Brothers (TOL),01/03,D,buy,70.24,2022-01-03,TOL
+Walmart (WMT),01/03,D,buy,144.65,2022-01-03,WMT
+Wynn Resorts (WYNN),01/03,D,negative,87.77,2022-01-03,WYNN
+Zoom Video Communications (ZM),01/03,D,positive,184.26,2022-01-03,ZM
