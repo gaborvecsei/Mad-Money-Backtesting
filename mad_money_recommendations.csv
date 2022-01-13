@@ -142,7 +142,7 @@ Tesla (TSLA),01/13,D,buy,524.86,2020-01-13,TSLA
 Zoetis (ZTS),01/13,I,buy,136.51,2020-01-13,ZTS
 AT&T (T),01/14,L,buy,38.09,2020-01-14,T
 AbbVie (ABBV),01/14,L,buy,88.2,2020-01-14,ABBV
-Atkore International Grou (ATKR),01/14,L,buy,41.37,2020-01-14,ATKR
+Atkore International (ATKR),01/14,L,buy,41.37,2020-01-14,ATKR
 Berkshire Hathaway (BRK.B),01/14,L,buy,227.17,2020-01-14,BRK.B
 Dexcom (DXCM),01/14,I,buy,235.06,2020-01-14,DXCM
 Dollar General (DG),01/14,L,buy,157.98,2020-01-14,DG
@@ -5038,7 +5038,7 @@ Trane Technologies (TT),05/05,I,buy,178.72,2021-05-05,TT
 Triton (TRTN),05/05,L,buy,51.92,2021-05-05,TRTN
 Wells Fargo (WFC),05/05,L,buy,45.94,2021-05-05,WFC
 American Electric Power (AEP),05/06,L,buy,88.12,2021-05-06,AEP
-Atkore International Grou (ATKR),05/06,L,buy,86.69,2021-05-06,ATKR
+Atkore International (ATKR),05/06,L,buy,86.69,2021-05-06,ATKR
 Aurinia Pharmaceuticals (AUPH),05/06,L,negative,12.34,2021-05-06,AUPH
 Caterpillar (CAT),05/06,D,buy,237.07,2021-05-06,CAT
 Chevron (CVX),05/06,D,positive,109.02,2021-05-06,CVX
@@ -5633,7 +5633,7 @@ Upstart (UPST),07/08,L,buy,119.75,2021-07-08,UPST
 AT&T (T),07/09,L,sell,28.45,2021-07-09,T
 Altimmune (ALT),07/09,L,sell,9.21,2021-07-09,ALT
 Arrival (ARVL),07/09,L,sell,15.55,2021-07-09,ARVL
-Atkore International Grou (ATKR),07/09,L,buy,69.69,2021-07-09,ATKR
+Atkore International (ATKR),07/09,L,buy,69.69,2021-07-09,ATKR
 BlackRock (BLK),07/09,D,buy,901.31,2021-07-09,BLK
 Cemex (CX),07/09,L,buy,8.4,2021-07-09,CX
 Cerus (CERS),07/09,L,sell,5.27,2021-07-09,CERS
@@ -7332,3 +7332,19 @@ Uber (UBER),01/10,F,buy,42.6,2022-01-10,UBER
 Veru (VERU),01/10,L,buy,5.34,2022-01-10,VERU
 Wynn Resorts (WYNN),01/10,D,sell,82.17,2022-01-10,WYNN
 Zynga (ZNGA),01/10,D,positive,8.44,2022-01-10,ZNGA
+Advanced Micro Devices (AMD),01/11,D,buy,137.31,2022-01-11,AMD
+Apple (AAPL),01/11,D,buy,175.08,2022-01-11,AAPL
+Atkore International (ATKR),01/11,L,buy,105.9,2022-01-11,ATKR
+BioMarin (BMRN),01/11,I,buy,88.99,2022-01-11,BMRN
+Boeing (BA),01/11,D,positive,216.02,2022-01-11,BA
+GrowGeneration (GRWG),01/11,L,sell,11.47,2022-01-11,GRWG
+InMode (INMD),01/11,L,buy,54.95,2022-01-11,INMD
+Li-Cycle Holdings (LICY),01/11,L,sell,8.99,2022-01-11,LICY
+NVIDIA (NVDA),01/11,D,buy,278.17,2022-01-11,NVDA
+Netflix (NFLX),01/11,D,negative,540.84,2022-01-11,NFLX
+NovoCure (NVCR),01/11,L,buy,68.37,2022-01-11,NVCR
+Rio Tinto (RIO),01/11,L,buy,74.42,2022-01-11,RIO
+Rivian (RIVN),01/11,L,negative,83.55,2022-01-11,RIVN
+Star Bulk Carriers (SBLK),01/11,L,sell,23.06,2022-01-11,SBLK
+Virgin Galactic (SPCE),01/11,L,sell,12.39,2022-01-11,SPCE
+Zoetis (ZTS),01/11,I,buy,212.8,2022-01-11,ZTS
