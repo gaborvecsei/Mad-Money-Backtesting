@@ -1179,7 +1179,7 @@ Broadcom (AVGO),04/21,L,buy,247.65,2020-04-21,AVGO
 Carnival (CCL),04/21,D,sell,11.84,2020-04-21,CCL
 DataDog (DDOG),04/21,L,buy,40.0,2020-04-21,DDOG
 Dave and Busters (PLAY),04/21,L,sell,11.57,2020-04-21,PLAY
-Dover Corp (DOV),04/21,L,positive,84.51,2020-04-21,DOV
+Dover (DOV),04/21,L,positive,84.51,2020-04-21,DOV
 Dow (DOW),04/21,L,negative,30.88,2020-04-21,DOW
 Ford Motor (F),04/21,D,negative,4.77,2020-04-21,F
 General Electric (GE),04/21,D,positive,6.48,2020-04-21,GE
@@ -7539,3 +7539,18 @@ Rockwell Automation (ROK),01/28,I,buy,284.6,2022-01-28,ROK
 Starbucks (SBUX),01/28,D,positive,97.21,2022-01-28,SBUX
 ThredUp (TDUP),01/28,L,sell,8.28,2022-01-28,TDUP
 United Rentals (URI),01/28,L,buy,317.77,2022-01-28,URI
+3M (MMM),01/31,D,negative,166.02,2022-01-31,MMM
+Apple (AAPL),01/31,D,positive,174.78,2022-01-31,AAPL
+Boeing (BA),01/31,D,negative,200.24,2022-01-31,BA
+Caterpillar (CAT),01/31,D,negative,201.56,2022-01-31,CAT
+Chevron (CVX),01/31,D,negative,131.33,2022-01-31,CVX
+Cullen Frost Bankers (CFR),01/31,I,buy,141.01,2022-01-31,CFR
+Dover (DOV),01/31,L,buy,169.91,2022-01-31,DOV
+General Electric (GE),01/31,D,negative,94.48,2022-01-31,GE
+Mastercard (MA),01/31,D,positive,386.38,2022-01-31,MA
+Netflix (NFLX),01/31,D,positive,427.14,2022-01-31,NFLX
+Norwegian Cruise Line (NCLH),01/31,L,negative,20.83,2022-01-31,NCLH
+Perficient (PRFT),01/31,L,negative,104.82,2022-01-31,PRFT
+ServiceNow (NOW),01/31,D,positive,585.78,2022-01-31,NOW
+Silvergate Capital (SI),01/31,I,buy,107.74,2022-01-31,SI
+Willis Towers Watson (WTW),01/31,L,buy,233.96,2022-01-31,WTW
