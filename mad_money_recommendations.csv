@@ -329,6 +329,7 @@ UnitedHealth Group (UNH),01/30,L,buy,280.98,2020-01-30,UNH
 Vertex Pharmaceuticals (VRTX),01/30,L,buy,230.31,2020-01-30,VRTX
 AbbVie (ABBV),01/31,D,buy,81.02,2020-01-31,ABBV
 Anaplan (PLAN),01/31,L,buy,57.59,2020-01-31,PLAN
+Block (SQ),01/31,D,buy,74.69,2020-01-31,SQ
 Bristol-Myers Squibb (BMY),01/31,D,buy,62.95,2020-01-31,BMY
 Clorox (CLX),01/31,D,buy,157.31,2020-01-31,CLX
 Emerson Electric (EMR),01/31,D,positive,71.63,2020-01-31,EMR
@@ -343,7 +344,6 @@ Luckin Coffee (LK),01/31,L,sell,32.49,2020-01-31,LK
 Merck (MRK),01/31,D,positive,85.44,2020-01-31,MRK
 Peloton (PTON),01/31,L,positive,32.36,2020-01-31,PTON
 Royal Caribbean Cruises (RCL),01/31,D,sell,117.08,2020-01-31,RCL
-Square (SQ),01/31,D,buy,74.69,2020-01-31,SQ
 Tesla (TSLA),01/31,D,buy,650.57,2020-01-31,TSLA
 Walt Disney (DIS),01/31,D,negative,138.31,2020-01-31,DIS
 Yum China (YUMC),01/31,D,sell,43.07,2020-01-31,YUMC
@@ -542,6 +542,7 @@ Walmart (WMT),02/18,D,positive,119.63,2020-02-18,WMT
 Zoom Video Communications (ZM),02/18,F,buy,96.39,2020-02-18,ZM
 American Express (AXP),02/19,D,buy,136.93,2020-02-19,AXP
 Arista Networks (ANET),02/19,L,negative,225.02,2020-02-19,ANET
+Block (SQ),02/19,D,buy,85.24,2020-02-19,SQ
 Brown & Brown (BRO),02/19,L,buy,48.46,2020-02-19,BRO
 Enphase Energy (ENPH),02/19,D,negative,57.22,2020-02-19,ENPH
 Everbridge (EVBG),02/19,I,buy,104.21,2020-02-19,EVBG
@@ -552,7 +553,6 @@ PayPal (PYPL),02/19,D,buy,123.91,2020-02-19,PYPL
 Plug Power (PLUG),02/19,D,negative,5.72,2020-02-19,PLUG
 SmileDirectClub (SDC),02/19,L,sell,12.37,2020-02-19,SDC
 SolarEdge Technologies (SEDG),02/19,D,buy,127.82,2020-02-19,SEDG
-Square (SQ),02/19,D,buy,85.24,2020-02-19,SQ
 Tesla (TSLA),02/19,D,positive,917.42,2020-02-19,TSLA
 Virgin Galactic (SPCE),02/19,D,negative,37.35,2020-02-19,SPCE
 Visa (V),02/19,D,buy,213.31,2020-02-19,V
@@ -570,6 +570,7 @@ Vertex Pharmaceuticals (VRTX),02/20,F,buy,245.1,2020-02-20,VRTX
 ViacomCBS (VIAC),02/20,D,sell,29.29,2020-02-20,VIAC
 Aecom Technology (ACM),02/21,L,negative,51.92,2020-02-21,ACM
 Best Buy (BBY),02/21,D,buy,90.26,2020-02-21,BBY
+Block (SQ),02/21,D,positive,83.49,2020-02-21,SQ
 Cree (CREE),02/21,L,sell,47.39,2020-02-21,CREE
 Dell (DELL),02/21,D,buy,51.72,2020-02-21,DELL
 EPR Properties (EPR),02/21,L,buy,68.23,2020-02-21,EPR
@@ -586,7 +587,6 @@ Proofpoint (PFPT),02/21,I,buy,123.9,2020-02-21,PFPT
 Roku (ROKU),02/21,L,buy,119.38,2020-02-21,ROKU
 Salesforce (CRM),02/21,D,buy,189.5,2020-02-21,CRM
 Snap (SNAP),02/21,D,buy,16.7,2020-02-21,SNAP
-Square (SQ),02/21,D,positive,83.49,2020-02-21,SQ
 TJX Companies (TJX),02/21,D,buy,63.31,2020-02-21,TJX
 The Trade Desk (TTD),02/21,D,buy,301.9,2020-02-21,TTD
 Toll Brothers (TOL),02/21,D,buy,47.84,2020-02-21,TOL
@@ -632,6 +632,7 @@ Salesforce (CRM),02/25,I,buy,181.27,2020-02-25,CRM
 Wex (WEX),02/25,I,buy,207.34,2020-02-25,WEX
 Zoom Video Communications (ZM),02/25,D,buy,107.08,2020-02-25,ZM
 Adobe Systems (ADBE),02/27,D,buy,337.52,2020-02-27,ADBE
+Block (SQ),02/27,D,buy,79.31,2020-02-27,SQ
 Boeing (BA),02/27,L,positive,287.76,2020-02-27,BA
 Cardtronics (CATM),02/27,L,negative,37.01,2020-02-27,CATM
 Etsy (ETSY),02/27,I,buy,57.92,2020-02-27,ETSY
@@ -641,7 +642,6 @@ NVIDIA (NVDA),02/27,D,buy,252.6,2020-02-27,NVDA
 Ring Central (RING),02/27,D,buy,23.15,2020-02-27,RING
 Shopify (SHOP),02/27,D,buy,438.37,2020-02-27,SHOP
 Southwest Airlines (LUV),02/27,F,negative,46.63,2020-02-27,LUV
-Square (SQ),02/27,D,buy,79.31,2020-02-27,SQ
 Teladoc (TDOC),02/27,D,buy,135.15,2020-02-27,TDOC
 The Trade Desk (TTD),02/27,I,buy,250.01,2020-02-27,TTD
 Workday (WDAY),02/27,I,buy,171.2,2020-02-27,WDAY
@@ -818,10 +818,10 @@ Thermo Fisher Scientific (TMO),03/16,I,positive,279.35,2020-03-16,TMO
 Verizon (VZ),03/16,L,buy,50.99,2020-03-16,VZ
 Waste Management (WM),03/16,L,buy,99.89,2020-03-16,WM
 Alcoa (AA),03/17,L,sell,7.0,2020-03-17,AA
+Block (SQ ),03/17,L,buy,44.73,2020-03-17,SQ 
 Meta (FB),03/17,I,buy,149.42,2020-03-17,FB
 Nucor (NUE),03/17,L,buy,30.99,2020-03-17,NUE
 Regeneron Pharmaceuticals (REGN),03/17,I,buy,491.69,2020-03-17,REGN
-Square (SQ ),03/17,L,buy,44.73,2020-03-17,SQ 
 American Electric Power (AEP),03/18,L,buy,88.28,2020-03-18,AEP
 Brinker International (EAT),03/18,F,sell,7.62,2020-03-18,EAT
 Consolidated Edison (ED),03/18,L,buy,92.2,2020-03-18,ED
@@ -911,6 +911,7 @@ Simon Property Group (SPG),03/26,L,negative,62.1,2020-03-26,SPG
 Veeva Systems (VEEV),03/26,I,buy,147.09,2020-03-26,VEEV
 Western Digital (WDC),03/26,D,buy,44.29,2020-03-26,WDC
 Zoom Video Communications (ZM),03/26,D,buy,141.15,2020-03-26,ZM
+Block (SQ),03/27,L,negative,53.34,2020-03-27,SQ
 CVS Health (CVS),03/27,D,buy,58.6,2020-03-27,CVS
 Carmax (KMX),03/27,D,negative,58.93,2020-03-27,KMX
 Chewy (CHWY),03/27,D,buy,36.16,2020-03-27,CHWY
@@ -926,7 +927,6 @@ PVH Corp (PVH),03/27,D,positive,38.0,2020-03-27,PVH
 RH (RH),03/27,D,negative,110.93,2020-03-27,RH
 Regeneron Pharmaceuticals (REGN),03/27,D,buy,449.52,2020-03-27,REGN
 Sanofi (SNY),03/27,I,buy,42.44,2020-03-27,SNY
-Square (SQ),03/27,L,negative,53.34,2020-03-27,SQ
 United Natural Foods (UNFI),03/27,L,buy,8.41,2020-03-27,UNFI
 Walgreens Boots Alliance (WBA),03/27,D,sell,44.0,2020-03-27,WBA
 Abbott Laboratories (ABT),03/30,I,buy,79.34,2020-03-30,ABT
@@ -1264,6 +1264,7 @@ Archer-Daniels-Midland (ADM),04/27,L,sell,36.54,2020-04-27,ADM
 Barrick Gold (GOLD),04/27,D,buy,26.93,2020-04-27,GOLD
 Beyond Meat (BYND),04/27,D,buy,99.63,2020-04-27,BYND
 BioCryst Pharmaceuticals (BCRX),04/27,L,negative,3.55,2020-04-27,BCRX
+Block (SQ),04/27,D,buy,63.55,2020-04-27,SQ
 Boston Beer (SAM),04/27,D,buy,457.1,2020-04-27,SAM
 Centene (CNC),04/27,D,buy,70.82,2020-04-27,CNC
 Chewy (CHWY),04/27,D,buy,46.18,2020-04-27,CHWY
@@ -1301,7 +1302,6 @@ Scorpio Tankers (STNG),04/27,L,buy,26.64,2020-04-27,STNG
 Shopify (SHOP),04/27,D,buy,628.58,2020-04-27,SHOP
 Simon Property Group (SPG),04/27,D,buy,57.19,2020-04-27,SPG
 Slack (WORK),04/27,L,buy,27.31,2020-04-27,WORK
-Square (SQ),04/27,D,buy,63.55,2020-04-27,SQ
 Take-Two Interactive (TTWO),04/27,D,buy,125.93,2020-04-27,TTWO
 Tapestry (TPR),04/27,D,sell,15.05,2020-04-27,TPR
 Verizon (VZ),04/27,D,buy,57.81,2020-04-27,VZ
@@ -1432,15 +1432,16 @@ United Natural Foods (UNFI),05/06,L,sell,10.78,2020-05-06,UNFI
 Waste Management (WM),05/06,I,positive,96.8,2020-05-06,WM
 Winnebago Industries (WGO),05/06,L,positive,44.69,2020-05-06,WGO
 Beyond Meat (BYND),05/07,F,buy,122.66,2020-05-07,BYND
+Block (SQ),05/07,I,buy,74.62,2020-05-07,SQ
 CytoSorbents (CTSO),05/07,L,buy,10.36,2020-05-07,CTSO
 EPR Properties (EPR),05/07,L,sell,25.62,2020-05-07,EPR
 Etsy (ETSY),05/07,I,buy,76.59,2020-05-07,ETSY
 Moderna (MRNA),05/07,D,buy,53.19,2020-05-07,MRNA
 Omnicom Group (OMC),05/07,L,buy,53.63,2020-05-07,OMC
-Square (SQ),05/07,I,buy,74.62,2020-05-07,SQ
 Wells Fargo (WFC),05/07,L,sell,25.23,2020-05-07,WFC
 American Electric Power (AEP),05/11,I,buy,79.17,2020-05-11,AEP
 Beyond Meat (BYND),05/11,D,buy,130.82,2020-05-11,BYND
+Block (SQ),05/11,D,buy,74.9,2020-05-11,SQ
 Cerus (CERS),05/11,L,buy,5.46,2020-05-11,CERS
 Chipotle Mexican Grill (CMG),05/11,D,buy,933.93,2020-05-11,CMG
 Cisco Systems (CSCO),05/11,L,positive,43.32,2020-05-11,CSCO
@@ -1457,7 +1458,6 @@ Masimo (MASI),05/11,D,buy,250.39,2020-05-11,MASI
 Mirati Therapeutics (MRTX),05/11,L,buy,105.59,2020-05-11,MRTX
 Moderna (MRNA),05/11,D,buy,66.9,2020-05-11,MRNA
 Peloton (PTON),05/11,D,buy,42.8,2020-05-11,PTON
-Square (SQ),05/11,D,buy,74.9,2020-05-11,SQ
 Target (TGT),05/11,D,buy,120.18,2020-05-11,TGT
 Uber (UBER),05/11,L,positive,31.64,2020-05-11,UBER
 Upwork (UPWK),05/11,I,buy,10.51,2020-05-11,UPWK
@@ -1887,6 +1887,7 @@ Take-Two Interactive (TTWO),06/17,D,buy,138.92,2020-06-17,TTWO
 Thor Industries (THO),06/17,D,buy,114.03,2020-06-17,THO
 Union Pacific (UNP),06/17,I,buy,171.17,2020-06-17,UNP
 AMC Entertainment (AMC),06/18,I,buy,5.63,2020-06-18,AMC
+Block (SQ),06/18,D,buy,98.27,2020-06-18,SQ
 Carmax (KMX),06/18,D,buy,97.91,2020-06-18,KMX
 Carvana (CVNA),06/18,D,buy,122.98,2020-06-18,CVNA
 Clorox (CLX),06/18,D,buy,214.59,2020-06-18,CLX
@@ -1903,7 +1904,6 @@ PayPal (PYPL),06/18,D,buy,168.05,2020-06-18,PYPL
 Peloton (PTON),06/18,D,buy,51.08,2020-06-18,PTON
 Roku (ROKU),06/18,D,buy,127.79,2020-06-18,ROKU
 Shopify (SHOP),06/18,D,buy,863.56,2020-06-18,SHOP
-Square (SQ),06/18,D,buy,98.27,2020-06-18,SQ
 U.S. Auto Parts Network (PRTS),06/18,L,negative,8.78,2020-06-18,PRTS
 Upwork (UPWK),06/18,L,buy,12.44,2020-06-18,UPWK
 VMware (VMW),06/18,I,buy,143.43,2020-06-18,VMW
@@ -1985,6 +1985,7 @@ Yeti Holdings (YETI),06/25,L,buy,42.96,2020-06-25,YETI
 ZScaler (ZS),06/25,D,buy,111.61,2020-06-25,ZS
 Zoom Video Communications (ZM),06/25,D,buy,259.51,2020-06-25,ZM
 Advanced Micro Devices (AMD),06/29,D,buy,50.28,2020-06-29,AMD
+Block (SQ),06/29,L,buy,103.68,2020-06-29,SQ
 Boeing (BA),06/29,D,positive,194.49,2020-06-29,BA
 Centene (CNC),06/29,D,buy,62.59,2020-06-29,CNC
 Costco (COST),06/29,D,buy,301.59,2020-06-29,COST
@@ -2005,7 +2006,6 @@ Nike (NKE),06/29,D,positive,95.87,2020-06-29,NKE
 PayPal (PYPL),06/29,L,buy,168.35,2020-06-29,PYPL
 Restaurant Brands (QSR),06/29,I,buy,55.25,2020-06-29,QSR
 Southwest Airlines (LUV),06/29,D,positive,35.04,2020-06-29,LUV
-Square (SQ),06/29,L,buy,103.68,2020-06-29,SQ
 TJX Companies (TJX),06/29,D,buy,50.77,2020-06-29,TJX
 The Blackstone Group (BX),06/29,D,sell,55.81,2020-06-29,BX
 Union Pacific (UNP),06/29,L,buy,165.51,2020-06-29,UNP
@@ -2063,6 +2063,7 @@ American Tower (AMT),07/02,L,sell,264.21,2020-07-02,AMT
 Angi (ANGI),07/02,L,buy,13.43,2020-07-02,ANGI
 Archer-Daniels-Midland (ADM),07/02,L,sell,39.56,2020-07-02,ADM
 Bed Bath & Beyond (BBBY),07/02,D,negative,10.81,2020-07-02,BBBY
+Block (SQ),07/02,L,buy,113.39,2020-07-02,SQ
 Crown Castle (CCI),07/02,L,buy,170.72,2020-07-02,CCI
 Greendot (GDOT),07/02,L,positive,49.53,2020-07-02,GDOT
 Inovio Pharmaceuticals (INO),07/02,F,sell,21.45,2020-07-02,INO
@@ -2070,7 +2071,6 @@ Levi Strauss (LEVI),07/02,D,positive,13.35,2020-07-02,LEVI
 Novavax (NVAX),07/02,F,sell,81.64,2020-07-02,NVAX
 PayPal (PYPL),07/02,L,buy,177.21,2020-07-02,PYPL
 Paychex (PAYX),07/02,D,positive,76.59,2020-07-02,PAYX
-Square (SQ),07/02,L,buy,113.39,2020-07-02,SQ
 Starbucks (SBUX),07/02,L,buy,73.78,2020-07-02,SBUX
 Starwood Property Trust (STWD),07/02,L,sell,14.5,2020-07-02,STWD
 Vroom (VRM),07/02,L,buy,54.3,2020-07-02,VRM
@@ -2601,6 +2601,7 @@ Switch (SWCH),08/27,L,buy,16.99,2020-08-27,SWCH
 Williams-Sonoma (WSM),08/27,I,buy,91.13,2020-08-27,WSM
 Workday (WDAY),08/27,I,buy,216.63,2020-08-27,WDAY
 1-800-Flowers (FLWS),09/08,L,negative,24.16,2020-09-08,FLWS
+Block (SQ),09/08,D,positive,139.11,2020-09-08,SQ
 Camping World (CWH),09/08,L,buy,33.54,2020-09-08,CWH
 Centene (CNC),09/08,D,negative,57.16,2020-09-08,CNC
 CrowdStrike (CRWD),09/08,I,buy,125.63,2020-09-08,CRWD
@@ -2611,7 +2612,6 @@ Gilead Sciences (GILD),09/08,D,negative,64.14,2020-09-08,GILD
 Johnson & Johnson (JNJ),09/08,D,negative,147.26,2020-09-08,JNJ
 Livongo Health (LVGO),09/08,D,positive,123.1,2020-09-08,LVGO
 Peloton (PTON),09/08,D,positive,85.6,2020-09-08,PTON
-Square (SQ),09/08,D,positive,139.11,2020-09-08,SQ
 Twitter (TWTR),09/08,I,buy,38.19,2020-09-08,TWTR
 Zoom Video Communications (ZM),09/08,D,positive,350.88,2020-09-08,ZM
 eHealth (EHTH),09/08,L,negative,66.32,2020-09-08,EHTH
@@ -2773,6 +2773,7 @@ Unity Software (U),09/18,F,negative,68.35,2020-09-18,U
 Zebra Technologies (ZBRA),09/18,L,buy,256.15,2020-09-18,ZBRA
 Albertsons (ACI),09/21,I,buy,13.66,2020-09-21,ACI
 Arrowhead Pharmaceuticals (ARWR),09/21,L,buy,41.71,2020-09-21,ARWR
+Block (SQ),09/21,D,buy,151.12,2020-09-21,SQ
 Caesars Entertainment (CZR),09/21,L,sell,54.43,2020-09-21,CZR
 Campbell Soup (CPB),09/21,D,buy,46.07,2020-09-21,CPB
 Ciena (CIEN),09/21,L,sell,40.59,2020-09-21,CIEN
@@ -2788,7 +2789,6 @@ Peloton (PTON),09/21,D,buy,94.8,2020-09-21,PTON
 Republic Services (RSG),09/21,L,buy,94.04,2020-09-21,RSG
 Shopify (SHOP),09/21,D,buy,927.89,2020-09-21,SHOP
 Smith & Wesson Brands (SWBI),09/21,L,positive,15.22,2020-09-21,SWBI
-Square (SQ),09/21,D,buy,151.12,2020-09-21,SQ
 The GEO Group (GEO),09/21,L,sell,10.75,2020-09-21,GEO
 Walmart (WMT),09/21,D,buy,137.07,2020-09-21,WMT
 ArcelorMittal (MT),09/22,L,sell,12.43,2020-09-22,MT
@@ -2975,6 +2975,7 @@ Sports Entertainment Acqu (SEAH.U),10/12,I,buy,10.17,2020-10-12,SEAH.U
 Twitter (TWTR),10/12,D,buy,48.25,2020-10-12,TWTR
 Wingstop (WING),10/12,L,positive,131.95,2020-10-12,WING
 Apple (AAPL),10/13,D,buy,121.1,2020-10-13,AAPL
+Block (SQ),10/13,D,buy,190.47,2020-10-13,SQ
 Carnival (CCL),10/13,F,positive,14.03,2020-10-13,CCL
 Celsius Holdings (CELH),10/13,I,buy,22.88,2020-10-13,CELH
 Citigroup (C),10/13,D,negative,43.68,2020-10-13,C
@@ -2991,7 +2992,6 @@ Pure Storage (PSTG),10/13,L,sell,18.3,2020-10-13,PSTG
 Quidel (QDEL),10/13,L,positive,274.7,2020-10-13,QDEL
 Roku (ROKU),10/13,D,buy,238.58,2020-10-13,ROKU
 Royal Caribbean Cruises (RCL),10/13,F,positive,60.61,2020-10-13,RCL
-Square (SQ),10/13,D,buy,190.47,2020-10-13,SQ
 Thermo Fisher Scientific (TMO),10/13,L,buy,467.53,2020-10-13,TMO
 Vertiv (VRT),10/13,L,buy,17.93,2020-10-13,VRT
 Apple (AAPL),10/14,D,positive,121.19,2020-10-14,AAPL
@@ -3034,6 +3034,7 @@ Zoom Video Communications (ZM),10/15,D,buy,536.4,2020-10-15,ZM
 Albireo Pharma (ALBO),10/19,L,positive,34.31,2020-10-19,ALBO
 Amwell (AMWL),10/19,D,negative,34.88,2020-10-19,AMWL
 Barrick Gold (GOLD),10/19,L,buy,27.02,2020-10-19,GOLD
+Block (SQ),10/19,D,buy,186.96,2020-10-19,SQ
 Bruker (BRKR),10/19,L,negative,41.89,2020-10-19,BRKR
 Caterpillar (CAT),10/19,D,positive,167.53,2020-10-19,CAT
 Cloudera (CLDR),10/19,L,sell,10.4,2020-10-19,CLDR
@@ -3055,7 +3056,6 @@ Roku (ROKU),10/19,D,buy,222.14,2020-10-19,ROKU
 Salesforce (CRM),10/19,L,buy,255.01,2020-10-19,CRM
 Shift4 Payments (FOUR),10/19,F,negative,57.76,2020-10-19,FOUR
 Snowflake (SNOW),10/19,D,buy,246.78,2020-10-19,SNOW
-Square (SQ),10/19,D,buy,186.96,2020-10-19,SQ
 Tesla (TSLA),10/19,D,buy,430.83,2020-10-19,TSLA
 Teva Pharmaceuticals (TEVA),10/19,L,sell,9.29,2020-10-19,TEVA
 Thermo Fisher Scientific (TMO),10/19,L,buy,461.29,2020-10-19,TMO
@@ -3141,6 +3141,7 @@ Tesla (TSLA),10/22,F,buy,425.79,2020-10-22,TSLA
 Union Pacific (UNP),10/22,L,positive,187.14,2020-10-22,UNP
 Albertsons (ACI),10/23,L,negative,14.83,2020-10-23,ACI
 Apple (AAPL),10/23,D,buy,115.04,2020-10-23,AAPL
+Block (SQ),10/23,D,buy,176.77,2020-10-23,SQ
 Boeing (BA),10/23,D,buy,167.36,2020-10-23,BA
 Caterpillar (CAT),10/23,D,positive,168.59,2020-10-23,CAT
 Chevron (CVX),10/23,D,positive,72.57,2020-10-23,CVX
@@ -3162,7 +3163,6 @@ Peloton (PTON),10/23,D,buy,122.53,2020-10-23,PTON
 Pfizer (PFE),10/23,D,positive,38.18,2020-10-23,PFE
 Pinterest (PINS),10/23,D,buy,53.0,2020-10-23,PINS
 Sempra Energy (SRE),10/23,D,buy,133.86,2020-10-23,SRE
-Square (SQ),10/23,D,buy,176.77,2020-10-23,SQ
 Stanley Black & Decker (SWK),10/23,D,buy,178.01,2020-10-23,SWK
 StoneCo (STNE),10/23,L,buy,59.0,2020-10-23,STNE
 Teladoc (TDOC),10/23,D,buy,216.32,2020-10-23,TDOC
@@ -3333,6 +3333,7 @@ Air Products and Chemical (APD),11/06,D,positive,306.72,2020-11-06,APD
 Alibaba (BABA),11/06,L,buy,299.95,2020-11-06,BABA
 Applied Materials (AMAT),11/06,D,buy,70.53,2020-11-06,AMAT
 Beyond Meat (BYND),11/06,D,buy,156.86,2020-11-06,BYND
+Block (SQ),11/06,D,buy,198.08,2020-11-06,SQ
 CVS Health (CVS),11/06,D,buy,64.95,2020-11-06,CVS
 Chewy (CHWY),11/06,L,buy,70.32,2020-11-06,CHWY
 Cisco Systems (CSCO),11/06,D,buy,37.53,2020-11-06,CSCO
@@ -3360,7 +3361,6 @@ Plug Power (PLUG),11/06,D,buy,18.86,2020-11-06,PLUG
 Rocket Companies (RKT),11/06,D,positive,21.31,2020-11-06,RKT
 Roku (ROKU),11/06,D,buy,253.36,2020-11-06,ROKU
 SolarEdge Technologies (SEDG),11/06,L,negative,237.51,2020-11-06,SEDG
-Square (SQ),11/06,D,buy,198.08,2020-11-06,SQ
 Take-Two Interactive (TTWO),11/06,I,buy,175.19,2020-11-06,TTWO
 Tesla (TSLA),11/06,L,buy,429.95,2020-11-06,TSLA
 The Trade Desk (TTD),11/06,D,buy,819.34,2020-11-06,TTD
@@ -3520,6 +3520,7 @@ Teladoc (TDOC),11/18,I,buy,181.87,2020-11-18,TDOC
 Texas Instruments (TXN),11/18,L,buy,153.55,2020-11-18,TXN
 Vroom (VRM),11/18,L,sell,35.77,2020-11-18,VRM
 Wynn Resorts (WYNN),11/18,L,buy,95.64,2020-11-18,WYNN
+Block (SQ),11/19,D,buy,191.66,2020-11-19,SQ
 Cisco Systems (CSCO),11/19,L,buy,41.17,2020-11-19,CSCO
 Costco (COST),11/19,D,buy,383.54,2020-11-19,COST
 Frequency Therapeutics (FREQ),11/19,L,buy,24.15,2020-11-19,FREQ
@@ -3532,7 +3533,6 @@ Rackspace Technology (RXT),11/19,L,sell,16.17,2020-11-19,RXT
 RingCentral (RNG),11/19,D,buy,296.9,2020-11-19,RNG
 Roku (ROKU),11/19,D,buy,255.67,2020-11-19,ROKU
 ServiceNow (NOW),11/19,D,buy,514.33,2020-11-19,NOW
-Square (SQ),11/19,D,buy,191.66,2020-11-19,SQ
 Target (TGT),11/19,D,buy,171.37,2020-11-19,TGT
 Tesla (TSLA),11/19,D,buy,499.27,2020-11-19,TSLA
 The Container Store (TCS),11/19,I,buy,10.38,2020-11-19,TCS
@@ -3881,6 +3881,7 @@ AT&T (T),01/05,D,negative,29.26,2021-01-05,T
 AbbVie (ABBV),01/05,D,buy,106.5,2021-01-05,ABBV
 American Electric Power (AEP),01/05,D,buy,81.43,2021-01-05,AEP
 B&G Foods (BGS),01/05,D,buy,26.72,2021-01-05,BGS
+Block (SQ),01/05,D,sell,229.75,2021-01-05,SQ
 CRISPR Therapeutics (CRSP),01/05,D,negative,160.62,2021-01-05,CRSP
 Chevron (CVX),01/05,D,buy,87.0,2021-01-05,CVX
 Coca-Cola (KO),01/05,D,negative,52.18,2021-01-05,KO
@@ -3902,7 +3903,6 @@ Peloton (PTON),01/05,D,sell,148.53,2021-01-05,PTON
 Penn National Gaming (PENN),01/05,D,negative,86.98,2021-01-05,PENN
 Pfizer (PFE),01/05,D,negative,37.19,2021-01-05,PFE
 Planet Fitness (PLNT),01/05,I,buy,74.77,2021-01-05,PLNT
-Square (SQ),01/05,D,sell,229.75,2021-01-05,SQ
 Tattooed Chef (TTCF),01/05,L,buy,23.6,2021-01-05,TTCF
 Tesla (TSLA),01/05,D,positive,735.11,2021-01-05,TSLA
 Verizon (VZ),01/05,D,buy,58.58,2021-01-05,VZ
@@ -4400,6 +4400,7 @@ Workday (WDAY),02/26,I,buy,245.18,2021-02-26,WDAY
 Zoom Video Communications (ZM),02/26,D,buy,373.61,2021-02-26,ZM
 Airbnb (ABNB),03/01,D,buy,196.42,2021-03-01,ABNB
 Beyond Meat (BYND),03/01,L,buy,147.11,2021-03-01,BYND
+Block (SQ),03/01,D,buy,241.0,2021-03-01,SQ
 Edwards Lifesciences (EW),03/01,L,buy,85.77,2021-03-01,EW
 Federal Realty Investment (FRT),03/01,D,buy,104.0,2021-03-01,FRT
 Fisker (FSR),03/01,D,buy,27.38,2021-03-01,FSR
@@ -4413,7 +4414,6 @@ Royal Caribbean Cruises (RCL),03/01,D,negative,91.35,2021-03-01,RCL
 SailPoint Technologies (SAIL),03/01,I,buy,58.36,2021-03-01,SAIL
 Salesforce (CRM),03/01,D,buy,217.54,2021-03-01,CRM
 Snap (SNAP),03/01,L,buy,67.33,2021-03-01,SNAP
-Square (SQ),03/01,D,buy,241.0,2021-03-01,SQ
 Tattooed Chef (TTCF),03/01,L,sell,21.18,2021-03-01,TTCF
 Twitter (TWTR),03/01,D,buy,78.06,2021-03-01,TWTR
 Ulta Beauty (ULTA),03/01,D,buy,337.42,2021-03-01,ULTA
@@ -4468,6 +4468,7 @@ Ulta Beauty (ULTA),03/05,D,buy,333.37,2021-03-05,ULTA
 United Micro Electronics (UMC),03/05,L,buy,8.61,2021-03-05,UMC
 Advanced Micro Devices (AMD),03/15,I,buy,82.5,2021-03-15,AMD
 Beyond Meat (BYND),03/15,L,buy,148.11,2021-03-15,BYND
+Block (SQ),03/15,D,buy,251.23,2021-03-15,SQ
 Celsius Holdings (CELH),03/15,I,buy,48.6,2021-03-15,CELH
 Churchill Capital (CCIV),03/15,D,positive,28.69,2021-03-15,CCIV
 Exact Sciences (EXAS),03/15,L,buy,129.57,2021-03-15,EXAS
@@ -4484,7 +4485,6 @@ Moderna (MRNA),03/15,D,buy,143.66,2021-03-15,MRNA
 Palantir Technologies (PLTR),03/15,L,negative,26.79,2021-03-15,PLTR
 PayPal (PYPL),03/15,D,buy,249.98,2021-03-15,PYPL
 Snowflake (SNOW),03/15,D,buy,238.76,2021-03-15,SNOW
-Square (SQ),03/15,D,buy,251.23,2021-03-15,SQ
 Tanger Factory Outlet Cen (SKT),03/15,L,positive,17.67,2021-03-15,SKT
 Teladoc (TDOC),03/15,L,buy,201.24,2021-03-15,TDOC
 Tesla (TSLA),03/15,D,buy,707.94,2021-03-15,TSLA
@@ -5060,6 +5060,7 @@ Pioneer Natural Resources (PXD),05/06,D,positive,164.94,2021-05-06,PXD
 Airbnb (ABNB),05/07,D,buy,151.21,2021-05-07,ABNB
 Alibaba (BABA),05/07,D,buy,225.31,2021-05-07,BABA
 American Airlines (AAL),05/07,L,positive,22.0,2021-05-07,AAL
+Block (SQ),05/07,L,buy,233.35,2021-05-07,SQ
 Bumble (BMBL),05/07,D,buy,57.99,2021-05-07,BMBL
 Calix Networks (CALX),05/07,L,positive,48.0,2021-05-07,CALX
 Centene (CNC),05/07,D,buy,70.45,2021-05-07,CNC
@@ -5083,7 +5084,6 @@ Rigel Pharmaceuticals Inc (RIGL),05/07,L,negative,3.38,2021-05-07,RIGL
 Roblox (RBLX),05/07,D,negative,67.9,2021-05-07,RBLX
 Simon Property Group (SPG),05/07,D,buy,124.94,2021-05-07,SPG
 Southwest Airlines (LUV),05/07,L,buy,61.66,2021-05-07,LUV
-Square (SQ),05/07,L,buy,233.35,2021-05-07,SQ
 The Honest Company (HNST),05/07,F,buy,19.08,2021-05-07,HNST
 Tyson Foods (TSN),05/07,D,positive,78.82,2021-05-07,TSN
 Vizio (VZIO),05/07,D,positive,26.46,2021-05-07,VZIO
@@ -5125,11 +5125,11 @@ Uranium Energy (UEC),05/11,L,sell,3.04,2021-05-11,UEC
 Zoom Video Communications (ZM),05/11,D,negative,300.25,2021-05-11,ZM
 j2 Global Communications (JCOM),05/11,I,buy,122.83,2021-05-11,JCOM
 Berkshire Hathaway (BRK.B),05/12,L,buy,282.91,2021-05-12,BRK.B
+Block (SQ),05/12,D,negative,206.67,2021-05-12,SQ
 Boston Omaha (BOMN),05/12,L,negative,25.29,2021-05-12,BOMN
 NortonLifeLock (NLOK),05/12,I,buy,25.03,2021-05-12,NLOK
 Roku (ROKU),05/12,D,negative,308.03,2021-05-12,ROKU
 Silvergate Capital (SI),05/12,L,positive,80.82,2021-05-12,SI
-Square (SQ),05/12,D,negative,206.67,2021-05-12,SQ
 Teladoc (TDOC),05/12,D,negative,140.08,2021-05-12,TDOC
 Tesla (TSLA),05/12,D,negative,589.89,2021-05-12,TSLA
 Wynn Resorts (WYNN),05/12,I,buy,120.91,2021-05-12,WYNN
@@ -5180,6 +5180,7 @@ Advanced Micro Devices (AMD),05/17,D,buy,74.65,2021-05-17,AMD
 Airbnb (ABNB),05/17,D,positive,132.5,2021-05-17,ABNB
 Anthem (ANTM),05/17,L,buy,393.66,2021-05-17,ANTM
 Beyond Meat (BYND),05/17,L,buy,102.51,2021-05-17,BYND
+Block (SQ),05/17,D,negative,202.92,2021-05-17,SQ
 Coinbase Global (COIN),05/17,D,negative,248.24,2021-05-17,COIN
 Emergent BioSolutions (EBS),05/17,L,sell,60.29,2021-05-17,EBS
 Etsy (ETSY),05/17,D,negative,165.18,2021-05-17,ETSY
@@ -5191,7 +5192,6 @@ Roblox (RBLX),05/17,D,positive,76.93,2021-05-17,RBLX
 Roku (ROKU),05/17,D,positive,312.43,2021-05-17,ROKU
 Salesforce (CRM),05/17,D,buy,215.06,2021-05-17,CRM
 Snowflake (SNOW),05/17,L,positive,212.65,2021-05-17,SNOW
-Square (SQ),05/17,D,negative,202.92,2021-05-17,SQ
 Tuscan Holdings (THCB),05/17,L,negative,10.57,2021-05-17,THCB
 United Micro Electronics (UMC),05/17,L,buy,8.17,2021-05-17,UMC
 UnitedHealth Group (UNH),05/17,L,buy,408.63,2021-05-17,UNH
@@ -5401,6 +5401,7 @@ Walmart (WMT),06/11,D,buy,140.75,2021-06-11,WMT
 Adobe Systems (ADBE),06/14,D,buy,556.95,2021-06-14,ADBE
 American Express (AXP),06/14,I,buy,163.81,2021-06-14,AXP
 Apple (AAPL),06/14,D,buy,130.48,2021-06-14,AAPL
+Block (SQ),06/14,D,buy,230.95,2021-06-14,SQ
 Corsair Gaming (CRSR),06/14,D,sell,36.0,2021-06-14,CRSR
 Johnson & Johnson (JNJ),06/14,L,buy,165.37,2021-06-14,JNJ
 Lockheed Martin (LMT),06/14,L,buy,389.11,2021-06-14,LMT
@@ -5411,7 +5412,6 @@ Netflix (NFLX),06/14,D,buy,499.89,2021-06-14,NFLX
 OraSure Technologies (OSUR),06/14,L,sell,9.51,2021-06-14,OSUR
 PayPal (PYPL),06/14,D,buy,274.93,2021-06-14,PYPL
 Roku (ROKU),06/14,D,negative,364.86,2021-06-14,ROKU
-Square (SQ),06/14,D,buy,230.95,2021-06-14,SQ
 Twilio (TWLO),06/14,D,negative,343.07,2021-06-14,TWLO
 ViacomCBS (VIAC),06/14,L,buy,42.63,2021-06-14,VIAC
 Vulcan Materials (VMC),06/14,L,buy,171.73,2021-06-14,VMC
@@ -5445,6 +5445,7 @@ Abbott Laboratories (ABT),06/17,L,buy,111.63,2021-06-17,ABT
 Advanced Micro Devices (AMD),06/17,D,buy,84.56,2021-06-17,AMD
 Apple (AAPL),06/17,D,buy,131.79,2021-06-17,AAPL
 Azek Company (AZEK),06/17,I,buy,39.58,2021-06-17,AZEK
+Block (SQ),06/17,D,buy,236.13,2021-06-17,SQ
 Celsius Holdings (CELH),06/17,L,buy,64.63,2021-06-17,CELH
 Clean Energy Fuels (CLNE),06/17,I,buy,11.12,2021-06-17,CLNE
 Dexcom (DXCM),06/17,L,buy,412.45,2021-06-17,DXCM
@@ -5455,7 +5456,6 @@ NVIDIA (NVDA),06/17,D,buy,746.29,2021-06-17,NVDA
 Netflix (NFLX),06/17,D,buy,498.34,2021-06-17,NFLX
 PayPal (PYPL),06/17,D,buy,278.11,2021-06-17,PYPL
 Senseonics (SENS),06/17,L,negative,3.62,2021-06-17,SENS
-Square (SQ),06/17,D,buy,236.13,2021-06-17,SQ
 Accenture (ACN),06/18,D,buy,281.25,2021-06-18,ACN
 Advanced Micro Devices (AMD),06/18,D,buy,84.65,2021-06-18,AMD
 Ashford Hospitality Trust (AHT),06/18,L,sell,5.09,2021-06-18,AHT
@@ -5580,6 +5580,7 @@ Reinvent Technology Partn (RTPZ),06/29,L,buy,9.93,2021-06-29,RTPZ
 Adobe Systems (ADBE),06/30,D,buy,585.64,2021-06-30,ADBE
 American Express (AXP),06/30,D,buy,165.23,2021-06-30,AXP
 Apple (AAPL),06/30,D,buy,136.96,2021-06-30,AAPL
+Block (SQ),06/30,D,buy,243.8,2021-06-30,SQ
 Constellation Brands (STZ),06/30,I,buy,233.89,2021-06-30,STZ
 Digital Realty Trust (DLR),06/30,L,buy,150.46,2021-06-30,DLR
 Etsy (ETSY),06/30,D,buy,205.84,2021-06-30,ETSY
@@ -5589,7 +5590,6 @@ Haemonetics (HAE),06/30,L,buy,66.64,2021-06-30,HAE
 Meta (FB),06/30,D,buy,347.71,2021-06-30,FB
 RH (RH),06/30,F,buy,679.0,2021-06-30,RH
 Sorrento Therapeutics (SRNE),06/30,L,negative,9.69,2021-06-30,SRNE
-Square (SQ),06/30,D,buy,243.8,2021-06-30,SQ
 Virgin Galactic (SPCE),06/30,L,sell,46.0,2021-06-30,SPCE
 Wix.com (WIX),06/30,D,buy,290.28,2021-06-30,WIX
 Zynex (ZYXI),06/30,L,buy,15.53,2021-06-30,ZYXI
@@ -5867,6 +5867,7 @@ XL Fleet (XL),07/29,L,positive,6.84,2021-07-29,XL
 Affirm (AFRM),08/02,D,buy,64.71,2021-08-02,AFRM
 Alibaba (BABA),08/02,D,sell,200.09,2021-08-02,BABA
 Baidu.com (BIDU),08/02,D,sell,166.61,2021-08-02,BIDU
+Block (SQ),08/02,D,buy,272.38,2021-08-02,SQ
 Coupang (CPNG),08/02,L,positive,36.74,2021-08-02,CPNG
 DiDi Global (DIDI),08/02,D,sell,10.38,2021-08-02,DIDI
 DoorDash (DASH),08/02,D,buy,177.63,2021-08-02,DASH
@@ -5881,7 +5882,6 @@ Roku (ROKU),08/02,D,buy,421.37,2021-08-02,ROKU
 Snap (SNAP),08/02,D,buy,73.5,2021-08-02,SNAP
 Southwest Airlines (LUV),08/02,L,buy,49.74,2021-08-02,LUV
 Spirit Airlines (SAVE),08/02,L,sell,26.81,2021-08-02,SAVE
-Square (SQ),08/02,D,buy,272.38,2021-08-02,SQ
 Twitter (TWTR),08/02,D,positive,69.13,2021-08-02,TWTR
 Apple (AAPL),08/03,D,buy,147.36,2021-08-03,AAPL
 Aurinia Pharmaceuticals (AUPH),08/03,L,negative,13.3,2021-08-03,AUPH
@@ -6238,6 +6238,7 @@ Uber (UBER),09/21,F,buy,44.36,2021-09-21,UBER
 UnitedHealth Group (UNH),09/21,L,buy,412.34,2021-09-21,UNH
 AbCellera Biologics (ABCL),09/22,L,buy,21.34,2021-09-22,ABCL
 Adobe Systems (ADBE),09/22,D,buy,626.08,2021-09-22,ADBE
+Block (SQ),09/22,D,positive,261.07,2021-09-22,SQ
 Chevron (CVX),09/22,L,buy,97.64,2021-09-22,CVX
 ConocoPhillips (COP),09/22,L,buy,62.26,2021-09-22,COP
 Devon Energy (DVN),09/22,L,buy,30.44,2021-09-22,DVN
@@ -6246,7 +6247,6 @@ Laredo Petroleum (LPI),09/22,L,negative,76.53,2021-09-22,LPI
 Lightspeed POS (LSPD),09/22,D,positive,124.41,2021-09-22,LSPD
 PAR Technologies (PAR),09/22,D,positive,64.85,2021-09-22,PAR
 Pioneer Natural Resources (PXD),09/22,L,buy,150.05,2021-09-22,PXD
-Square (SQ),09/22,D,positive,261.07,2021-09-22,SQ
 Standard Lithium (SLI),09/22,I,buy,7.04,2021-09-22,SLI
 Toast (TOST),09/22,F,sell,62.51,2021-09-22,TOST
 Ulta Beauty (ULTA),09/22,L,buy,375.85,2021-09-22,ULTA
@@ -6269,6 +6269,7 @@ Walt Disney (DIS),09/23,D,negative,176.25,2021-09-23,DIS
 Wynn Resorts (WYNN),09/23,I,buy,83.83,2021-09-23,WYNN
 American Express (AXP),09/27,D,buy,176.77,2021-09-27,AXP
 Apple (AAPL),09/27,D,buy,145.37,2021-09-27,AAPL
+Block (SQ),09/27,L,buy,258.11,2021-09-27,SQ
 Canopy Growth (CGC),09/27,L,sell,14.71,2021-09-27,CGC
 Chevron (CVX),09/27,D,buy,102.97,2021-09-27,CVX
 ConocoPhillips (COP),09/27,D,buy,66.71,2021-09-27,COP
@@ -6281,7 +6282,6 @@ Moneygram (MGI),09/27,L,sell,8.56,2021-09-27,MGI
 PayPal (PYPL),09/27,L,buy,273.39,2021-09-27,PYPL
 Pioneer Natural Resources (PXD),09/27,D,buy,168.02,2021-09-27,PXD
 Scotts Miracle-Gro (SMG),09/27,L,buy,147.46,2021-09-27,SMG
-Square (SQ),09/27,L,buy,258.11,2021-09-27,SQ
 Tellurian (TELL),09/27,D,buy,4.09,2021-09-27,TELL
 Tesla (TSLA),09/27,D,buy,791.36,2021-09-27,TSLA
 Union Pacific (UNP),09/27,I,buy,203.96,2021-09-27,UNP
@@ -6426,6 +6426,7 @@ Workday (WDAY),10/12,D,positive,257.19,2021-10-12,WDAY
 AGCO (AGCO),10/13,L,buy,125.28,2021-10-13,AGCO
 Affirm (AFRM),10/13,D,buy,146.13,2021-10-13,AFRM
 Apple (AAPL),10/13,F,buy,140.91,2021-10-13,AAPL
+Block (SQ),10/13,D,buy,242.73,2021-10-13,SQ
 Cintas (CTAS),10/13,D,buy,405.33,2021-10-13,CTAS
 Costco (COST),10/13,D,buy,445.3,2021-10-13,COST
 Cummins (CMI),10/13,L,buy,231.54,2021-10-13,CMI
@@ -6440,7 +6441,6 @@ PayPal (PYPL),10/13,D,buy,256.36,2021-10-13,PYPL
 Paychex (PAYX),10/13,D,buy,117.46,2021-10-13,PAYX
 Robinhood (HOOD),10/13,D,negative,40.52,2021-10-13,HOOD
 SoFi Technologies (SOFI),10/13,D,buy,18.92,2021-10-13,SOFI
-Square (SQ),10/13,D,buy,242.73,2021-10-13,SQ
 Starbucks (SBUX),10/13,D,buy,110.76,2021-10-13,SBUX
 TotalEnergies (TTE),10/13,L,buy,50.36,2021-10-13,TTE
 Upstart (UPST),10/13,D,buy,344.89,2021-10-13,UPST
@@ -6463,6 +6463,7 @@ American Airlines (AAL),10/15,D,positive,19.98,2021-10-15,AAL
 American Express (AXP),10/15,D,buy,175.81,2021-10-15,AXP
 Bank of America (BAC),10/15,D,buy,46.37,2021-10-15,BAC
 Biohaven Pharmaceuticals (BHVN),10/15,L,buy,133.61,2021-10-15,BHVN
+Block (SQ),10/15,D,buy,249.0,2021-10-15,SQ
 CSX (CSX),10/15,D,negative,34.16,2021-10-15,CSX
 Goldman Sachs (GS),10/15,D,buy,406.07,2021-10-15,GS
 GrowGeneration (GRWG),10/15,L,sell,21.91,2021-10-15,GRWG
@@ -6481,7 +6482,6 @@ RadNet (RDNT),10/15,L,buy,28.78,2021-10-15,RDNT
 Schlumberger (SLB),10/15,D,buy,34.0,2021-10-15,SLB
 Snap (SNAP),10/15,D,buy,77.34,2021-10-15,SNAP
 Southwest Airlines (LUV),10/15,D,positive,50.36,2021-10-15,LUV
-Square (SQ),10/15,D,buy,249.0,2021-10-15,SQ
 Tesla (TSLA),10/15,D,buy,843.03,2021-10-15,TSLA
 Ulta Beauty (ULTA),10/15,D,buy,405.72,2021-10-15,ULTA
 Union Pacific (UNP),10/15,D,negative,225.16,2021-10-15,UNP
@@ -6549,6 +6549,7 @@ Veritiv (VRTV),10/20,L,positive,102.71,2021-10-20,VRTV
 XL Fleet (XL),10/20,L,sell,5.57,2021-10-20,XL
 Zoom Video Communications (ZM),10/20,D,negative,275.71,2021-10-20,ZM
 indie Semiconductor (INDI),10/20,L,positive,11.35,2021-10-20,INDI
+Block (SQ),10/21,L,buy,265.08,2021-10-21,SQ
 Cassava Sciences (SAVA),10/21,L,positive,46.56,2021-10-21,SAVA
 Costco (COST),10/21,D,positive,477.23,2021-10-21,COST
 Dow (DOW),10/21,L,buy,59.26,2021-10-21,DOW
@@ -6557,7 +6558,6 @@ Marqeta (MQ),10/21,L,negative,27.47,2021-10-21,MQ
 Mattel (MAT),10/21,I,buy,20.33,2021-10-21,MAT
 Robinhood (HOOD),10/21,I,buy,41.28,2021-10-21,HOOD
 Snap (SNAP),10/21,D,sell,75.11,2021-10-21,SNAP
-Square (SQ),10/21,L,buy,265.08,2021-10-21,SQ
 Walmart (WMT),10/21,D,positive,146.81,2021-10-21,WMT
 Whirlpool (WHR),10/21,I,buy,207.9,2021-10-21,WHR
 3M (MMM),10/26,D,negative,182.16,2021-10-26,MMM
@@ -6613,6 +6613,7 @@ Standard Lithium (SLI),10/28,L,negative,12.26,2021-10-28,SLI
 WeWork (WE),10/28,L,buy,10.57,2021-10-28,WE
 Apple (AAPL),10/29,D,buy,149.8,2021-10-29,AAPL
 BP (BP),10/29,D,positive,28.79,2021-10-29,BP
+Block (SQ),10/29,D,positive,254.5,2021-10-29,SQ
 Brunswick (BC),10/29,D,buy,93.09,2021-10-29,BC
 CVS Health (CVS),10/29,D,buy,89.28,2021-10-29,CVS
 Clorox (CLX),10/29,D,negative,163.01,2021-10-29,CLX
@@ -6638,7 +6639,6 @@ Pfizer (PFE),10/29,D,negative,43.74,2021-10-29,PFE
 Pioneer Natural Resources (PXD),10/29,D,buy,186.98,2021-10-29,PXD
 Qualcomm (QCOM),10/29,D,positive,133.04,2021-10-29,QCOM
 Skyworks Solutions (SWKS),10/29,D,negative,167.13,2021-10-29,SWKS
-Square (SQ),10/29,D,positive,254.5,2021-10-29,SQ
 Stanley Black & Decker (SWK),10/29,D,buy,179.73,2021-10-29,SWK
 T-Mobile US (TMUS),10/29,D,buy,115.03,2021-10-29,TMUS
 Uber (UBER),10/29,D,negative,43.82,2021-10-29,UBER
@@ -6830,6 +6830,7 @@ New Relic (NEWR),11/15,L,buy,121.17,2021-11-15,NEWR
 Plug Power (PLUG),11/15,L,negative,41.82,2021-11-15,PLUG
 Taiwan Semiconductor (TSM),11/15,L,buy,118.12,2021-11-15,TSM
 Twilio (TWLO),11/15,I,buy,304.5,2021-11-15,TWLO
+Block (SQ),11/16,I,buy,238.47,2021-11-16,SQ
 Cassava Sciences (SAVA),11/16,L,sell,61.69,2021-11-16,SAVA
 Doximity (DOCS),11/16,L,buy,67.8,2021-11-16,DOCS
 Eli Lilly (LLY),11/16,L,buy,257.72,2021-11-16,LLY
@@ -6837,13 +6838,13 @@ Intel (INTC),11/16,I,buy,50.61,2021-11-16,INTC
 Lucid Group (LCID),11/16,I,buy,55.52,2021-11-16,LCID
 Root (ROOT),11/16,L,sell,5.0,2021-11-16,ROOT
 Salesforce (CRM),11/16,L,buy,307.09,2021-11-16,CRM
-Square (SQ),11/16,I,buy,238.47,2021-11-16,SQ
 ViacomCBS (VIAC),11/16,L,buy,35.15,2021-11-16,VIAC
 Walmart (WMT),11/16,F,buy,143.17,2021-11-16,WMT
 Zeta Global (ZETA),11/16,L,sell,9.14,2021-11-16,ZETA
 Affirm (AFRM),11/17,D,buy,151.72,2021-11-17,AFRM
 Airbnb (ABNB),11/17,D,buy,199.11,2021-11-17,ABNB
 Amyris (AMRS),11/17,L,positive,7.24,2021-11-17,AMRS
+Block (SQ),11/17,D,buy,231.85,2021-11-17,SQ
 CSX (CSX),11/17,L,negative,35.54,2021-11-17,CSX
 Canopy Growth (CGC),11/17,L,negative,13.6,2021-11-17,CGC
 Cisco Systems (CSCO),11/17,I,buy,56.76,2021-11-17,CSCO
@@ -6853,7 +6854,6 @@ Okta (OKTA),11/17,I,buy,266.42,2021-11-17,OKTA
 Rio Tinto (RIO),11/17,L,sell,60.67,2021-11-17,RIO
 Rivian (RIVN),11/17,D,buy,146.07,2021-11-17,RIVN
 Skyworks Solutions (SWKS),11/17,I,buy,162.97,2021-11-17,SWKS
-Square (SQ),11/17,D,buy,231.85,2021-11-17,SQ
 Union Pacific (UNP),11/17,L,buy,239.75,2021-11-17,UNP
 Walmart (WMT),11/17,D,buy,141.94,2021-11-17,WMT
 Affirm (AFRM),11/18,D,positive,139.13,2021-11-18,AFRM
@@ -7657,3 +7657,28 @@ GameStop (GME),02/24,D,sell,124.58,2022-02-24,GME
 Linde (LIN),02/24,L,buy,285.25,2022-02-24,LIN
 Revolve Group (RVLV),02/24,I,buy,51.73,2022-02-24,RVLV
 Switch (SWCH),02/24,L,buy,24.18,2022-02-24,SWCH
+Airbnb (ABNB),02/25,D,buy,155.09,2022-02-25,ABNB
+Barrick Gold (GOLD),02/25,I,buy,22.56,2022-02-25,GOLD
+Best Buy (BBY),02/25,D,negative,95.83,2022-02-25,BBY
+Block (SQ),02/25,D,buy,119.82,2022-02-25,SQ
+Cedar Fair (FUN),02/25,L,buy,57.07,2022-02-25,FUN
+Ciena (CIEN),02/25,L,sell,68.7,2022-02-25,CIEN
+Cisco Systems (CSCO),02/25,L,buy,56.04,2022-02-25,CSCO
+Costco (COST),02/25,D,buy,517.49,2022-02-25,COST
+Dell (DELL),02/25,D,negative,51.46,2022-02-25,DELL
+Devon Energy (DVN),02/25,D,buy,55.2,2022-02-25,DVN
+Domino's Pizza (DPZ),02/25,D,positive,429.98,2022-02-25,DPZ
+DoorDash (DASH),02/25,D,buy,100.34,2022-02-25,DASH
+Etsy (ETSY),02/25,D,buy,148.94,2022-02-25,ETSY
+HP (HPQ),02/25,D,negative,34.45,2022-02-25,HPQ
+Hertz Global Holdings (HTZ),02/25,L,buy,20.81,2022-02-25,HTZ
+Kohl's (KSS),02/25,D,sell,56.88,2022-02-25,KSS
+MP Materials (MP),02/25,L,buy,46.85,2022-02-25,MP
+Okta (OKTA),02/25,D,negative,177.37,2022-02-25,OKTA
+Peloton (PTON),02/25,D,buy,28.19,2022-02-25,PTON
+Roblox (RBLX),02/25,L,positive,50.05,2022-02-25,RBLX
+Salesforce (CRM),02/25,D,positive,208.09,2022-02-25,CRM
+Snowflake (SNOW),02/25,D,positive,269.42,2022-02-25,SNOW
+Target (TGT),02/25,D,buy,199.22,2022-02-25,TGT
+Workday (WDAY),02/25,D,negative,225.23,2022-02-25,WDAY
+Zoom Video Communications (ZM),02/25,D,negative,125.32,2022-02-25,ZM
