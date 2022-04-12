@@ -6483,11 +6483,7 @@ Schlumberger (SLB),10/15,D,buy,34.0,2021-10-15,SLB
 Snap (SNAP),10/15,D,buy,77.34,2021-10-15,SNAP
 Southwest Airlines (LUV),10/15,D,positive,50.36,2021-10-15,LUV
 Tesla (TSLA),10/15,D,buy,843.03,2021-10-15,TSLA
-Ulta Beauty (ULTA),10/15,D,buy,405.72,2021-10-15,ULTA
-Union Pacific (UNP),10/15,D,negative,225.16,2021-10-15,UNP
 United Continental (UAL),10/15,D,positive,48.0,2021-10-15,UAL
-Verizon (VZ),10/15,D,negative,52.27,2021-10-15,VZ
-Wells Fargo (WFC),10/15,D,buy,48.38,2021-10-15,WFC
 Accolade (ACCD),10/18,F,sell,38.85,2021-10-18,ACCD
 Apple (AAPL),10/18,D,positive,146.55,2021-10-18,AAPL
 Bionano Genomics (BNGO),10/18,L,negative,5.2,2021-10-18,BNGO
@@ -8045,3 +8041,21 @@ Realty Income (O),04/08,L,buy,72.16,2022-04-08,O
 Retail Opportunity Invest (ROIC),04/08,L,sell,19.15,2022-04-08,ROIC
 Signet Jewelers (SIG),04/08,D,buy,70.14,2022-04-08,SIG
 Williams-Sonoma (WSM),04/08,D,buy,146.92,2022-04-08,WSM
+Altria (MO),04/11,L,positive,54.45,2022-04-11,MO
+Apple (AAPL),04/11,D,sell,165.75,2022-04-11,AAPL
+Darden Restaurants (DRI),04/11,D,buy,126.54,2022-04-11,DRI
+Dollar General (DG),04/11,D,positive,240.77,2022-04-11,DG
+DraftKings (DKNG),04/11,L,positive,16.87,2022-04-11,DKNG
+Editas Medicine (EDIT),04/11,L,sell,17.57,2022-04-11,EDIT
+Expedia (EXPE),04/11,D,buy,177.3,2022-04-11,EXPE
+Five Below (FIVE),04/11,D,positive,173.95,2022-04-11,FIVE
+Hershey Foods (HSY),04/11,F,buy,223.93,2022-04-11,HSY
+Levi Strauss (LEVI),04/11,D,positive,18.86,2022-04-11,LEVI
+Lululemon Athletica (LULU),04/11,D,positive,368.74,2022-04-11,LULU
+Marriott International (MAR),04/11,D,buy,162.45,2022-04-11,MAR
+Meta (FB),04/11,D,sell,216.46,2022-04-11,FB
+Netflix (NFLX),04/11,D,sell,348.0,2022-04-11,NFLX
+Nike (NKE),04/11,D,positive,124.98,2022-04-11,NKE
+SoFi Technologies (SOFI),04/11,L,negative,7.72,2022-04-11,SOFI
+Sysco (SYY),04/11,D,buy,84.71,2022-04-11,SYY
+Walt Disney (DIS),04/11,D,buy,130.65,2022-04-11,DIS
