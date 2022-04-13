@@ -6483,7 +6483,11 @@ Schlumberger (SLB),10/15,D,buy,34.0,2021-10-15,SLB
 Snap (SNAP),10/15,D,buy,77.34,2021-10-15,SNAP
 Southwest Airlines (LUV),10/15,D,positive,50.36,2021-10-15,LUV
 Tesla (TSLA),10/15,D,buy,843.03,2021-10-15,TSLA
+Ulta Beauty (ULTA),10/15,D,buy,405.72,2021-10-15,ULTA
+Union Pacific (UNP),10/15,D,negative,225.16,2021-10-15,UNP
 United Continental (UAL),10/15,D,positive,48.0,2021-10-15,UAL
+Verizon (VZ),10/15,D,negative,52.27,2021-10-15,VZ
+Wells Fargo (WFC),10/15,D,buy,48.38,2021-10-15,WFC
 Accolade (ACCD),10/18,F,sell,38.85,2021-10-18,ACCD
 Apple (AAPL),10/18,D,positive,146.55,2021-10-18,AAPL
 Bionano Genomics (BNGO),10/18,L,negative,5.2,2021-10-18,BNGO
@@ -8059,3 +8063,22 @@ Nike (NKE),04/11,D,positive,124.98,2022-04-11,NKE
 SoFi Technologies (SOFI),04/11,L,negative,7.72,2022-04-11,SOFI
 Sysco (SYY),04/11,D,buy,84.71,2022-04-11,SYY
 Walt Disney (DIS),04/11,D,buy,130.65,2022-04-11,DIS
+Apple (AAPL),04/12,D,buy,167.66,2022-04-12,AAPL
+Bank of New York Mellon (BK),04/12,F,buy,47.65,2022-04-12,BK
+Charles Schwab (SCHW),04/12,F,buy,80.07,2022-04-12,SCHW
+Coterra Energy (CTRA),04/12,D,buy,28.37,2022-04-12,CTRA
+Devon Energy (DVN),04/12,D,buy,62.26,2022-04-12,DVN
+Diamondback Energy (FANG),04/12,D,buy,139.18,2022-04-12,FANG
+Energy Transfer (ET),04/12,L,buy,11.36,2022-04-12,ET
+Enterprise Products Partn (EPD),04/12,L,buy,26.44,2022-04-12,EPD
+Gores Guggenheim (GGPI),04/12,L,sell,11.91,2022-04-12,GGPI
+HighPeak Energy (HPK),04/12,F,buy,21.88,2022-04-12,HPK
+Monday.com (MNDY),04/12,L,sell,141.13,2022-04-12,MNDY
+NortonLifeLock (NLOK),04/12,L,sell,26.43,2022-04-12,NLOK
+Pioneer Natural Resources (PXD),04/12,D,buy,252.53,2022-04-12,PXD
+Signature Bank (SBNY),04/12,F,buy,268.69,2022-04-12,SBNY
+State Street (STT),04/12,F,buy,82.25,2022-04-12,STT
+Sunrun (RUN),04/12,L,sell,25.62,2022-04-12,RUN
+Tesla (TSLA),04/12,L,buy,986.95,2022-04-12,TSLA
+Tilray (TLRY),04/12,L,positive,6.23,2022-04-12,TLRY
+Twilio (TWLO),04/12,I,buy,144.84,2022-04-12,TWLO
